@@ -1,0 +1,147 @@
+#!/usr/bin/env ruby
+
+require 'rubygems'
+require 'bundler'
+Bundler.require(:default)
+
+require 'faraday'
+require 'faraday_middleware'
+require 'json'
+require 'pp'
+require 'fileutils'
+
+module Helpers
+  def log(msg)
+    puts "[nsbooks] #{msg}"
+  end
+
+  def dir
+    File.expand_path(File.join('../..', @filename, 'data'), __FILE__)
+  end
+end
+
+class Fetcher
+  include Helpers
+
+  def initialize(access_token, title, filename, slugs, tags)
+    @access_token, @title, @filename, @slugs, @tags = access_token, title, filename, slugs, tags
+  end
+
+  def client
+    @client ||= Faraday.new('https://newsocialist.org.uk', ssl: { ca_path: '/usr/lib/ssl/certs' }) do |f|
+      f.use FaradayMiddleware::FollowRedirects
+      f.headers['Authorization'] = "Bearer #{@access_token}"
+      f.headers['Accept'] = 'application/json'
+      f.adapter :net_http
+    end
+  end
+
+  def posts_from_slugs
+    return [] unless @slugs
+    response = client.get("/ghost/api/v0.1/posts?filter=slug:#{@slugs}%2Bpage:false%2Bstatus:published&formats=mobiledoc&include=author")
+    log "Fetching posts from slugs: Status #{response.status}"
+    log response.body if response.status >= 400
+    JSON.parse(response.body)['posts']
+  end
+
+  def posts_from_tags
+    return [] unless @tags
+    response = client.get("/ghost/api/v0.1/posts?filter=tags:#{@tags}%2Bpage:false%2Bstatus:published&formats=mobiledoc&include=author")
+    log "Fetching posts from tags: Status #{response.status}"
+    log response.body if response.status >= 400
+    JSON.parse(response.body)['posts'] 
+  end
+
+  def call
+    FileUtils.mkdir_p dir
+
+    posts = (posts_from_slugs + posts_from_tags)
+
+    # TODO images?
+
+    posts.tap do |ps|
+      ps.each do |p|
+        file = File.join(dir, p['slug'] + '.md')
+        log "Writing #{file}"
+        File.open file, 'w+' do |f|
+          mobiledoc = JSON.parse(p['mobiledoc'])
+          f << "# #{p['title']}\n"
+          f << mobiledoc['cards'][0][1]['markdown']
+        end
+      end
+    end
+  end
+end
+
+class EpubWriter
+  include Helpers
+
+  def initialize(title, filename)
+    @title, @filename = title, filename
+  end
+
+  def posts
+    @posts ||= Dir[File.join(dir, '*.md')]
+  end
+
+  def tidy_authors
+    # TODO
+  end
+
+  def remove_photo_credits
+    # TODO
+  end
+
+  def correct_footnotes
+    posts.each.with_index do |p, i|
+      log "Correcting footnotes #{p}"
+      `pandoc #{p} --to markdown --id-prefix=post-#{i}- -o #{p}`
+    end
+  end
+
+  def write_title
+    File.open File.join(dir, 'title.txt'), 'w+' do |f|
+      f << "% #{@title}\n% New Socialist\n"
+    end
+  end
+
+  def write_book
+    css = File.expand_path(File.join('../..', 'css', 'style.css'), __FILE__)
+    file = File.expand_path(File.join('../..', @filename, "#{@filename}.epub"), __FILE__)
+    title = File.join(dir, 'title.txt')
+
+    `pandoc --epub-stylesheet=#{css} --toc --toc-depth=1 -S -o #{file} #{title} #{posts.join ' '}`
+  end
+
+  def call
+    FileUtils.mkdir_p dir
+    write_title
+    tidy_authors
+    remove_photo_credits
+    correct_footnotes
+    write_book
+  end
+end
+
+class PdfWriter
+end
+
+opts = Slop.parse do |o|
+  o.string '--title', 'title'
+  o.string '--filename', 'filename without extension'
+  o.string '--slugs', 'slugs'
+  o.string '--tags', 'tags'
+  o.boolean '--fetch', 'fetch markdown posts', default: true
+  o.boolean '--epub', 'write epub', default: false
+  o.boolean '--pdf', 'write pdf', default: false
+end
+
+posts = Fetcher.new(
+  ENV['GHOST_ACCESS_TOKEN'] || raise('access token not found'),
+  opts[:title],
+  opts[:filename],
+  opts[:slugs],
+  opts[:tags]
+).call
+
+EpubWriter.new(opts[:title], opts[:filename]).call if opts[:epub]
