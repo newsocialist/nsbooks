@@ -86,13 +86,15 @@ h1, h2, h3, h4, h5, h6
     /* font-family: "Liberation Serif", "Georgia", "Times New Roman", serif; /* Serif headers */
 
     page-break-after: avoid; /* Firefox, Chrome, and Safari do not support the property value "avoid" */
+    -webkit-hyphens:manual;
+    -moz-hyphens:manual;
+    hyphens:manual;
 }
 
 /* Pandoc with --section-divs option */
 
 div div, section section /* Nested sections */
     {
-    margin-left: 2em; /* This will increasingly indent nested header sections */
     }
 
 p {}

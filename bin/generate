@@ -15,6 +15,10 @@ module Helpers
     puts "[nsbooks] #{msg}"
   end
 
+  def chapters
+    @chapters ||= Dir[File.join(dir, '*.md')]
+  end
+
   def dir
     File.expand_path(File.join('../..', @filename, 'data'), __FILE__)
   end
@@ -23,8 +27,8 @@ end
 class Fetcher
   include Helpers
 
-  def initialize(access_token, title, filename, slugs, tags)
-    @access_token, @title, @filename, @slugs, @tags = access_token, title, filename, slugs, tags
+  def initialize(access_token, filename, slugs, tags)
+    @access_token, @filename, @slugs, @tags = access_token, filename, slugs, tags
   end
 
   def client
@@ -57,31 +61,34 @@ class Fetcher
 
     posts = (posts_from_slugs + posts_from_tags)
 
-    # TODO images?
+    posts.each do |p|
+      file = File.join(dir, p['slug'] + '.md')
+      log "Writing #{file}"
+      File.open file, 'w+' do |f|
+        mobiledoc = JSON.parse(p['mobiledoc'])
+        content = mobiledoc['cards'][0][1]['markdown']
 
-    posts.tap do |ps|
-      ps.each do |p|
-        file = File.join(dir, p['slug'] + '.md')
-        log "Writing #{file}"
-        File.open file, 'w+' do |f|
-          mobiledoc = JSON.parse(p['mobiledoc'])
-          f << "# #{p['title']}\n"
-          f << mobiledoc['cards'][0][1]['markdown']
+        images = content.scan(%r{/content/images[^\)]+})
+        images.each do |i|
+          log "Downloading image #{i}"
+          name = File.basename(i)
+          dest = File.join(dir, name)
+          content = content.gsub(i, dest)
+          `curl -o #{dest} #{File.join('https://newsocialist.org.uk', i)}`
         end
+
+        f << "# #{p['title']}\n"
+        f << content
       end
     end
   end
 end
 
-class EpubWriter
+class Cleaner
   include Helpers
 
-  def initialize(title, filename)
-    @title, @filename = title, filename
-  end
-
-  def posts
-    @posts ||= Dir[File.join(dir, '*.md')]
+  def initialize(filename)
+    @filename = filename
   end
 
   def tidy_authors
@@ -89,36 +96,56 @@ class EpubWriter
   end
 
   def remove_photo_credits
-    # TODO
+    chapters.each do |p|
+      log "Removing photo credit #{p}"
+      original = File.read(p)
+      File.open(p, 'w+') do |f|
+        f << original.gsub(/\*?Photo:.+$/, '')
+      end
+    end
   end
 
   def correct_footnotes
-    posts.each.with_index do |p, i|
+    chapters.each.with_index do |p, i|
       log "Correcting footnotes #{p}"
       `pandoc #{p} --to markdown --id-prefix=post-#{i}- -o #{p}`
     end
   end
 
+  def call
+    tidy_authors
+    remove_photo_credits
+    correct_footnotes
+  end
+end
+
+class EpubWriter
+  include Helpers
+
+  def initialize(filename, title)
+    @filename, @title = filename, title
+  end
+
   def write_title
+    log "Writing epub title"
+
     File.open File.join(dir, 'title.txt'), 'w+' do |f|
       f << "% #{@title}\n% New Socialist\n"
     end
   end
 
   def write_book
+    log "Writing epub"
+
     css = File.expand_path(File.join('../..', 'css', 'style.css'), __FILE__)
     file = File.expand_path(File.join('../..', @filename, "#{@filename}.epub"), __FILE__)
     title = File.join(dir, 'title.txt')
 
-    `pandoc --epub-stylesheet=#{css} --toc --toc-depth=1 -S -o #{file} #{title} #{posts.join ' '}`
+    `pandoc --epub-stylesheet=#{css} --toc --toc-depth=1 -S -o #{file} #{title} #{chapters.join ' '}`
   end
 
   def call
-    FileUtils.mkdir_p dir
     write_title
-    tidy_authors
-    remove_photo_credits
-    correct_footnotes
     write_book
   end
 end
@@ -132,16 +159,13 @@ opts = Slop.parse do |o|
   o.string '--slugs', 'slugs'
   o.string '--tags', 'tags'
   o.boolean '--fetch', 'fetch markdown posts', default: true
+  o.boolean '--clean', 'clean markdown posts', default: true
   o.boolean '--epub', 'write epub', default: false
   o.boolean '--pdf', 'write pdf', default: false
 end
 
-posts = Fetcher.new(
-  ENV['GHOST_ACCESS_TOKEN'] || raise('access token not found'),
-  opts[:title],
-  opts[:filename],
-  opts[:slugs],
-  opts[:tags]
-).call
+token = ENV['GHOST_ACCESS_TOKEN'] || raise('access token not found')
 
-EpubWriter.new(opts[:title], opts[:filename]).call if opts[:epub]
+Fetcher.new(token, opts[:filename], opts[:slugs], opts[:tags]).call if opts[:fetch]
+Cleaner.new(opts[:filename]).call                  if opts[:clean]
+EpubWriter.new(opts[:filename], opts[:title]).call if opts[:epub]
