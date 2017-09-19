@@ -24,6 +24,51 @@ module Helpers
   end
 end
 
+class Post
+  def self.build(json)
+    title = json['title']
+    slug = json['slug']
+    mobiledoc = JSON.parse(json['mobiledoc'])
+    content = mobiledoc['cards'][0][1]['markdown']
+    new(
+      title: title,
+      slug: slug,
+      content: content
+    )
+  end
+
+  attr_accessor :title, :slug, :content, :byline
+
+  def initialize(attrs = {})
+    attrs.each do |k, v|
+      instance_variable_set(:"@#{k}", v)
+    end
+  end
+
+  def download_images!(dir)
+    remote_images.each do |i|
+      name = File.basename(i)
+      dest = File.join(dir, name)
+      `curl -o #{dest} #{i}`
+    end
+  end
+
+  def clean_content!(dir)
+    self.content = content.gsub(/\n\-{3}?\n?\n?\*?Photo:.+$/, '')
+    images.each do |i|
+      self.content = content.gsub(i, File.join(dir, File.basename(i)))
+    end
+  end
+
+  def images
+    @images ||= content.scan(%r{/content/images[^\)]+})
+  end
+
+  def remote_images
+    @remote_images ||= images.map { |i| "https://newsocialist.org.uk#{i}" }
+  end
+end
+
 class Fetcher
   include Helpers
 
@@ -42,18 +87,22 @@ class Fetcher
 
   def posts_from_slugs
     return [] unless @slugs
-    response = client.get("/ghost/api/v0.1/posts?filter=slug:#{@slugs}%2Bpage:false%2Bstatus:published&formats=mobiledoc&include=author")
+    response = client.get("/ghost/api/v0.1/posts?filter=slug:#{@slugs}%2Bpage:false%2Bstatus:published&formats=mobiledoc&include=author&limit=all")
     log "Fetching posts from slugs: Status #{response.status}"
     log response.body if response.status >= 400
-    JSON.parse(response.body)['posts']
+    JSON.parse(response.body)['posts'].map do |p|
+      Post.build(p)
+    end
   end
 
   def posts_from_tags
     return [] unless @tags
-    response = client.get("/ghost/api/v0.1/posts?filter=tags:#{@tags}%2Bpage:false%2Bstatus:published&formats=mobiledoc&include=author")
+    response = client.get("/ghost/api/v0.1/posts?filter=tags:#{@tags}%2Bpage:false%2Bstatus:published&formats=mobiledoc&include=author&limit=all")
     log "Fetching posts from tags: Status #{response.status}"
     log response.body if response.status >= 400
-    JSON.parse(response.body)['posts'] 
+    JSON.parse(response.body)['posts'].map do |p|
+      Post.build(p)
+    end
   end
 
   def call
@@ -62,23 +111,14 @@ class Fetcher
     posts = (posts_from_slugs + posts_from_tags)
 
     posts.each do |p|
-      file = File.join(dir, p['slug'] + '.md')
-      log "Writing #{file}"
+      p.download_images!(dir)
+      p.clean_content!(dir)
+
+      file = File.join(dir, p.slug + '.md')
+      log "Writing #{file} #{p.byline}"
       File.open file, 'w+' do |f|
-        mobiledoc = JSON.parse(p['mobiledoc'])
-        content = mobiledoc['cards'][0][1]['markdown']
-
-        images = content.scan(%r{/content/images[^\)]+})
-        images.each do |i|
-          log "Downloading image #{i}"
-          name = File.basename(i)
-          dest = File.join(dir, name)
-          content = content.gsub(i, dest)
-          `curl -o #{dest} #{File.join('https://newsocialist.org.uk', i)}`
-        end
-
-        f << "# #{p['title']}\n"
-        f << content
+        f << "# #{p.title}\n"
+        f << p.content
       end
     end
   end
@@ -91,20 +131,6 @@ class Cleaner
     @filename = filename
   end
 
-  def tidy_authors
-    # TODO
-  end
-
-  def remove_photo_credits
-    chapters.each do |p|
-      log "Removing photo credit #{p}"
-      original = File.read(p)
-      File.open(p, 'w+') do |f|
-        f << original.gsub(/\*?Photo:.+$/, '')
-      end
-    end
-  end
-
   def correct_footnotes
     chapters.each.with_index do |p, i|
       log "Correcting footnotes #{p}"
@@ -113,8 +139,6 @@ class Cleaner
   end
 
   def call
-    tidy_authors
-    remove_photo_credits
     correct_footnotes
   end
 end
@@ -139,9 +163,10 @@ class EpubWriter
 
     css = File.expand_path(File.join('../..', 'css', 'style.css'), __FILE__)
     file = File.expand_path(File.join('../..', @filename, "#{@filename}.epub"), __FILE__)
+    cover = File.expand_path(File.join('../..', @filename, 'data/cover.png'), __FILE__)
     title = File.join(dir, 'title.txt')
 
-    `pandoc --epub-stylesheet=#{css} --toc --toc-depth=1 -S -o #{file} #{title} #{chapters.join ' '}`
+    `pandoc --epub-cover-image=#{cover} --epub-stylesheet=#{css} --toc --toc-depth=1 -S -o #{file} #{title} #{chapters.join ' '}`
   end
 
   def call
@@ -151,6 +176,29 @@ class EpubWriter
 end
 
 class PdfWriter
+  include Helpers
+
+  def initialize(filename, title)
+    @filename, @title = filename, title
+  end
+
+  def call
+    log "Writing pdf"
+    file = File.expand_path(File.join('../..', @filename, "#{@filename}.pdf"), __FILE__)
+    `pandoc -H includes/header.tex \
+        -V subparagraph \
+        -V urlcolor=red \
+        -V mainfont="Helvetica" \
+        -V sansfont="Helvetica" \
+        -V fontsize=14pt \
+        -V linestretch=1.1 \
+        -V documentclass=extreport \
+        -V geometry:a4paper \
+        --top-level-division=chapter \
+        --toc --toc-depth=1 \
+        --latex-engine=xelatex \
+        -o #{file} #{chapters.join ' '}`
+  end
 end
 
 opts = Slop.parse do |o|
@@ -167,5 +215,6 @@ end
 token = ENV['GHOST_ACCESS_TOKEN'] || raise('access token not found')
 
 Fetcher.new(token, opts[:filename], opts[:slugs], opts[:tags]).call if opts[:fetch]
-Cleaner.new(opts[:filename]).call                  if opts[:clean]
+Cleaner.new(opts[:filename]).call if opts[:clean]
 EpubWriter.new(opts[:filename], opts[:title]).call if opts[:epub]
+PdfWriter.new(opts[:filename], opts[:title]).call if opts[:pdf]
