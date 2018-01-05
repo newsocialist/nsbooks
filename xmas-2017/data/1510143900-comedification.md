@@ -36,21 +36,26 @@ collectivism baked into it in the audience-performer interaction, it
 would be wrong to say therefore that stand-up is necessarily leftist.
 Nonetheless, the ethics emerging from the structure constituted by the
 relation of comedian to audience makes stand-up a potentially fertile
-terrain for the left. \#\# Fascism Comedifies Politics Described by some
-as a ‘comedian’, Milo is, however, no stand-up comic: relying on
-lecterns and PowerPoint presentations, he avoids the nakedness of
-genuine stand-up performance. These props of his serve as armour for the
-‘intellectual’ character act, the charade he has constructed. They work
-as defences against audience criticism and possibly against his own
-self-doubt. The stand-up comedian, by contrast, is generally naked: they
-have nothing with which to guard themselves against the audience but
-their body and speech. Yiannopoulos’s performances, therefore (and they
-are certainly performances), may make his audiences laugh – and in that
-sense they could be described as comedy. They are certainly not
-stand-up, however, for they lack this radical baring of oneself to the
-audience sans assisting props: Milo symbolically shields himself from
-the crowd (or tries to), giving no opportunity for the display of
-abjection often found in stand-up as an art form proper.
+terrain for the left.
+
+Fascism Comedifies Politics
+---------------------------
+
+Described by some as a ‘comedian’, Milo is, however, no stand-up comic:
+relying on lecterns and PowerPoint presentations, he avoids the
+nakedness of genuine stand-up performance. These props of his serve as
+armour for the ‘intellectual’ character act, the charade he has
+constructed. They work as defences against audience criticism and
+possibly against his own self-doubt. The stand-up comedian, by contrast,
+is generally naked: they have nothing with which to guard themselves
+against the audience but their body and speech. Yiannopoulos’s
+performances, therefore (and they are certainly performances), may make
+his audiences laugh – and in that sense they could be described as
+comedy. They are certainly not stand-up, however, for they lack this
+radical baring of oneself to the audience sans assisting props: Milo
+symbolically shields himself from the crowd (or tries to), giving no
+opportunity for the display of abjection often found in stand-up as an
+art form proper.
 
 If Milo stretches the definition of ‘comedian’, Sam Hyde sits more
 comfortably in that category. A viral video producer and member of
@@ -77,26 +82,29 @@ should dispel any notion of irony. Nonetheless it’s this liminal
 position – is it a joke or not? – that gives him a certain power.
 Yiannopoulos has benefited from a similar ambiguity, being seen by some
 as a provocateur who doesn’t really believe what he says, this quality
-lending him legitimacy even when he insists he does believe it. \#\#
-This is outrageous; it’s contagious Alongside these far-right attempts
-at humour comes a particular theory of comedy as a carnivalesque space
-in which anything can be said or done, rather than as an art form which
-comes with the same ethical and political responsibilities for the
-author as any other. Memes like Pepe and the ‘shitlord culture’ of 4chan
-are part of this constellation of far-right humour. Yiannopoulos praises
-this new comedic thing for its fearless, ‘mischievous’ explosion beyond
-the limits of acceptable discourse, and tends to falsely construes much
-of its antics as knowing irony borne of frustration with PC
-speech-policing, rather than as genuine fascist speech. In this
-reactionary theory of comedy, which works as a cover for propaganda,
-outrage and offense are made to be central. Within this putatively
-value-free space of comedy, one finds what Theweleit called the ‘utopia
-of fascism \[as\] an edenic freedom from responsibility’. Therefore a
-theory of comedy as a space of unrestricted speech, free from
-responsibility, allows real politics to masquerade hypocritically as a
-joke in a way that trivialises politics; that comedifies it. Thus,
-following Benjamin, if the right comedifies politics, the left should
-politicise comedy.
+lending him legitimacy even when he insists he does believe it.
+
+This Is Outrageous; It’s Contagious
+-----------------------------------
+
+Alongside these far-right attempts at humour comes a particular theory
+of comedy as a carnivalesque space in which anything can be said or
+done, rather than as an art form which comes with the same ethical and
+political responsibilities for the author as any other. Memes like Pepe
+and the ‘shitlord culture’ of 4chan are part of this constellation of
+far-right humour. Yiannopoulos praises this new comedic thing for its
+fearless, ‘mischievous’ explosion beyond the limits of acceptable
+discourse, and tends to falsely construes much of its antics as knowing
+irony borne of frustration with PC speech-policing, rather than as
+genuine fascist speech. In this reactionary theory of comedy, which
+works as a cover for propaganda, outrage and offense are made to be
+central. Within this putatively value-free space of comedy, one finds
+what Theweleit called the ‘utopia of fascism \[as\] an edenic freedom
+from responsibility’. Therefore a theory of comedy as a space of
+unrestricted speech, free from responsibility, allows real politics to
+masquerade hypocritically as a joke in a way that trivialises politics;
+that comedifies it. Thus, following Benjamin, if the right comedifies
+politics, the left should politicise comedy.
 
 Can Sam Hyde’s activities be classified as stand-up comedy? His primary
 audience seems to be his sympathisers watching via the internet, rather
@@ -118,7 +126,10 @@ tension – but if a comic challenges the crowd to see the world
 differently, or even offends them, they at least attempt to do it while
 getting them to laugh along, and are all the more persuasive for that.
 Total contempt for the audience is rare, and not sustainable for a
-stand-up comedian. \#\# Comedy and Contradiction
+stand-up comedian.
+
+Comedy and Contradiction
+------------------------
 
 Though stand-up comedy as bigotry, as in the reinforcement of existing
 social relations through mockery, is nothing new, the form can also be
@@ -137,19 +148,23 @@ about this tension. This makes comedy inherently critical, though not
 necessarily liberatory. It’s a weapon that can be used for progressive
 or regressive ends. Anti-racism, respect for women’s rights and gay
 rights, for example, can be construed as ‘sacred cows’ and turned
-flipside through comedy, as they are in Sam Hyde’s performances. When
-this communality is lost, stand-up comedy has become something else.
-Audience participation in comedy – the more or less subtle communication
-between comic and crowd, the ineffable sense of a room’s tone – means
-that the stand-up comedian is never really browbeating or standing apart
-from them. The comic and the audience are, ultimately, on the same side.
-Thus comedy scholar John Limon remarks that ‘it is hard to fathom how a
-stand-up performance can be outrageous, that is to say (etymologically)
-outré, outside the circle. In standup as opposed to all other modes of
-art and entertainment, there is only the circle.’ In stand-up at least,
-outrageousness and offensiveness actually detract from the work – contra
-the reactionary theory of comedy, upheld by Yiannopoulos and others,
-which centres them. \#\# Stand-up comedians and progressive struggles
+flipside through comedy, as they are in Sam Hyde’s performances.
+
+When this communality is lost, stand-up comedy has become something
+else. Audience participation in comedy – the more or less subtle
+communication between comic and crowd, the ineffable sense of a room’s
+tone – means that the stand-up comedian is never really browbeating or
+standing apart from them. The comic and the audience are, ultimately, on
+the same side. Thus comedy scholar John Limon remarks that ‘it is hard
+to fathom how a stand-up performance can be outrageous, that is to say
+(etymologically) outré, outside the circle. In standup as opposed to all
+other modes of art and entertainment, there is only the circle.’ In
+stand-up at least, outrageousness and offensiveness actually detract
+from the work – contra the reactionary theory of comedy, upheld by
+Yiannopoulos and others, which centres them.
+
+Stand-up Comedians and Progressive Struggles
+--------------------------------------------
 
 Stand-up comedians playing a role in progressive politics is nothing
 new: Dick Gregory was as much an activist in the civil rights movement
@@ -164,6 +179,7 @@ advocacy and social criticism in her comedy, much of which deals with
 mental health. In her stand-up she explores her struggles with
 depression, anxiety, bipolar-II and a form of obsessive-compulsive
 disorder from which she suffers called unwanted thoughts syndrome.
+
 Bamford’s humour often arises from the tension between the smiling
 façade people present to the world and the truth of their inner life. In
 a bit about how Paula Deen’s recipes all read ‘like a suicide note’,
@@ -270,11 +286,14 @@ his buddies/corporate entities. And I made those changes. And then the
 man says, “I’ll give you a big bag of money if you just say what I want
 you to say.” And I took that big bag of money and I said exactly what he
 wanted me to say. And now I’m re-decorating my house in shades of grey!
-\#\# Dave Chappelle and the ambiguities of Comedy Success At the height
-of comic superstardom, Dave Chappelle has seen these problems first
-hand. Echoing Bamford’s concerns about ‘the Man’, Chappelle expresses a
-frustration with the ethical and political compromises big-name comics
-are sometimes pressured to make:
+
+Dave Chappelle and the Ambiguities of Comedy Success
+----------------------------------------------------
+
+At the height of comic superstardom, Dave Chappelle has seen these
+problems first hand. Echoing Bamford’s concerns about ‘the Man’,
+Chappelle expresses a frustration with the ethical and political
+compromises big-name comics are sometimes pressured to make:
 
 > Maybe corporate America fucks with human beings like they’re products
 > and investments. Maybe a motherfucker brings you into a room and says,
