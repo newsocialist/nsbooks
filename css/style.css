@@ -1,6 +1,12 @@
 /* This defines styles and classes used in the book */
 body { margin: 5%; color: #333; text-align: justify; font-size: medium; font-family: Helvetica, Arial, sans-serif; line-height: 1.2em; }
 code { font-family: monospace; }
+h1, h2, h3 {
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  hyphens: none;
+  line-height: 1.3em;
+}
 h1 { text-align: left; }
 h2 { text-align: left; }
 h3 { text-align: left; }
@@ -14,3 +20,5 @@ a { color: red }
 .toc { padding: 0; margin-left: 2em; }
 .toc li { list-style-type: number; margin: 0 0 1em 0; padding: 0; }
 .toc a { color: #333; }
+cite { font-style: italic; margin-top: 1em; }
+sup { font-size: 60%; }
