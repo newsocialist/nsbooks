@@ -127,11 +127,11 @@ back of their efforts and the assumption of their continued existence
 that gig economy companies have been able to climb to such vertiginous
 valuations.
 
-Monopolised Capital - Precarious Labour
----------------------------------------
+Monopolised Capital—Precarious Labour
+-------------------------------------
 
 In a way, then, the real innovation behind the gig economy—the real
-reason behind it economic inevitability—isn’t primarily technical. It’s
+reason behind its economic inevitability—isn’t primarily technical. It’s
 in the way technological change interacts with labour, giving rise to a
 new type of corporation. In [Platform
 Capitalism](http://salvage.zone/online-exclusive/platform-capitalism-and-value-form/),
@@ -245,7 +245,7 @@ there. We have to remember that before anything else, we are human
 beings living in a society of other human beings and that everything
 we’ve constructed is just artifice on top of that.
 
-These companies and the people who work for them, did not personally
+These companies, and the people who work for them, did not personally
 create the conditions of precarity that allowed them to accumulate power
 and profit on an enormous scale. They are not to blame for these
 preconditions. But if we ever want to *transcend* these preconditions,
