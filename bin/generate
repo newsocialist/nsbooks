@@ -5,8 +5,6 @@ require 'bundler'
 Bundler.require(:default)
 
 require 'date'
-require 'faraday'
-require 'faraday_middleware'
 require 'json'
 require 'pp'
 require 'fileutils'
@@ -16,163 +14,68 @@ module Helpers
     puts "[nsbooks] #{msg}"
   end
 
-  def chapters
-    @chapters ||= Dir[File.join(dir, '*.md')]
-  end
-
   def dir
-    File.expand_path(File.join('../..', @filename, 'data'), __FILE__)
+    Dir.pwd
+  end
+
+  def dirname
+    dir.split('/').last
   end
 end
 
-class Post
-  def self.build(json)
-    title = json['title']
-    slug = json['slug']
-    mobiledoc = JSON.parse(json['mobiledoc'])
-    content = mobiledoc['cards'][0][1]['markdown']
-    date = DateTime.parse(json['published_at']).to_time.to_i
-    new(
-      title: title,
-      slug: slug,
-      content: content,
-      date: date
+class Book < Struct.new(:title, :date, :cover)
+  include Helpers
+
+  def self.from_manifest(manifest)
+    book = new(
+      manifest['title'],
+      manifest['date'],
+      manifest['cover']
     )
-  end
-
-  attr_accessor :title, :slug, :content, :byline, :date
-
-  def initialize(attrs = {})
-    attrs.each do |k, v|
-      instance_variable_set(:"@#{k}", v)
+    manifest['chapters'].each.with_index do |c, i|
+      book.chapters << Chapter.new(i+1, c['title'], c['authors'], c['content'])
     end
+    book
   end
 
-  def download_images!(dir)
-    remote_images.each do |i|
-      name = File.basename(i)
-      dest = File.join(dir, name)
-      `curl -o #{dest} #{i}`
-    end
-  end
-
-  def clean_content!(dir)
-    self.content = content.gsub(/\n\-{3}?\n?\n?\*?Photo:.+$/, '')
-    images.each do |i|
-      self.content = content.gsub(i, File.join(dir, File.basename(i)))
-    end
-  end
-
-  def images
-    @images ||= content.scan(%r{/content/images[^\)]+})
-  end
-
-  def remote_images
-    @remote_images ||= images.map { |i| "https://newsocialist.org.uk#{i}" }
+  def chapters
+    @chapters ||= []
   end
 end
 
-class Fetcher
+class Chapter < Struct.new(:num, :title, :authors, :content)
   include Helpers
 
-  def initialize(access_token, filename, slugs, tags)
-    @access_token, @filename, @slugs, @tags = access_token, filename, slugs, tags
-  end
-
-  def client
-    @client ||= Faraday.new('https://newsocialist.org.uk', ssl: { ca_path: '/usr/lib/ssl/certs' }) do |f|
-      f.use FaradayMiddleware::FollowRedirects
-      f.headers['Authorization'] = "Bearer #{@access_token}"
-      f.headers['Accept'] = 'application/json'
-      f.adapter :net_http
-    end
-  end
-
-  def posts_from_slugs
-    return [] unless @slugs
-    slugs = "[#{@slugs}]"
-    response = client.get("/ghost/api/v0.1/posts?filter=slug:#{slugs}%2Bpage:false%2Bstatus:published&formats=mobiledoc&include=author&limit=all")
-    log "Fetching posts from slugs: Status #{response.status}"
-    log response.body if response.status >= 400
-    JSON.parse(response.body)['posts'].map do |p|
-      Post.build(p)
-    end
-  end
-
-  def posts_from_tags
-    return [] unless @tags
-    tags = "[#{@tags}]"
-    response = client.get("/ghost/api/v0.1/posts?filter=tags:#{tags}%2Bpage:false%2Bstatus:published&formats=mobiledoc&include=author&limit=all")
-    log "Fetching posts from tags: Status #{response.status}"
-    log response.body if response.status >= 400
-    JSON.parse(response.body)['posts'].map do |p|
-      Post.build(p)
-    end
-  end
-
-  def call
-    FileUtils.mkdir_p dir
-
-    posts = (posts_from_slugs + posts_from_tags)
-
-    posts.each do |p|
-      p.download_images!(dir)
-      p.clean_content!(dir)
-
-      file = File.join(dir, "#{p.date}-#{p.slug}.md")
-      log "Writing #{file} #{p.byline}"
-      File.open file, 'w+' do |f|
-        f << "# #{p.title}\n"
-        f << p.content
-      end
-    end
-  end
-end
-
-class Compiler
-  include Helpers
-
-  def initialize(filename)
-    @filename = filename
-  end
-
-  def correct_footnotes
-    chapters.each.with_index do |p, i|
-      log "Correcting footnotes #{p}"
-      `pandoc #{p} --to markdown --id-prefix=post-#{i}- -o #{p}`
-    end
-  end
-
-  def call
-    correct_footnotes
+  def compile
+    `pandoc #{content} --to markdown --id-prefix=post-#{num}- -o #{content}`
   end
 end
 
 class EpubWriter
   include Helpers
 
-  def initialize(filename, title)
-    @filename, @title = filename, title
+  def initialize(book)
+    @book = book
   end
 
   def write_title
     log "Writing epub title"
 
     File.open File.join(dir, 'title.txt'), 'w+' do |f|
-      f << "% #{@title}\n% New Socialist\n% #{Date.today.strftime('%-d %B %Y')}"
+      f << "% #{@book.title}\n% New Socialist\n% #{@book.date}"
     end
   end
 
   def write_book
     log "Writing epub"
 
-    css = File.expand_path(File.join('../..', 'css', 'style.css'), __FILE__)
-    file = File.expand_path(File.join('../..', @filename, "#{@filename}.epub"), __FILE__)
-    meta = File.expand_path(File.join('../..', @filename, 'data/meta.xml'), __FILE__)
-    cover = File.expand_path(File.join('../..', @filename, 'data/cover.png'), __FILE__)
+    css   = File.expand_path(File.join('../..', 'css', 'style.css'), __FILE__)
+    file  = File.expand_path(File.join(dir, "#{dirname}.epub"), __FILE__)
+    meta  = File.expand_path(File.join(dir, 'meta.xml'), __FILE__)
+    cover = File.expand_path(File.join(dir, @book.cover), __FILE__)
     title = File.join(dir, 'title.txt')
 
-    `pandoc --epub-metadata=#{meta} --epub-cover-image=#{cover} --epub-stylesheet=#{css} --toc --toc-depth=1 -S -o #{file} #{title} #{chapters.join ' '}`
+    `pandoc --epub-metadata=#{meta} --epub-cover-image=#{cover} --epub-stylesheet=#{css} --toc --toc-depth=1 -S -o #{file} #{title} #{@book.chapters.map(&:content).join ' '}`
   end
 
   def call
@@ -223,10 +126,7 @@ end
 opts = Slop.parse do |o|
   o.string '--title', 'title'
   o.string '--filename', 'filename without extension'
-  o.string '--slugs', 'slugs'
-  o.string '--tags', 'tags'
   o.boolean '--help', 'help'
-  o.boolean '--fetch', 'fetch markdown posts', default: true
   o.boolean '--compile', 'compile all markdown posts', default: true
   o.boolean '--epub', 'write epub', default: false
   o.boolean '--pdf', 'write pdf', default: false
@@ -235,10 +135,15 @@ end
 
 puts opts and exit(0) if opts[:help]
 
-token = ENV['GHOST_ACCESS_TOKEN'] || raise('access token not found')
-
-Fetcher.new(token, opts[:filename], opts[:slugs], opts[:tags]).call if opts[:fetch]
-Compiler.new(opts[:filename]).call if opts[:compile]
-EpubWriter.new(opts[:filename], opts[:title]).call if opts[:epub]
-PdfWriter.new(opts[:filename], opts[:title]).call if opts[:pdf]
-MobiWriter.new(opts[:filename]).call if opts[:mobi]
+begin
+  manifest = JSON.parse(File.read('./manifest.json'))
+  book = Book.from_manifest(manifest)
+    
+  book.chapters.each(&:compile) if opts[:compile]
+  EpubWriter.new(opts[:filename], opts[:title]).call if opts[:epub]
+  PdfWriter.new(opts[:filename], opts[:title]).call if opts[:pdf]
+  MobiWriter.new(opts[:filename]).call if opts[:mobi]
+rescue => e
+  puts e
+  exit 1
+end

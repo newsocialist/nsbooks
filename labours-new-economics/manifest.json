@@ -1,0 +1,235 @@
+{
+  "title": "Labour's New Economics",
+  "date": "29th June 2019",
+  "cover": "cover.pdf",
+  "chapters": [
+    {
+      "title": "Technological Development For The Many",
+      "authors": [
+        {
+          "name": "Wendy Liu",
+          "url": "https://twitter.com/dellsystem"
+        }
+      ],
+      "content": "technological-development-for-the-many.md"
+    },
+    {
+      "title": "Capitalist and Socialist Universal Basic Incomes",
+      "authors": [
+        {
+          "name": "John Marlow",
+          "url": "https://twitter.com/JohnTMarlow"
+        }
+      ],
+      "content": "capitalist-and-socialist-universal-basic-incomes.md"
+    },
+    {
+      "title": "Ownership and Markets in Energy",
+      "authors": [
+        {
+          "name": "Chris MacMackin",
+          "url": "https://cmacmackin.github.io"
+        }
+      ],
+      "content": "ownership-and-markets-energy.md"
+    },
+    {
+      "title": "Public Ownership of the Public Sphere",
+      "authors": [
+        {
+          "name": "Tom Mills",
+          "url": "https://twitter.com/ta_mills"
+        },
+        {
+          "name": "Dan Hind",
+          "url": "https://twitter.com/danhind"
+        }
+      ],
+      "content": "public-ownership-of-the-public-sphere.md"
+    },
+    {
+      "title": "Universal Basic Services Won't Fix Our Economy",
+      "authors": [
+        {
+          "name": "Grace Blakeley",
+          "url": "https://twitter.com/graceblakeley"
+        }
+      ],
+      "content": "universal-basic-services-wont-fix-our-economy.md"
+    },
+    {
+      "title": "Seventy-Seven Nation Industrial Reserve Army",
+      "authors": [
+        {
+          "name": "David Quentin",
+          "url": "https://twitter.com/_DavidQuentin"
+        }
+      ],
+      "content": "seventy-seven-nation-industrial-reserve-army.md"
+    },
+    {
+      "title": "Labour's Digital Strategy Is a Missed Opportunity",
+      "authors": [
+        {
+          "name": "Wendy Liu",
+          "url": "https://twitter.com/dellsystem"
+        }
+      ],
+      "content": "labours-digital-strategy.md"
+    },
+    {
+      "title": "Building Platform Socialism: Beyond the Taylor Review",
+      "authors": [
+        {
+          "name": "Justin Reynolds",
+          "url": "https://twitter.com/justinlucent"
+        }
+      ],
+      "content": "building-platform-socialism-beyond-the-taylor-review.md"
+    },
+    {
+      "title": "A Socialist Bank? Labour's National Investment Bank Proposal",
+      "authors": [
+        {
+          "name": "John Marlow",
+          "url": "https://twitter.com/JohnTMarlow"
+        }
+      ],
+      "content": "a-socialist-bank-labours.md"
+    },
+    {
+      "title": "Full Corbynism: Constructing a new left Political Economy beyond Neoliberalism",
+      "authors": [
+        {
+          "name": "Joe Guinan",
+          "url": "https://twitter.com/joecguinan"
+        },
+        {
+          "name": "Thomas M. Hanna",
+          "url": "https://twitter.com/ThomasMHanna"
+        }
+      ],
+      "content": "full-corbynism-constructing-a-new-left-political-economy-beyond-neoliberalism.md"
+    },
+    {
+      "title": "Labour's Alternative Models of Ownership Report",
+      "authors": [
+        {
+          "name": "The Editors",
+          "url": "https://newsocialist.org.uk"
+        }
+      ],
+      "content": "labours-alternative-models-of-ownership-report.md"
+    },
+    {
+      "title": "Freedom Yet to Come",
+      "authors": [
+        {
+          "name": "Tom O'Shea",
+          "url": "https://twitter.com/DrTomOShea"
+        }
+      ],
+      "content": "labor-republicans-freedom.md"
+    },
+    {
+      "title": "Escaping the Black Dog's Shadow",
+      "authors": [
+        {
+          "name": "Nic Murray",
+          "url": "https://twitter.com/nic__murray"
+        }
+      ],
+      "content": "escaping-the-black-dog.md"
+    },
+    {
+      "title": "Transforming Childcare Now",
+      "authors": [
+        {
+          "name": "Andrea Marie",
+          "url": "https://newsocialist.org.uk/author/andrea"
+        }
+      ],
+      "content": "women-and-childcare-in-capitalism-part-4.md"
+    },
+    {
+      "title": "When We Go Into Government, We All Go Into Government Together",
+      "authors": [
+        {
+          "name": "John McDonnell MP",
+          "url": "https://twitter.com/johnmcdonnellmp"
+        }
+      ],
+      "content": "when-we-go-into-government.md"
+    },
+    {
+      "title": "Labour's New Economics Conference: Part One, Introductory Session",
+      "authors": [
+        {
+          "name": "Tom Gann",
+          "url": "https://twitter.com/Tom_Gann"
+        }
+      ],
+      "content": "labours-new-economics-conference-part-one-introductory-session.md"
+    },
+    {
+      "title": "Labour's New Economics Conference: Part Two, Digital Session",
+      "authors": [
+        {
+          "name": "Wendy Liu",
+          "url": "https://twitter.com/dellsystem"
+        }
+      ],
+      "content": "labours-new-economics-conference-part-two-digital-session.md"
+    },
+    {
+      "title": "Labour's New Economics Conference: Part Three, Housing Session",
+      "authors": [
+        {
+          "name": "Wendy Liu",
+          "url": "https://twitter.com/dellsystem"
+        }
+      ],
+      "content": "labours-new-economics-conference-part-three-housing-session.md"
+    },
+    {
+      "title": "Labour's New Economics Conference: Part Four, Co-Operatives Session",
+      "authors": [
+        {
+          "name": "Tom Gann",
+          "url": "https://twitter.com/Tom_Gann"
+        }
+      ],
+      "content": "labours-new-economics-conference-part-four-co-operatives-session.md"
+    },
+    {
+      "title": "Labour's New Economics Conference: Part Five, Local Democratic Economic Strategies",
+      "authors": [
+        {
+          "name": "Tom Gann",
+          "url": "https://twitter.com/Tom_Gann"
+        }
+      ],
+      "content": "labours-new-economics-conference-part-five-local-democratic-economic-strategies.md"
+    },
+    {
+      "title": "Labour's New Economics Conference: Part Six, Plenary Session",
+      "authors": [
+        {
+          "name": "Tom Gann",
+          "url": "https://twitter.com/Tom_Gann"
+        }
+      ],
+      "content": "labours-new-economics-conference-part-six-plenary.md"
+    },
+    {
+      "title": "Labour's New Economics Conference: Part Seven, Jeremy Corbyn's Speech",
+      "authors": [
+        {
+          "name": "Tom Gann",
+          "url": "https://twitter.com/Tom_Gann"
+        }
+      ],
+      "content": "labours-new-economics-conference-part-seven-jeremy.md"
+    }
+  ]
+}
