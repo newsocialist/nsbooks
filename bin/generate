@@ -1,5 +1,34 @@
 #!/usr/bin/env ruby
 
+# Usage:
+#   cd directory-of-book
+#   ../bin/generate --epub --mobi --pdf
+#
+# Expected files in directory-of-book:
+#   * manifest.json
+#   * cover-A4.png
+#   * cover-A5.png
+#   * originals/chapter-file-n.md
+#
+# manifest.json:
+#
+#   {
+#     "title": "Book Title",
+#     "date": "00th June 2020",
+#     "chapters": [
+#       {
+#         "title": "Chapter Title n",
+#         "authors": [
+#           {
+#             "name": "Author Name",
+#             "url": "https://some.place.online"
+#           }
+#         ],
+#         "content": "chapter-file-n.md"
+#       }
+#     ]
+#   }
+
 require 'rubygems'
 require 'bundler'
 Bundler.require(:default)
@@ -8,6 +37,7 @@ require 'date'
 require 'json'
 require 'pp'
 require 'fileutils'
+require 'yaml'
 
 module Helpers
   def log(msg)
@@ -23,14 +53,13 @@ module Helpers
   end
 end
 
-class Book < Struct.new(:title, :date, :cover)
+class Book < Struct.new(:title, :date)
   include Helpers
 
   def self.from_manifest(manifest)
     book = new(
       manifest['title'],
-      manifest['date'],
-      manifest['cover']
+      Date.parse(manifest['date'])
     )
     manifest['chapters'].each.with_index do |c, i|
       book.chapters << Chapter.new(i+1, c['title'], c['authors'], c['content'])
@@ -38,16 +67,64 @@ class Book < Struct.new(:title, :date, :cover)
     book
   end
 
+  def readable_year
+    date.strftime('%Y')
+  end
+
+  def readable_date
+    date.strftime('%-d %B %Y')
+  end
+
   def chapters
     @chapters ||= []
+  end
+
+  def author_names
+    chapters.map(&:authors).flatten.map { |a|
+      a['name']
+    }.uniq.reject { |n| n == 'The Editors' }.sort_by { |n| n.split(' ')[1] }
+  end
+
+  def compile
+    chapters.each(&:compile)
   end
 end
 
 class Chapter < Struct.new(:num, :title, :authors, :content)
   include Helpers
 
+  def copy
+    FileUtils.mkdir_p(File.join(dir, 'compiled'))
+    FileUtils.cp(original_path, compiled_path)
+  end
+
+  def fix_title_and_author
+    content = File.read(compiled_path)
+    raise authors.inspect if authors.nil?
+    auth = authors.map { |a| "[#{a['name']}](#{a['url']})" }.join(' and ')
+    insert = "# #{title}\n\n**#{auth}**\n\n"
+    File.open(compiled_path, 'w+') do |f|
+      f << insert
+      f << content
+    end
+  end
+
+  def fix_footnotes
+    `pandoc #{compiled_path} --to markdown --id-prefix=chapter-#{num}- -o #{compiled_path}`
+  end
+
   def compile
-    `pandoc #{content} --to markdown --id-prefix=post-#{num}- -o #{content}`
+    copy
+    fix_title_and_author
+    fix_footnotes
+  end
+
+  def original_path
+    File.join(dir, 'original', content)
+  end
+
+  def compiled_path
+    File.join(dir, 'compiled', content)
   end
 end
 
@@ -58,11 +135,18 @@ class EpubWriter
     @book = book
   end
 
-  def write_title
-    log "Writing epub title"
-
-    File.open File.join(dir, 'title.txt'), 'w+' do |f|
-      f << "% #{@book.title}\n% New Socialist\n% #{@book.date}"
+  def write_meta
+    File.open File.join(dir, 'meta.yml'), 'w+' do |f|
+      f << YAML.dump(
+        'title' => [{ 'type' => 'main', 'text' => @book.title }],
+        'creator' =>  @book.author_names.map { |a| { 'role' => 'author', 'text' => a } },
+        'publisher' => 'New Socialist',
+        'rights' => "© #{@book.readable_year} New Socialist",
+        'lang' => 'en-GB',
+        'date' => @book.readable_date,
+        'cover-image' => File.join(dir, 'cover-A5.png')
+      )
+      f << '...'
     end
   end
 
@@ -70,16 +154,21 @@ class EpubWriter
     log "Writing epub"
 
     css   = File.expand_path(File.join('../..', 'css', 'style.css'), __FILE__)
-    file  = File.expand_path(File.join(dir, "#{dirname}.epub"), __FILE__)
-    meta  = File.expand_path(File.join(dir, 'meta.xml'), __FILE__)
-    cover = File.expand_path(File.join(dir, @book.cover), __FILE__)
-    title = File.join(dir, 'title.txt')
+    file  = File.join(dir, "#{dirname}.epub")
+    meta  = File.join(dir, 'meta.yml')
 
-    `pandoc --epub-metadata=#{meta} --epub-cover-image=#{cover} --epub-stylesheet=#{css} --toc --toc-depth=1 -S -o #{file} #{title} #{@book.chapters.map(&:content).join ' '}`
+    `pandoc --epub-embed-font="/Users/joe/Library/Fonts/Merriweather-Regular.ttf" \
+        --epub-embed-font=""/Users/joe/Library/Fonts/Lato-Bold.ttf \
+        --epub-stylesheet=#{css} \
+        --toc \
+        --toc-depth=1 \
+        -S \
+        -o #{file} \
+        #{meta} #{@book.chapters.map(&:compiled_path).join ' '}`
   end
 
   def call
-    write_title
+    write_meta
     write_book
   end
 end
@@ -87,45 +176,41 @@ end
 class PdfWriter
   include Helpers
 
-  def initialize(filename, title)
-    @filename, @title = filename, title
+  def initialize(book)
+    @book = book
   end
 
   def call
     log "Writing pdf"
-    file = File.expand_path(File.join('../..', @filename, "#{@filename}.pdf"), __FILE__)
-    `pandoc -H includes/header.tex \
+
+    file = File.expand_path(File.join('../..', dirname, "#{dirname}.pdf"), __FILE__)
+
+    `pandoc -H ../includes/header.tex \
         -V subparagraph \
-        -V urlcolor=red \
-        -V mainfont="Helvetica" \
-        -V sansfont="Helvetica" \
+        -V urlcolor=black \
+        -V mainfont=Merriweather \
         -V fontsize=14pt \
+        -V linkcolor=LightSlateGrey \
         -V linestretch=1.1 \
         -V documentclass=extreport \
         -V geometry:a4paper \
         --top-level-division=chapter \
-        --toc --toc-depth=1 \
         --latex-engine=xelatex \
-        -o #{file}  #{chapters.join ' '}`
+        -o #{file} \
+        #{@book.chapters.map(&:compiled_path).join ' '}`
   end
 end
 
 class MobiWriter
   include Helpers
 
-  def initialize(filename)
-    @filename = filename
-  end
-
   def call
     log "Writing mobi"
-    `kindlegen #{@filename}/#{@filename}.epub -o #{@filename}.mobi`
+    `kindlegen #{dirname}.epub -o #{dirname}.mobi`
   end
 end
 
 opts = Slop.parse do |o|
-  o.string '--title', 'title'
-  o.string '--filename', 'filename without extension'
   o.boolean '--help', 'help'
   o.boolean '--compile', 'compile all markdown posts', default: true
   o.boolean '--epub', 'write epub', default: false
@@ -139,11 +224,12 @@ begin
   manifest = JSON.parse(File.read('./manifest.json'))
   book = Book.from_manifest(manifest)
     
-  book.chapters.each(&:compile) if opts[:compile]
-  EpubWriter.new(opts[:filename], opts[:title]).call if opts[:epub]
-  PdfWriter.new(opts[:filename], opts[:title]).call if opts[:pdf]
-  MobiWriter.new(opts[:filename]).call if opts[:mobi]
+  book.compile if opts[:compile]
+
+  EpubWriter.new(book).call if opts[:epub]
+  PdfWriter.new(book).call if opts[:pdf]
+  MobiWriter.new.call if opts[:mobi]
 rescue => e
   puts e
-  exit 1
+  raise
 end

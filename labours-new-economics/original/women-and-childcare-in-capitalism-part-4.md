@@ -1,14 +1,14 @@
-This is the last part of a four-part examination of the care of children under capitalism, which draws extensively on Lise Vogel’s (2013) *Marxism and the Oppression of Women* in order to theorise exactly how childcare functions in the UK today[^1] and to suggest alternatives. 
+_This is the last part of a four-part examination of the care of children under capitalism, which draws extensively on Lise Vogel’s (2013) Marxism and the Oppression of Women in order to theorise exactly how childcare functions in the UK today[^1] and to suggest alternatives._
 
-[Part One](https://newsocialist.org.uk/women-and-childcare-in-capitalism-a-dialectical-materialist-study-part-1/) examined how the establishment of childcare outside the home in capitalist society is vulnerable to co-option by capitalist purposes for both production and reproduction, and I summarised Vogel’s central thesis in order to explain how. 
+_[Part One](https://newsocialist.org.uk/women-and-childcare-in-capitalism-a-dialectical-materialist-study-part-1/) examined how the establishment of childcare outside the home in capitalist society is vulnerable to co-option by capitalist purposes for both production and reproduction, and I summarised Vogel’s central thesis in order to explain how._
 
-[Part Two](https://newsocialist.org.uk/women-and-childcare-in-capitalism-part-2/) explored how this co-option functions in the current situation, and the exact ways childcare is used to facilitate women’s work and stabilise the rearing of children both through childcare inside and outside the home. 
+_[Part Two](https://newsocialist.org.uk/women-and-childcare-in-capitalism-part-2/) explored how this co-option functions in the current situation, and the exact ways childcare is used to facilitate women’s work and stabilise the rearing of children both through childcare inside and outside the home._
 
-[Part Three](https://newsocialist.org.uk/women-and-childcare-in-capitalism-part-3/) looked at how childcare can be deployed in other ways to those dictated by the purposes of capitalism, drawing on Nancy Fraser’s understanding of how the sites of class struggle can be widened beyond the productive realm in order to redraw the boundaries between production and reproduction. To inquire how childcare can be reclaimed for our own purposes rather than ceding them to capitalism, I used both William Morris and Alexandra Kollontai to explore how the sites and nature of both work and care can be transformed. 
+_[Part Three](https://newsocialist.org.uk/women-and-childcare-in-capitalism-part-3/) looked at how childcare can be deployed in other ways to those dictated by the purposes of capitalism, drawing on Nancy Fraser’s understanding of how the sites of class struggle can be widened beyond the productive realm in order to redraw the boundaries between production and reproduction. To inquire how childcare can be reclaimed for our own purposes rather than ceding them to capitalism, I used both William Morris and Alexandra Kollontai to explore how the sites and nature of both work and care can be transformed._
 
-Finally, this is Part Four which discusses how this transformation can be initiated today, understanding reformism as a potential part of a revolutionary strategy, and suggesting sites of struggle that working class women can take up to influence Labour Party politics.
+_Finally, this is Part Four which discusses how this transformation can be initiated today, understanding reformism as a potential part of a revolutionary strategy, and suggesting sites of struggle that working class women can take up to influence Labour Party politics._
 
-**4. Reformism as Response: Transforming Childcare Inside and Outside the Home Now**
+## Reformism as Response: Transforming Childcare Inside and Outside the Home Now
 
 As argued above, capitalism poses a huge problem for childcare, standing at it does at the crossroads between the contradictions of production and reproduction. It appears inevitable that these contradictions will be resolved, or given “room to move” ([p. 198](https://www.marxists.org/archive/marx/works/1867-c1/index-l.htm)), by free riding on the unpaid labour of women. Given these profound challenges to providing good childcare outside the home in capitalism, it seems difficult to suggest a way forward within capitalist society without reverting to an abstract, and ultimately idealist, position of total anti-capitalist opposition, that objects to any practical improvements as a compromise, and indeed a distraction from the only serious task, that of overthrowing capitalism itself. 
 
@@ -16,9 +16,9 @@ This requires a consideration of a form of reformism that involves a total under
 
 Reformism as response for Williams proceeds from a particular situation, and the state and capital’s failure to meet human needs, but then, both in theory and practice, pushes beyond the limited and particular so that “one struggle connects with and implies another”[^2]. Childcare, precisely because of how it stands within absolutely fundamental contradictions within capitalism, certainly has this dynamic possibility. There are then three fundamental aspects of a reformism as response when it comes to childcare. Firstly, that childcare cannot be addressed on its own, it implicates other struggles, one of the most notable of which is over work, particularly the length of the working day. Secondly, that a reformism as response is part of the radical end of boundary struggles- an attempt to go beyond simply providing some relief to women from their double shift of productive and reproductive labour, through potentially revolutionary struggles against these spatial distinctions of capitalism that are central to women’s oppression. Thirdly, that even if capitalism cannot be overcome in the short-run, that any serious childcare reformism must be anti-capitalist. It is in this vein that the following reforms are suggested.
 
-***Work***
+## Work
 
-*Shorter Working Week*
+### Shorter Working Week
 
 One key demand that attacks the boundary between waged and domestic labour, based on an understanding that the real length of the working day does not end after returning from paid work, is to shorten the working week. This would increase the time available for those domestic aspects of necessary labour for which workers are not paid, including care of children, as well as attacking the amount of surplus labour capital extracts from paid workers. 
 
@@ -36,7 +36,7 @@ However, although phrased as ameliorative reforms, the strength of capital’s o
 
 Here perhaps the clearest theoretical parallel may be found in Michal Kalecki’s [“Political Aspects of Full Employment”](https://mronline.org/2010/05/22/political-aspects-of-full-employment/), and the argument that, “there is a political background in the opposition to the full employment doctrine, even though the arguments advanced are economic”. In other words, even if the capitalist economy may be more efficient under conditions of full employment, a significant disciplinary power over the working class would be lost to capital. In the Swedish case, this political challenge to capital is less about discipline, more about the constitutive, internal boundaries of capitalism, those that underpin women’s oppression, being challenged. Once this political perspective is introduced, beyond the ameliorative reformist perspective of the contradiction between capital’s short and long term interests, capital’s political stake in the boundaries that partially cause women’s oppression should become clear. For a challenge to the length of the working day combines demands for better conditions for production and reproduction and unites women and men in that struggle. 
 
-*Care Bank*
+### Care Bank
 
 While a shorter working week goes some way to recognising that the real length of the working day includes work in the domestic sphere as well, it needs to go hand in hand with a recognition not only of its existence, but of its importance. Recognising care as labour that can resist commodification, providing a potential site of work that, following [Morris](https://www.marxists.org/archive/morris/works/1884/useful.htm), is governed by “social morality, the responsibility of man towards the life of man”, it is also a potential critique of productive labour that does not meet the real needs of people, advocating “work for livelihood, instead of working to supply the demand of the profit market”. 
 
@@ -52,11 +52,11 @@ This creates a demand that everyone, both men and women, parents and non-parents
 
 A Care Bank, unlike a wage, which commodifies care work, potentially opening up social relations further to the discipline of capitalist production and oversight, while not necessarily transforming the conditions in which reproductive labour is carried out – particularly collapsing care with the drudgery of housework, and potentially maintaining women in their isolated domestic role; equally, is not just welfare, which does not conceptualise care as work and, in consequence, does not adequately compensate carers for their labour. It challenges the division between the production and reproduction while also potentially opening up the sharp distinctions between men and women’s responsibility for care work and the stipulation that care is done in isolation.
 
-***Childcare***
+## Childcare
 
 While shortening the working day and a Care Bank could provide parents time together to care for their children, the family needs to be further integrated into the community, both because families need to be supported more widely, and to increase the capacity in the community for care in general. A mix of state provision, co-operatives and well resourced informal care, with the boundaries between the three being porous, provides a way to challenge the spatial, temporal, institutional and cultural splitting off of the domestic sphere[^3] as a place where care is carried out in conditions of submission, isolation and drudgery as well as making the social realm inclusive of families, rather than excluding children from public life.
 
-*Childcare as a Free, Universal Service*
+### Childcare as a Free, Universal Service
 
 It is clear that the current model of childcare, predominantly formal private nurseries [(79% of childcare places)](http://b.3cdn.net/nefoundation/c142e402b391ed2097_z7m6ibzpa.pdf) that parents have little involvement with except as consumers, cannot provide the means of ‘socialising the domestic’ that challenges either the conditions of care that takes place inside the home, or to fully integrate care within the community in a way that meets women and children’s needs. 
 
@@ -72,15 +72,13 @@ However, socialising childcare is not the same as ceding it to the market, rathe
 
 However, this does not mean ceding control over the care of our children, for the ways in which childcare is delivered should not be incidental to our aims, taken out of democratic control and handed over either to private companies, or the state. Here it is important to go back to Federici: 
 
-> It is one thing to set up a day care center the way we want it, and then demand that the 	State pay for it. It is quite another thing to deliver our children to the State and then ask the 	State to control them not for five but for fifteen hours a day...In one case we regain some control over our lives, in the other we extend the State’s control over us[^6].
+> It is one thing to set up a day care center the way we want it, and then demand that the State pay for it. It is quite another thing to deliver our children to the State and then ask the State to control them not for five but for fifteen hours a day...In one case we regain some control over our lives, in the other we extend the State’s control over us[^6].
 
-*Alternative Models of Childcare: Co-operative Playgroups*
+### Alternative Models of Childcare: Co-operative Playgroups
 
 Like the Playgroup Movement in the 60s, 70s and 80s, a grass roots self-help movement by mothers, and it’s New Zealand equivalent, the Playcentre Movement, which began during the war and is still active, parents democratic involvement in care challenges the sharp distinction that views childcare as only occurring when parents, particularly mothers, are absent from it (and ideally at work). Federici, again, observes how “welfare mothers, for example, denounced the absurdity of the government policy that recognizes childcare as work only when it involves the children of others”[^7]. In contrast, the [Playcentre Federation](http://www.playcentre.org.nz/) describes in its philosophy how it “recognises the parents as the first and best educators of their own children. Playcentre families receive a unique early childhood experience with opportunities for whanau/families to learn together.”
 
 There needs to be a more fluid conceptualisation of childcare that belies the strict separation between formal and informal childcare, and care inside and outside the home. This means childcare that mothers, and parents in general, are not excluded from. Instead of parents only relation to other parents being as consumers, co-operative provision allows women to create networks of support in their local community. In this 1980 film, Parents in Playgroup, one woman describes how “I was a lonely mum, came to Honiton with my husband’s job, I didn’t want to come, I started playgroup, and I needed the playgroup, very much, I was very lonely, I was a mum help and then I started staying when I wasn’t a mum help.”
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/jW-6kTgV2eA" frameborder="0" allowfullscreen></iframe>
 
 Cooperative care recognises and builds on the capacities that parents have, and are already using everyday, to care for children, but without naturalising this ability – and Crowe explains how fathers were involved in Playgroups too, as they have been in delivering co-operative childcare today. It allows for parents to learn from the shared wisdom of other parents, as well as recognising that parents need support, and benefit from interactions with, and training from, childcare professionals. This means childcare workers are given a new importance, reflected in their pay and conditions1, as Crowe writes, when parents turn to professionals for “advice, guidance and support”, they do so “within the context of a redefined relationship of self-confidence and partnership”[^8]. In this sense of partnerships, it is important that childcare workers also have co-operative control alongside parents. [Lucie Stephens](http://b.3cdn.net/nefoundation/c142e402b391ed2097_z7m6ibzpa.pdf) has further researched how co-operatives operating today are beneficial for children, parents and workers.
 
@@ -88,7 +86,7 @@ It also increases the capacity of the community for care in general, as Crowe de
 
 In order for this to be practically possible, the government should provide a legislative framework and set up a shelter organisation, like the [Playcentre Federation](http://www.playcentre.org.nz/) in New Zealand, to give support, advice, training and funding to parents and workers. This [NEF report](http://b.3cdn.net/nefoundation/c142e402b391ed2097_z7m6ibzpa.pdf) also has further suggestions for how cooperative childcare could be supported.
 
-*A System of Fluid Care*
+### A System of Fluid Care
 
 In order to truly attack the spatial separation of the domestic, parents need to be resourced, with the money and time, to be able to have the choice to look after their own children, create their own informal arrangements with their peers, where they can be present or not, or have democratic control over more formal, state arrangements; or, ideally, be able to use all these ways of caring fluidly to fit into their lives and the lives of their children. In this way, a system of paying parents directly, or vouchers, could help parents combine a truly flexible use of provision. To paraphrase Marx, to be able to “leave your child at nursery in the morning, for you and friends to look after your children in the afternoon, join other parents at playgroup in the evening, look after your child at home after dinner”, and be paid for the care you are doing across all these settings, at home and outside the home. 
 
@@ -96,9 +94,9 @@ Again, this is not commodifying care through providing a wage; neither does it c
 
 However, as direct payments and vouchers have been used to integrate care into the purposes of capitalism (in particular, with how [PIPs payments have replaced DLA](https://newsocialist.org.uk/independence-is-not-the-same-as-isolation/)) and been way to remove support from people, particularly people with disabilities and women, on the grounds of facilitating their ‘independence’, this tentative suggestion needs to be approached with care. Payment is not enough, especially in the current regulatory and funding framework; knowledge also needs to be socialised and support needs to be available to help parents, and mothers in particular, set up the type of childcare that suits their needs and those of the family and wider community.
 
-***Society***
+## Society
 
-*A Transformation of Space*
+### A Transformation of Space
 
 To help grow the general capability of the community and equip public space with facilities to accommodate families so that children would become a part of daily life rather than excluded from the public realm and relegated to the domestic sphere.
 
@@ -110,7 +108,7 @@ It is also important to note the importance of architecture, with the glass part
 
 Child-friendly spaces such as creches, soft play areas, unisex baby changing, breastfeeding rooms, would also mean families, childminders or co-operatives of parents and professionals could fluidly care for children both in each others homes and in public spaces, and means informal groups of parent-carers do not necessarily have to provide a premises. Having already been transformed, spaces are ready to use for such groups. This divorcing of space from collectives of parents reconceptualises formal and informal childcare, allows groups to develop more easily and informally and naturally as a pre-cursor to perhaps establishing more formal arrangements. 
 
-*Increasing the Capability and Responsibility of the Community for Care*
+## Increasing the Capability and Responsibility of the Community for Care
 
 Further to ready-made child friendly spaces, organisations should also have the responsibility to provide childcare. Wainwright describes how women’s sections transformed the Labour Party so that in one branch, “they have changed the time of meetings to suit parents and provide two hours’ paid child care”[^11].
 

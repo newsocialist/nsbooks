@@ -41,16 +41,16 @@ Now this won’t be easy, coming up as it does against deeply ingrained assumpti
 ## Further reading
 
 * [Evgeny Morozov](https://twitter.com/evgenymorozov) for New Left Review: [Socialize the Data Centres!](https://newleftreview.org/II/91/evgeny-morozov-socialize-the-data-centres)
-* [Felix Holtwell](https://twitter.com/AutomatedFully) for New Socialist: [Is automation really such a threat?](/is-automation-really-such-a-threat/)
-* [Justin Reynolds](https://twitter.com/justinlucent) for New Socialist: [Building Platform Socialism: Beyond the Taylor Review](/building-platform-socialism-beyond-the-taylor-review/)
+* [Felix Holtwell](https://twitter.com/AutomatedFully) for New Socialist: [Is automation really such a threat?](https://newsocialist.org.uk/is-automation-really-such-a-threat/)
+* [Justin Reynolds](https://twitter.com/justinlucent) for New Socialist: [Building Platform Socialism: Beyond the Taylor Review](https://newsocialist.org.uk//building-platform-socialism-beyond-the-taylor-review/)
 * [Grace Blakeley](https://twitter.com/graceblakeley) for Novara Media: [Robots Aren’t Coming for Our Jobs – Capitalists Are](http://novaramedia.com/2018/03/20/robots-arent-coming-for-our-jobs-capitalists-are/)
-* [Hettie O'Brien](https://twitter.com/hettieveronica) for New Socialist: [Monopoly's Fallacy](/monopolys-fallacy/)
+* [Hettie O'Brien](https://twitter.com/hettieveronica) for New Socialist: [Monopoly's Fallacy](https://newsocialist.org.uk//monopolys-fallacy/)
 * [Mariana Mazzucato](https://twitter.com/MazzucatoM)'s book [The Entrepreneurial State](https://www.penguin.co.uk/articles/features/2018/apr/mariana-mazzucato-entreprenuerial-state/)
 * [Moira Weigel](https://twitter.com/moiragweigel) and [Ben Tarnoff](https://twitter.com/bentarnoff) for The Guardian: [Why Silicon Valley can’t fix itself](https://www.theguardian.com/news/2018/may/03/why-silicon-valley-cant-fix-itself-tech-humanism)
-* Myself for New Socialist:
-    * [Labour's New Economics Conference: Part Two, Digital Session](/labours-new-economics-conference-part-two-digital-session/)
-    * [Labour's Digital Strategy Is a Missed Opportunity](/labours-digital-strategy/)
-    * [The Inevitability of the Gig Economy](/the-gig-economy/)
+* Wendy Liu for New Socialist:
+    * [Labour's New Economics Conference: Part Two, Digital Session](https://newsocialist.org.uk//labours-new-economics-conference-part-two-digital-session/)
+    * [Labour's Digital Strategy Is a Missed Opportunity](https://newsocialist.org.uk//labours-digital-strategy/)
+    * [The Inevitability of the Gig Economy](https://newsocialist.org.uk//the-gig-economy/)
 * [Peter Frase](https://twitter.com/pefrase) for Jacobin: [Ours to Master](https://www.jacobinmag.com/2015/03/automation-frase-robots)
 * The [Technology and the Worker](http://www.notesfrombelow.org/issue/technology-and-the-worker) issue of Notes From Below
 * Tony Smith for Jacobin: [Red Innovation](https://www.jacobinmag.com/2015/03/socialism-innovation-capitalism-smith)

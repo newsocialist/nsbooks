@@ -1,11 +1,26 @@
+@font-face {
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: normal;
+  src:url("Merriweather-Regular.ttf");
+}
+
+@font-face {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  src:url("Lato-Bold.ttf");
+}
+
 /* This defines styles and classes used in the book */
-body { margin: 5%; color: #333; text-align: justify; font-size: medium; font-family: Helvetica, Arial, sans-serif; line-height: 1.2em; }
+body { margin: 5%; color: #333; text-align: justify; font-size: medium; font-family: 'Merriweather', Georgia, serif; line-height: 1.4em; }
 code { font-family: monospace; }
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
   -webkit-hyphens: none;
   -moz-hyphens: none;
   hyphens: none;
   line-height: 1.3em;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 h1 { text-align: left; }
 h2 { text-align: left; }
@@ -13,12 +28,20 @@ h3 { text-align: left; }
 h4 { text-align: left; }
 h5 { text-align: left; }
 h6 { text-align: left; }
-a { color: red }
-.title { text-align: center; }
-.author { text-align: center; }
-.date { text-align: center; }
+a, p a, li a, a:visited, a:hover, a:link { color: #111; text-decoration: underline; }
+a.text-color {
+  color: inherit;
+  -webkit-text-fill-color: inherit;
+}
+.title, h1.main { text-align: center; }
+.author { text-align: center; font-size: 1em; line-height: 1.3em; margin: 0; padding: 0; }
+.publisher { text-align: center; font-size: 0.75em; margin: 1em 0 0; padding: 0; }
+.date { text-align: center; font-size: 0.75em; margin: 0; padding: 0; }
+.rights { text-align: center; font-size: 0.75em; margin: 0; padding: 0; }
 .toc { padding: 0; margin-left: 2em; }
 .toc li { list-style-type: number; margin: 0 0 1em 0; padding: 0; }
-.toc a { color: #333; }
+blockquote { font-style: italic; margin-top: 1em; color: #555; }
 cite { font-style: italic; margin-top: 1em; }
 sup { font-size: 60%; }
+ol li { margin: 0 0 1em 0; padding: 0; }
+.footnoteRef { vertical-align: super; font-size: 0.75em; }

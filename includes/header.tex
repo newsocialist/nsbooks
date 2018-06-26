@@ -1,8 +1,13 @@
 \usepackage{titlesec}
+\usepackage{titling}
+\usepackage{fontspec}
+\usepackage[svgnames]{xcolor}
+
+\newfontfamily\headingfont[]{Lato}
 
 \titleformat{\subparagraph}
-  {\Large\bfseries}{}{0pt}{\Large}
+  {\Large\headingfont}{}{0pt}{\Large}
 
 \titlespacing{\subparagraph}{0pt}{20pt}{40pt}
 
-\renewcommand{\chaptername}{}
+\renewcommand{\chaptername}{\headingfont}
