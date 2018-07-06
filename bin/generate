@@ -18,6 +18,7 @@
 #     "chapters": [
 #       {
 #         "title": "Chapter Title n",
+#         "date": "00th June 2020",
 #         "authors": [
 #           {
 #             "name": "Author Name",
@@ -61,8 +62,8 @@ class Book < Struct.new(:title, :date)
       manifest['title'],
       Date.parse(manifest['date'])
     )
-    manifest['chapters'].each.with_index do |c, i|
-      book.chapters << Chapter.new(i+1, c['title'], c['authors'], c['content'])
+    manifest['chapters'].sort_by { |c| Date.parse(c['date']) }.each.with_index do |c, i|
+      book.chapters << Chapter.new(i+1, c['title'], c['date'], c['authors'], c['content'])
     end
     book
   end
@@ -90,7 +91,7 @@ class Book < Struct.new(:title, :date)
   end
 end
 
-class Chapter < Struct.new(:num, :title, :authors, :content)
+class Chapter < Struct.new(:num, :title, :date, :authors, :content)
   include Helpers
 
   def copy
@@ -189,6 +190,7 @@ class PdfWriter
         -V subparagraph \
         -V urlcolor=black \
         -V mainfont=Merriweather \
+        -V sansfont=Lato \
         -V fontsize=14pt \
         -V linkcolor=LightSlateGrey \
         -V linestretch=1.1 \

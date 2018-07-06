@@ -4,508 +4,643 @@ Full Corbynism: Constructing a new left Political Economy beyond Neoliberalism
 **[Joe Guinan](https://twitter.com/joecguinan) and [Thomas M.
 Hanna](https://twitter.com/ThomasMHanna)**
 
-There have been significant debates around the Labour Party’s increasing
-sympathy for universal basic income (UBI). Though UBI’s alternatives
-have also been discussed by both Jeremy Corbyn and John McDonnell, UBI
-itself has been the starting point for policy responses to increased
-precariousness of employment and the possible effects of greater
-automation, with McDonnell setting up [a working
-group](http://basicincome.org/news/2017/02/uk-labour-party-ubi-working-group/)
-to look into the idea in February last year.
+‘There are three stages’, Sidney Webb wrote in a Fabian Society pamphlet
+in 1890, ‘through which every new notion in England has to pass: ‘It is
+impossible: It is against the Bible: We knew it before’.’[^chapter-2-1]
+This month’s sensational election result means that Corbynism is now
+rocketing toward the latter stage, consolidating its position as the new
+common sense on the left of British politics. Granted, Jeremy Corbyn’s
+Labour didn’t win. Outright victory on 8 June was never likely given the
+party’s weak prior standing, and would have required a seismic shift far
+greater than could reasonably be expected in a landscape fractured and
+divided by Brexit. Nevertheless, what Corbyn and his team pulled off –
+against all odds, and in the teeth of an overwhelmingly hostile media
+and [continual sabotage from
+within](https://newsocialist.org.uk/a-vow-of-silence-a-chronicle-of/) –
+is truly remarkable. The Labour Party is now a government-in-waiting,
+poised for the next General Election, which could come at any time and
+could easily carry Corbyn into Downing Street as Prime Minister.
 
-The concept of UBI has been a mainstay for left and green parties in
-recent decades, and has rapidly become mainstream as it gains increasing
-support from both centrist parties and individual capitalists, becoming
-at least an inspiration for further policy development across the
-political spectrum. However, as this concept has become more popular
-even among mainstream commentators who seem increasingly ready to
-entertain at least one form of radical change, it has remained
-controversial among Marxists.
+Before turning to the immense responsibility that now falls on the
+shoulders of the Labour left and the broad movement at its back, it’s
+worth savouring the accomplishment. When Theresa May fired the starting
+gun for a snap election and unusually short campaign, Corbyn was more
+than twenty points behind in most polls. According to YouGov, the
+polling company whose predictions turned out to be most accurate, on the
+day Labour’s manifesto was released May was on course for a
+parliamentary majority of more than seventy. Despite one of the worst
+campaigns in living memory, she actually achieved a vote share
+comparable to Margaret Thatcher’s in 1983. That this didn’t translate
+into a sizeable majority is down to the ‘Corbyn Surge’, an unprecedented
+turnaround in public opinion.
 
-Authors in the “post work” tradition such as Nick Srnicek and Alex
-Williams see a UBI as a central feature of a highly automated
-post-capitalist society. Within capitalism, it is put forward as a
-transformational reform, smoothing the path towards post-capitalist
-society by challenging the ideology of work that makes one’s job a
-signifier of social purpose and worth.
+Corbyn deftly prized apart what had seemed an unbeatable electoral bloc
+around Brexit, largely through direct engagement with the underlying
+economic issues. He ended up taking 40 per cent of the vote on a
+9.5-point swing, the largest increase in Labour’s share since Clement
+Attlee in 1945. Corbyn’s electoral appeal to previously out-of-reach
+sections of the public such as the young has also proved extraordinary.
+Turnout among 18-24 year olds shot up from around 43 per cent in 2015 to
+58 per cent last week, and Corbyn’s name is being [chanted in
+nightclubs](https://twitter.com/joecguinan/status/874431903075631105)
+across the country. Labour also carried 55 per cent of 35-44 year olds,
+compared to 29 per cent for the Conservatives. Opinion surveys since the
+election have placed Labour ahead by five or six points – 45-39 in a
+recent Survation poll. Amid the rubble of May’s hegemonic ambitions can
+also be found the wreckage of yesterday’s received political wisdom. The
+establishment punditocracy, including its nominally left wing, has been
+repeatedly wrong-footed by events and lacks credibility as to what is
+and is not possible in Britain in 2017. We have arrived at a new
+conjuncture.
 
-In contrast, the “workerist” tradition has argued that it would
-undermine the key aim of post-capitalism. A [recent critique in Jacobin
-magazine](https://www.jacobinmag.com/2017/12/universal-basic-income-inequality-work)
-is exemplary. UBI proponents are charged with abandoning the idea of
-worker’s emancipation in the workplace through control of the production
-process. UBI, it is said, offers workers only a subordinated and
-alienating position within a market economy.
+Labour is now on a permanent war footing and is a realistic contender
+for office. As a result, the left must now get much more serious about
+policy and strategy. Embracing the magnitude of this historic
+opportunity, the task is now to put flesh on the bones of a
+transformational agenda capable of living up to the hopes and responding
+to the deep structural challenges of a fluid and rapidly changing
+political and economic landscape. To consolidate the ambitious project
+they have initiated, Corbyn and Shadow Chancellor John McDonnell must
+follow through on the construction of a radical new left political
+economy. The responsibility is enormous. As [McDonnell has
+said](http://www.independent.co.uk/news/uk/politics/labour-government-jeremy-corbyn-most-radical-ever-shadow-chancellor-john-mcdonnell-clement-attlee-a7041311.html),
+‘I want us to surpass even the Attlee government for radical reform. The
+situation demands nothing less’.
 
-So should a UBI be part of a socialist vision for the future? Does a UBI
-even make sense as a transformative reform within capitalism? Debates on
-UBI as a practical policy are well-rehearsed, but this article seeks to
-answer these questions through a critical review of the Marxist
-perspectives on the concept.
+Getting elected may be the easy part. There is a strong possibility that
+a Corbyn government will take power in the midst of the greatest crisis
+of confidence in the British economy since the end of the Second World
+War. Only by re-establishing broad control over the national economy can
+the left hope to manage the coming period of pain and dislocation that
+will occur as a result of exit from the European Union, not to mention
+the further shocks – inevitable, and therefore to be confronted squarely
+– that will stem from any attempt to substantially unwind neoliberalism.
+Without wishing to be alarmist, it’s increasingly evident that a high
+price will be exacted from any left government with the temerity to
+pursue serious departures from the status quo. ‘The roof will fall in’,
+warns Ray McAnally as radical Labour Prime Minister Harry Perkins in *A
+Very British Coup*. Capital flight, investment strikes, foreign exchange
+crises, trade retaliation – all are possible, whether as market
+reactions or deliberately administered punishment beatings.
 
-Freedom in work
----------------
+Careful planning and strategy will thus be critical. In this regard,
+there may be important partial models to be found in past instances of
+capitalist crisis management. One example that springs to mind is the
+contingency plan – known as ‘the unmentionable’ and kept locked in a
+cupboard at HM Treasury – for trade and capital controls drawn up for
+deployment in the event of failure of the 1976 IMF talks.[^chapter-2-2]
+The strong policy measures taken by a number of developed and developing
+countries in response to the 1997 Asian Financial Crisis and the 2008
+Great Financial Crisis are another potential source of ideas.
 
-“Workerism” is the often derogatory term for Marxist analysis that
-dogmatically privileges manual production workers as creators of
-economic value and agents of history, calling for workplace organisation
-to the exclusion of all else. Though this is a fair criticism of
-specific Marxist movements, much of the Marxist tradition is
-“workerist”—with a small “w”—in emphasizing wage labour as the origin of
-economic value. As workers, we are said to create value and continually
-remake the world, yet at someone else’s direction. Seeing ourselves as
-passive “employees” rather than active creators is crucial to the
-concept of alienation, which underpins capitalists’ ability to
-expropriate value from production, yet herein is said to lie our latent
-revolutionary potential.
+Unused to operating at such levels of technical detail, it’s essential
+that the left now begins thinking along these lines. With very few
+exceptions, the think tanks and liberal commentariat won’t lead on this,
+though some may follow. The stakes could hardly be higher. For all the
+wrenching dislocations, someone has got to go first in successfully
+creating a new economic model beyond neoliberalism. The agonies of
+Syriza in Greece – a popular left government of the damned, neutered and
+humiliated, condemned to implement the very policies it was elected to
+oppose – provide a cautionary tale, a memento mori of the costs of
+taking on the international economic order unprepared. Britain, though,
+is not Greece, and we should take our chances. How fitting it would be
+if the first advanced industrial economy to provide a testing ground for
+neoliberal policies were to be the first to fully re-emerge, blinking
+into the sunlight, as the long dark night of neoliberalism draws to a
+close.
 
-Accordingly, emancipation cannot be seen as freedom from work, which
-would appear to be an abdication of agency. Instead, class struggle
-centres on the workplace, on the fate of the value we create, and on the
-control of the work process itself. The goal is freedom-in-work through
-the socialisation and democratisation of the workplace. The free
-association of producers replaces wage labour.
+The Manifesto and Beyond
+------------------------
 
-This position can be caricatured—and historically often has been—as
-ignoring those who are outside the realm of capitalist production.
-However, it maintains that unpaid work (such as domestic labour) can,
-like all labour, create use value, which is something to celebrate.
-Greater recognition of this fact gave rise to ideas such as “wages for
-housework”. Although proposed in opposition to narrow workerism, these
-ideas still embody a certain workerist logic: the response to unpaid
-labour is to demand that it should be recognised as labour proper by
-linking it to a wage, and that it ultimately should be socialised, in
-order to emancipate it. In this vision, the realm of work expands
-outwards, but work is to become self-directed, and no longer alienating.
+Not since the ’seventies and early ’eighties – when the party was
+committed to bringing about what Tony Benn termed ‘a fundamental and
+irreversible shift in the balance of power and wealth in favour of
+working people and their families’ – has Labour put forward as bold a
+plan for the transformation of Britain as is contained in the 2017
+manifesto, [*For the Many Not the
+Few*](http://www.labour.org.uk/page/-/Images/manifesto-2017/Labour%20Manifesto%202017.pdf).
+Policies ranging from increasing the minimum wage and abolishing zero
+hours contracts to raising taxes on the rich and introducing rent
+control are generally popular. Scrapping tuition fees proved to be a hit
+with younger voters, who not only turned out in higher numbers but broke
+overwhelmingly for Labour. Re-nationalising railways and utilities –
+policies that were jumped on by the right-wing press as evidence of
+Labour’s hard left turn – are also supported by large numbers of
+Britons.
 
-In this context, it is not hard to understand the workerist opposition
-to UBI. To the extent that UBI means we can drop out of work, we gain
-“free time”, but we lose the historical agency we have as workers. As
-UBI-funded consumers, we are seen as passive, alienated, taking as given
-a world shaped by others. We may do work, such as housework, that
-creates use value outside of the market, but there is no reason to
-believe that this work must be “free”: it may fall victim to other
-structures of domination such as patriarchy. Might not UBI create an
-enormous pressure to “volunteer” in some approved manner, to
-symbolically earn one’s UBI cheque?
+Although widely described as a social democratic programme, For the Many
+Not the Few in fact contains the seeds of a radical transformation
+beyond social democracy. Policies such as establishing a national
+investment fund to help ‘rebuild communities ripped apart by
+globalization’, linking public sector procurement to a regionally
+balanced industrial strategy, creating a national investment bank and
+new local publicly-owned banks, and democratising the economy by
+supporting public and worker ownership begin to provide a vision of a
+break with established economic orthodoxies. In combination with a
+commitment to devolving and decentralising power and decision-making to
+local communities and forming a Constitutional Convention that ‘will
+look at extending democracy locally, regionally and nationally,
+considering the option of a more federalised country’, the contours of a
+very different pattern of political economy begin to emerge.
 
-From the beginning, Marxism has pointed out that wage labour offers an
-escape from “pre-capitalist” structures, even as it imposes a new form
-of subjugation. Workerism embodies the classical Marxist teleology that
-sees capitalism as a step on a liberatory path that is only completed
-through the socialisation of labour. From this perspective, UBI seems to
-miss a crucial step in the process towards post-capitalism.
+It’s [long been
+clear](http://renewal.org.uk/articles/the-radical-potential-of-democratising-capital)
+that to survive in the era of austerity social democracy would have to
+turn radically to the left. There can be no going back to either the
+post-war Golden Age or the Third Way settlement. In the former,
+redistributive social spending and welfare state expansion were linked
+to the post-war boom. Even before the oil shocks of the ’seventies the
+terms of this boom were being called into question, as productivity
+waned and capitalists, facing declining rates of profit, sought new ways
+to outflank increasingly emboldened mass trade union movements. When
+stagflation undermined Keynesianism, social democrats had no
+alternatives to hand – in part because, as Robin Blackburn has argued,
+they ‘failed to enlist the mass of working people … \[and\] left
+untouched the central dynamic of the private accumulation
+process’.[^chapter-2-3] The Third Way, in turn, relied on full
+accommodation to neoliberalism in order to skim off the surplus for
+ameliorative social spending, a strategy that first ran aground and then
+collapsed with the financial crash and the end of the growth upon which
+it depended. Social democrats have since been bereft of a programme,
+defaulting to a position as the left wing of austerity with disastrous
+results. What Corbyn has demonstrated should have been obvious for a
+while now. Ordinary people are way ahead of the politicians and pundits,
+they know that things are not working – and want to hear an authentic
+political message about change that will make a difference.
 
-This critique recognises the fact that UBI is usually proposed as a
-specifically social democratic reform within capitalism. Despite all the
-talk of “free time”, such a formulation of UBI can only be intended to
-leave the system of wage labour intact, and this is how left critiques
-of UBI tend to understand it. As such, the liberation involved appears
-limited: if we still have to perform wage labour to supplement our UBI
-cheques, then we still cannot escape the alienation of working as
-someone else’s tool.
+Corbynism contains the seeds of something very different, but it will
+only succeed if it can energize its mass membership and the wider
+British public around a transformative vision. The starting point is the
+wildly popular ‘offer’ contained in the manifesto. This must now be
+augmented by a comprehensive plan of action capable of truly addressing
+the growing social, economic, and ecological challenges Britain is
+facing – from inequality and failing democratic legitimacy to climate
+change and increasing labour market precarity. At the core of such a
+programme is a new set of models, institutions, and strategies that, if
+put in place, would in and of themselves produce vastly improved
+societal outcomes.
 
-UBI is also unlikely to be seen as a transformative reform from a
-workerist perspective. Organising for a (higher) UBI, to lessen the
-impact of low pay and precarious conditions, appears as an alternative
-to workplace organisation. And, from this perspective, organising to
-plead for state protection from capital looks like a dead end. Indeed,
-to the extent that UBI is really a subsidy of low pay and precarious
-conditions, it is not clear who the state would be protecting from whom.
+The scaffolding of this emerging new approach can be found in
+[McDonnell’s ‘new
+economics’](http://www.labour.org.uk/blog/entry/the-new-economics),
+especially regarding alternative ownership forms. A few days before the
+election Labour released [*Alternative Models of
+Ownership*](http://www.labour.org.uk/page/-/PDFs/9472_Alternative%20Models%20of%20Ownership%20all_v4.pdf),
+a report to McDonnell and Rebecca Long-Bailey, Shadow Secretary of State
+for Business and Industrial Strategy, by a group of cutting edge
+theorists and practitioners. An extended review of this extraordinary
+document can be found [here on *New
+Socialist*](https://newsocialist.org.uk/labours-alternative-models-of-ownership-report/).
+Suffice it to say that the report represents the most exciting economic
+programme to be developed by the Labour Party in forty years. It models
+the way in which the wider left should now be rolling up its sleeves and
+getting to work, going beyond rhetoric to detailed institutional design
+and policy formulation. There are submerged but long-standing left
+traditions that can be drawn upon to reanimate the old promise of
+economic democracy as we explore new avenues for the wholesale
+democratisation of the economy and society.
 
-Freedom from work
+None of this is about selling a fantasy. Real-world examples of
+democratic, participatory economic alternatives already exist (or
+previously existed) in communities across the globe. They illuminate how
+practical new approaches can generate innovative solutions to deep
+underlying problems. They embody new design principles, relying not on
+regulatory fixes or ‘after-the-fact’ redistribution but on fundamental
+structural changes in the economy and the nature of ownership and
+control over productive wealth that go right to the heart of our current
+difficulties – and are capable of producing greatly improved and
+politically and ecologically sustainable outcomes.
+
+Ultimately, a deep and thoroughgoing break with neoliberalism will be
+required. Britain’s departure from the European Union, despite
+near-universal lamentation on the left, is a significant opportunity,
+over time, to fundamentally recast the basic operations of the British
+economy in a far more radical direction than would ever be permissible
+under EU competition law and single market regulation. A range of
+instruments and policy options – from public ownership and procurement
+to industrial strategy and managed trade – that are [discouraged or
+outright forbidden by the EU
+treaties](https://www.opendemocracy.net/uk/thomas-m-hanna-joe-guinan/is-another-europe-possible)
+will soon be available. We must make the most of them.
+
+A radical Agenda
+----------------
+
+The elaboration of a full policy programme for a radical Labour
+government should be a process of collective endeavour, drawing upon the
+manifold talents, viewpoints, and experience of the wider movement
+behind Corbynism. Labour’s [National Policy
+Forum](http://www.labour.org.uk/index.php/npf-2017/), as inherited by
+the current leadership, seems entirely unfit for such a purpose, as if
+it were specifically designed to undermine the ability of the membership
+to influence policy. Lest precious movement energy be wasted on an
+unproductive process, it should be quickly overhauled and democratised.
+In the meantime, the aforementioned *Alternative Models of Ownership*
+report suggests the possibilities inherent in reviving the rich
+tradition of [discussion documents and
+pamphleteering](http://renewal.org.uk/articles/bring-back-the-institute-for-workers-control)
+that played such an important role in the development of Labour’s last
+radical programme, the Alternative Economic Strategy (AES), which for a
+decade in the late ’seventies and early ’eighties represented the left’s
+alternative to both Keynesianism and neoliberalism.[^chapter-2-4]
+
+It is in such a spirit that the following suggestions are presented, the
+broad brush strokes of a possible agenda for ‘Full Corbynism’ – a
+proposed political economy for the British left based on new
+institutions and approaches and the centrality of ownership and control,
+democracy and sustainability, participation and decentralisation. They
+are offered up as a contribution to a [necessary discussion and
+debate](https://newsocialist.org.uk/economics/) about what it would
+actually take to build a better economy and society in Britain in the
+twenty-first century, based on socialist principles of equality,
+democracy, community, and sustainability.
+
+Democratic Ownership
+--------------------
+
+Slowly but surely, the attractions of worker ownership and control are
+creeping back up the UK political agenda, given their suitability as
+instruments for tackling inequality and allowing ordinary people to
+‘take back control’ over their lives and the economy as a whole. Even
+Theresa May talked about adding worker representation to company boards
+(she quickly backed down in the face of corporate opposition). The
+Labour manifesto calls for a ‘right to own’, which would give workers
+the right of first refusal when their companies are up for sale. Public
+authorities in the UK should be actively supporting and funding the
+incubation and expansion of worker cooperatives as part of their [local
+economic development
+strategies](https://www.theguardian.com/cities/2017/apr/11/preston-cleveland-model-lessons-recovery-rust-belt).
+As is suggested in the Alternative Models of Ownership report, Labour
+should also investigate the benefits and limitations of Employee Stock
+Ownership Plans (ESOPs), which could dramatically increase worker
+ownership with little risk or cost to workers.
+
+There are huge potential benefits from pursuing a massive expansion of
+democratic ownership of enterprises, given the opportunity presented by
+the coming ‘silver tsunami’ of retiring baby boomer business owners and
+the succession question this raises for large numbers of small and
+medium-sized companies. A large worker-owned and cooperative sector
+could form an important institutional base for a new place-based
+economics and politics – one that is capable of overturning simplistic
+notions of ‘pro- or anti-business’ and replacing them with new
+alignments around re-circulatory local economies built on multipliers in
+opposition to extractive multinational corporations.
+
+Money and Banking
 -----------------
 
-The post-work tradition has its roots in the post-operaismo of Italian
-Marxists such as Carlo Vercellone, Antonio Negri, and other “post-work”
-thinkers such as André Gorz. Its key contention is that work and
-value-production increasingly fail to conform to the model we see in
-Marx, one that is better suited to early industrial times. As production
-becomes more and more immaterial, less bounded by the conventional
-workplace, and less defined by physical time or output, labour’s role in
-production becomes harder to measure and define. In other words, the
-sphere of value creation becomes diffuse. It comes to include not just
-domestic and reproductive labour, but all activity that is generative of
-a functioning society and the knowledge that it possesses.
+The City sits atop one of the most highly financialised economies in the
+world, with rentier concerns long predominating over productive
+investment or social need. Britain needs a new approach that puts
+banking, credit creation, and investment at the service of the real
+economy and public priorities. The Labour manifesto promises ‘to
+transform how our financial system operates’ through increased
+regulation of financial firms and creating a ‘more diverse banking
+system’ to drive investment to localities and regions. This would
+include creation of a national investment bank and a possible break up
+of RBS into smaller, publicly owned banks. Over time, we should be
+moving in the direction of a more fully democratic, public-benefiting
+model at the community, regional, and national levels. There are a host
+of possibilities for more democratic finance, from public and postal
+banking systems to mutuals, credit unions, and fintech innovations that
+support peer-to-peer lending. Woven together, a new money and banking
+system could allow for more active fiscal and monetary policy to
+allocate credit in the economy toward social, environmental, and
+community development purposes.
 
-As a result, much less emphasis is placed on the idea of emancipation
-*within* work. Instead, the receipt of a basic income often takes centre
-stage as the emancipatory moment, releasing us from the compulsion of
-performing alienated activity for the market, or indeed for the state.
-Work is not transformed so much as progressively abandoned in favour of
-UBI-funded, self-directed, productive activity.
+The left needs to better understand the [macroeconomics of
+money](http://www.renewal.org.uk/articles/modern-money-and-the-escape-from-austerity).
+There is actually a ‘Magic Money Tree’. It is to be found on
+Threadneedle Street, where it has been located since 1734 – the Bank of
+England. The operations of central bankers tell us a great deal about
+what is possible, beyond false notions of scarcity of money that
+underpin austerity. With a few keystrokes, the Bank of England produced
+[over £500 billion in new money via ‘quantitative
+easing’](http://www.bankofengland.co.uk/markets/Pages/apf/default.aspx)
+as part of an effort to rescue the private commercial banks from their
+reckless behaviour and stimulate the economy following the financial
+crash. It’s high time we had a conversation about how to better use this
+tremendous sovereign monetary power that is at our disposal.
 
-Technological advance plays a critical role in this approach. The growth
-of labour productivity through automation is seen, in the tradition of
-Gorz, as outpacing our demand for the products of labour. This would
-appear to make productive full-time work for everyone an impossibility,
-both as a source of income and as a route to emancipation. A related
-critique is David Graeber’s view that “[bullshit
-jobs](https://strikemag.org/bullshit-jobs/)” have become the norm in
-capitalism—jobs which may have some tactical rational for employers yet
-cannot be seen as meaningfully creating value for society. For Graeber,
-such jobs should not be socialised; they should be abolished.
+Finally, there is the matter of what to do about the City. London is the
+largest foreign exchange market in the world, with around \$1.2 trillion
+per day in spot transactions and derivatives trades. At two hundred
+times nominal UK GDP, these flows are clearly not financing domestic
+production. Nor are they financing U.S.-European trade, which they
+exceed by a factor of four hundred.[^chapter-2-5] What they are about is
+providing liquidity to markets – leading to asset price inflation,
+particularly of London real estate prices, and the hollowing out of
+other sectors of the UK economy. Critics point to a debilitating
+‘finance curse’ from this large and over-mighty financial sector – akin
+to the infamous ‘resource curse’ afflicting economies endowed with too
+many valuable natural resources. Beyond separation of retail and
+investment banking, as promised in the manifesto, Labour should seize
+upon the historically unique opportunity afforded by Brexit to throw the
+City under the bus, using the loss of EU ‘passporting rights’ to vastly
+shrink speculative trading, assert public control over finance, and
+rebalance the UK economy back toward real production and social needs.
 
-So workerist and post-work traditions actually share a vision of
-production through free association in a society that has moved beyond
-wage labour, but they foresee very different paths to get there: the one
-through the transformation of work, the other through escaping it.
+Managed Trade and Capital Flows
+-------------------------------
 
-The moral agenda is also different. Paying workers “the full fruits of
-their labour” is a caricature of the workerist position, but not
-entirely without basis. By contrast, proponents of UBI see it as a way
-for society to reward all useful activity performed beyond the market.
-It is often promoted as a “dividend” of past efforts to develop
-knowledge, technology and “social capital”.
+Given that Brexit looms, it’s critical that the left begins to set out a
+plausible trade model, for application in both the short and longer
+term. This must allow for a Britain considerably less exposed to
+international trade and finance, one of the areas in which the
+contemporary left has shown the least economic imagination. Once the
+preserve of the alter-globalisation movement, critiques of ‘free trade’
+agreements, offshoring, and unrestricted capital flows have increasingly
+becoming the political property of the populist right, of Trump and Le
+Pen, with dangerous consequences in regions ravaged by disinvestment and
+deindustrialisation. Globalisation and liberal trade are peculiar causes
+to have been taken up by socialists, given that they serve to
+automatically foreclose or undermine virtually every strategy,
+experiment, and new institutional direction a renewed left can and
+should embrace.
 
-Lastly, there is the question of the transformative potential of a UBI
-on capitalism itself. Inasmuch as it creates an alternative to wage
-labour, a UBI is often seen by left proponents as a tool to undermine
-the bargaining power of capital over labour, forcing improvements in pay
-and working conditions, or even challenging capitalism itself. Even the
-implementation of a modest “partial” UBI is seen as a transformative
-reform, undermining the ideology of work that makes one’s job a
-signifier of social purpose and worth, and that stands politically in
-the way of the transition to a post-work society.
+What is needed is a re-conceptualisation of managed trade that goes
+beyond archaic protectionism to instead provide actual protection – for
+democratic autonomy, locally embedded economies, and the policy space
+required for a new approach to regional and national development. A new
+model of managed trade and capital controls would open up the prospect
+of reindustrialisation, improved economic and job security, and
+community stability – thereby blunting the edge of rising anti-immigrant
+sentiment. It would also offer the basis for genuine solidarity and
+economic support for communities in the global South. The left’s
+solution to labour arbitrage, [as we’ve argued
+before](http://www.renewal.org.uk/articles/polanyi-against-the-whirlwind),
+will be found in the direction of anchoring capital, not people.
 
-Some sources of confusion
--------------------------
+Industrial Strategy
+-------------------
 
-One conclusion we can draw from this controversy is that it is not
-always helpful to read the labour theory of value (LTV) as a normative
-theory, despite the undoubted rhetorical power of doing so. With LTV
-treated as a moral theory of theft, the UBI debate becomes one of
-competing moral claims to the social product, based upon competing
-claims about value-creation.
+In Britain, many of the challenges of post-industrial decline remain
+starkly present. Entire communities have been thrown on the scrap heap,
+with all that implies in terms of associated capital and carbon costs
+and wasted lives. It is time the left revisited the possibilities
+inherent in an aggressive industrial strategy, both locally and
+nationally.
 
-But in what sense should value-creation in capitalism be a moral
-yardstick when we are talking about transformation to post-capitalist
-society? Marx famously proposed “to each according to his (sic.) needs”
-as a better principle; a post-capitalist society has to transcend the
-logic of reward-for-contribution to realise that vision. LTV, on the
-other hand, can be seen as a descriptive theory of the determination of
-prices of production under specific circumstances. This is why Marx only
-considers wage labour in that theory—unpaid work is not considered to
-have any effect on prices.
+A true community-sustaining industrial strategy would consist, in the
+broadest sense, of the deliberate direction of capital to sectors,
+localities, and regions so as to balance out market trends and prevent
+communities from falling into decay, while also ensuring the investment
+in research and development necessary to maintain a highly productive
+economy. In some cases this might mean assistance in allowing workers to
+buy up facilities and keep them running. In other cases, it might
+involve re-training workers for new skills and re-fitting facilities for
+work in a different industry. In either case, affected localities and
+populations would be able to participate in planning and draw upon
+public resources whose aim is to help secure the long-term stability of
+community and, overall, to sustain national production in key sectors
+and industries.
 
-There is also a lot of confusion about sequencing in this debate. Are we
-talking about before or after the revolution? To attack UBI, it is
-tempting to counterpose the promise of after-the-revolution socialism to
-the dystopia of a capitalism shored-up by a lumpenproletariat-pacifying
-UBI. At the same time, it is tempting for the post-work side to
-counterpose the self-directed, unpaid activity and free association of
-hypothetical UBI-receivers to the horrors of actually-existing wage
-labour.
+Community-sustaining policy to preserve particular places can be married
+to sector-based approaches. Green manufacturing strategies and services
+(such as home and business energy retrofits) can support the building
+and sustaining of demand and production capacities for ecologically
+sustainable forms of energy and technology. An industrial strategy
+designed to underpin a Green New Deal could help Britain overcome
+multiple economic challenges. It could provide high-wage jobs, generate
+revenue, expand exports, and reduce trade deficits – all while reducing
+greenhouse gas emissions and improving air quality and public health.
 
-But neither of these are entirely fair comparisons to make. Both compare
-capitalist realities with states of affairs that are really only
-possible post-capitalism. We need to consider what role UBI might play
-in a post-capitalist/socialist/communist economy. In parallel, we need
-to consider exactly what kind of UBI is possible in a capitalist
-economy, and the limits thereof.
+A key principle underlying a community-supporting industrial strategy
+must be the preservation of existing communities and their productive
+capacities on a long-term basis. Deals like that with Nissan that keep
+factories open for a time but allow private owners to scale back or
+close them at their convenience do not merit the public subsidies and
+support they currently receive. A democratic, participatory industrial
+strategy would help ensure that productive capacities stay in use in
+such circumstances and provide guidance on how to organise conversion
+when a shift to a different product is required. Depending on the needs
+and desires of the community, as well as economic considerations, this
+may mean adopting some form of community, public, or worker ownership.
+In the long-term, it may also entail the conversion of certain
+industries, such as armaments, to socially beneficial purposes.
 
-UBI would be contingently necessary in a post-capitalist economy
-----------------------------------------------------------------
+Municipal Socialism
+-------------------
 
-UBI has emerged as a policy response to the problem of persistent labour
-oversupply and the precarity and poverty that goes with it. This
-oversupply, however, is a necessary feature of capitalism. In the
-workerist vision of a socialist economy, the problem is solved by
-guaranteed access to employment. In the post-work vision, UBI solves the
-problem that employment can no longer be guaranteed. My aim in this
-section is to suggest how this chasm might be bridged.
+The centralisation and consolidation of state power throughout the
+twentieth century supplanted long-standing socialist traditions of local
+economic autonomy and experimentation. This has left communities at the
+mercy of shifts in national policy and global markets, leading to all
+too many discarded cities, regions, and people. In line with the
+well-known principle of *subsidiarity*, political-economic power
+wherever possible should be decentralised and devolved back to the
+lowest appropriate level.
 
-First of all, I believe that full employment—understood in a certain
-way—should be seen as a basic requirement in a post-capitalist economy.
-The opportunity to work as much as we would like is not just a
-nice-to-have; it is needed to underpin the strength of labour and ensure
-the democratic character of the production process. I am tempted to say
-that worker power through effective labour scarcity is even more
-fundamental than the *de jure* control of the productive apparatus.
-There is no state enterprise or worker coop that could not potentially
-become the site of alienation if you had to beg to be allowed to join,
-i.e. if surplus labour put some people in a position of *de facto* power
-over others.
+A particular source of inspiration is the history of [municipal
+socialism](https://www.opendemocracy.net/uk/thomas-hanna-joe-guinan/democracy-and-decentralisation-are-their-watchwords-for-corbyn-and-mcdonn),
+both in Britain and elsewhere, and how local economic autonomy can allow
+for the development and deployment of political power (backed by strong
+movements and institutions) from the ground up. Economic experimentation
+and innovation in local ‘laboratories of democracy’ can also produce
+powerful demonstration effects for other localities and become the basis
+for new national policies – as happened, famously, with mutual health
+provision in the Welsh mining valleys as a forerunner to Bevan’s
+National Health Service.
 
-But there is no reason why we should all want to work forty hours a
-week. In fact, “how much we want to work”, on aggregate, is not a matter
-of immutable individual preferences but something to be consciously and
-collectively decided. It should be an object of collective economic
-management, and this is where UBI may play a role post capitalism.
+There are openings today for experimentation and progress at the local
+and regional level throughout Britain. The celebrated [‘Preston
+Model’](http://thenextsystem.org/the-preston-model/) of community wealth
+building – based on the principles and work of our own organisation,
+[The Democracy Collaborative](http://democracycollaborative.org), in
+Cleveland, Ohio – is one such direction, deploying public procurement
+and the stabilising power of place-based economic anchor institutions to
+set about the [democratic transformation of the municipal and regional
+economy](http://www.renewal.org.uk/articles/the-road-to-socialism-is-the-a59-the-preston-model).
+It suggests the potential basis for a new institutional underpinning for
+socialist politics, building support for the new economics from the
+ground up in a way that is far less scary and more comprehensible in a
+municipal context than it can sometimes appear at the national level.
 
-How much we should want to work, moreover, depends on how much we want
-to produce. In capitalism, growth is just the accidental product of
-uncoordinated profit maximization. Associated production, by contrast,
-implies a collective decision about how big the economy should be at any
-one time. Even putting aside the issue of ecological limits, the balance
-between well-being now and in the future, and thus between current
-consumption and investment, is fundamentally an ethical and political
-one. To let the current and future scale of output be determined
-accidentally, through uncoordinated activity, is to abdicate
-responsibility. A socialist society has to target a certain scale of
-output at any date, thus aiming for a certain trajectory of growth or
-de-growth.
+Public Ownership
+----------------
 
-A target level of output then implies a target for the input of labour
-time, given the state of production technology at any one moment.
-Looking forward, this is unlikely to mean everyone working all week; not
-in the context of automation, ecological constraints and the satiation
-of basic needs. So there can be no question of simply trying to
-stimulate whatever output it takes, Keynesian style, to absorb however
-much labour we might happen to want to supply. Instead, full employment
-would require that we adjust the amount of labour we *want* to supply to
-the desired level of output.
+Increasing inequality, poverty, environmental degradation and the
+catastrophic threat of climate change, together with a general sense of
+an impoverished public sphere and loss of economic control wrought by
+decades of privatisation and globalisation, are pushing activists and
+theorists back in the direction of public ownership. As Labour’s
+manifesto makes clear, it’s time to set out the role of an expanded and
+fundamentally reimagined UK public sector – from the ownership of
+enterprise, to the promotion of innovation, to healthcare and education
+and the production of knowledge.
 
-Now this is not a problem where there is no market. For example, if I
-agree, in a self-sufficient commune, to a plan which foresees everyone
-working 20 hours a week, then by definition I decide and want to work
-the required 20 hours a week. The supply and demand sides are brought
-together in a conscious decision. The same applies to voluntary activity
-and any work done for its own sake, rather than for payment.
+As calls for public ownership grow, many activists and thinkers engaged
+in its recovery and rehabilitation have already decided against a simple
+return to the top-down centralised public corporation model of the
+post-war period. The fightback against [privatisation of public
+services](https://www.opendemocracy.net/ourkingdom/joe-guinan-thomas-m-hanna/privatisation-very-british-disease)
+has been accompanied by the adoption of innovative new approaches to
+collective ownership. In this view, worker ownership, consumer
+cooperatives, municipal enterprise and a host of kindred institutional
+forms all represent ways in which assets and enterprises can be held in
+common by small and large publics – including through hybrid models that
+draw upon two or more institutional forms. From the [We Own
+It](https://weownit.org.uk) campaign and the [Municipal Services
+Project](http://www.municipalservicesproject.org) to new ‘public-public
+partnerships’ in water and other sectors, we are seeing the emergence of
+a [more pluralistic approach to public
+ownership](http://www.renewal.org.uk/articles/whos-afraid-of-public-ownership).
+The question for the British left at this point should not be a
+technical economic one about efficiency – the literature shows that
+public ownership is decidedly not inherently less efficient – but rather
+a political one about power, democracy, the social benefits of
+ownership, and which particular forms of collective enterprise we might
+wish to promote. 
 
-However, there are few visions of a post-capitalist economy that do not
-foresee at least a consumer market and payment for labour (in money,
-“labour tokens”, etc.), at least transitionally. And where work is
-performed for payment, the problem arises of setting this reward at the
-right level to incentivize the required supply of labour. Rationing out
-scarce paid work is possible but suboptimal, leaving nearly everyone
-dissatisfied.
+Collective Capital
+------------------
 
-This is where UBI comes in. Clearly, by raising or lowering a UBI, we
-could collectively influence aggregate labour supply, whilst leaving
-each of us free to decide how much we each want to work for payment. In
-fact, we should speak here not just of UBI but of the general balance
-between labour and non-labour income. The latter includes goods and
-services provided in kind, like public healthcare, and money transfers
-such as pensions, as well as UBI. Here then, UBI becomes an intelligent
-tool for planning aggregate labour supply in the context of prior
-defined goals for aggregate production and consumption.
+Employee pension funds have grown exponentially to the point where they
+now represent one of the largest pools of investment capital in the
+world. If workers were to exercise their collective ownership rights
+over these deferred earnings, and to express their social and economic
+priorities through their funds’ investment decisions, it could shake our
+present economic system to its core. If there is to be a serious attempt
+to construct an alternative socialist political economy for the
+twenty-first century, pension fund assets are an obvious place to start
+because workers already own that capital – and because the ongoing
+crisis of the welfare state and the demographic changes taking place in
+advanced industrial countries mean that there is the potential for
+building political momentum for a different kind of pension regime.
 
-Consequently, instead of seeing “workerist” and “post-work” visions of
-post-capitalist society as opposing each other, we can see them as
-contingently necessary solutions to different historical circumstances.
-We can see UBI as a contingently necessary tool, rather than as
-something mandated by a particular view of the LTV. In a
-low-productivity, early industrial context, with a strong desire to
-increase output to meet basic needs, we face the problem of how to
-motivate and compensate the performance of a large quantity of arduous
-work. In this context, there is limited scope, macroeconomically, for
-extensive non-labour income.
+Shifting even a portion of labour’s collective capital into local
+community development, democratised forms of ownership, and new public
+infrastructure would be a powerful transition strategy, one that
+simultaneously increases worker and public control over the means of
+production and decreases the power of finance capital. The left should
+also examine the potential application of other collective capital
+strategies, such as sovereign wealth funds and public trusts – including
+their possible use as real productive assets to backstop proposals for a
+basic income or other socialised income streams from capital.
 
-By contrast, with high labour productivity, high living standards and
-ecological constraints, we face the problem of how to allocate output
-without giving rise to unquenchable demands for paid employment. As a
-result, a shift towards non-labour income becomes macroeconomically
-necessary. Meeting particular needs comes first, in my view, but
-something like a UBI becomes increasingly desirable, and even hard to
-avoid. So the post-work vision of UBI in a highly automated communist
-economy, in which little work needs to be paid for, also makes sense.
-Vitally, both visions are ones of full employment, in the sense that we
-each get as much paid work as we want.
+Democratic Planning
+-------------------
 
-But are we really still talking about UBI at this point? The same
-mechanisms can be discussed with reference to basic service provision or
-systems of rationing to meet basic needs; making UBI the theme just
-situates the discussion within debates on automation and the potential
-outcomes of capitalism’s changing technological base. It is also clear
-that a post-capitalist “UBI” is functionally completely different from a
-capitalist one. So does a UBI make sense in a capitalist economy, highly
-automated or otherwise?
+If our new economic institutions are not to float helplessly in the sea
+of the capitalist marketplace, future left strategies will likely need
+to include substantial planning capacities and functions. In a political
+context still dominated by neoliberal orthodoxy, *planning* remains an
+even dirtier word than *nationalisation* – even though it is widespread
+in the internal decision-making of large private corporations, many of
+which are bigger economic entities than some countries. Given the
+pressing demands of climate change, including the radical unevenness of
+its impacts, the next few decades will doubtless require a considerably
+greater role for economic planning than has been the case in the last
+few decades.
 
-The limits of UBI within capitalism
------------------------------------
+Advances in technology and computational power can now sustain far more
+sophisticated planning systems than could be dreamt of in the twentieth
+century. However, experience demonstrates that such planning must be
+made democratic and participatory as well as effective. A starting point
+is the contemporary opportunity to establish and expand participatory
+budgeting at the municipal level, creating neighbourhood assemblies in
+towns, cities, and counties that can take on a more robust role in
+charting their own economic course. Another element is the empowerment
+of democratised municipal and regional economic planning commissions,
+comprised of directly elected representatives, stakeholder
+representatives, and representatives from local citizens’ assemblies.
+Such a system could give real economic decision-making power to a new
+generation of devolved local and regional authorities across the country
+that would be very different from the managerialist model of neoliberal
+executive mayors.
 
-The question for proponents of UBI as a progressive measure within
-capitalism is whether it can really be high enough to provide a
-widespread alternative to wage labour. It seems the answer is “no”.
+There’s also the possibility that, given the scale of economic and
+ecological challenges, such institutions and processes would need to sit
+within a democratic national economic planning system. This would be
+necessary in one form or another in order to facilitate several aspects
+of the above agenda, particularly industrial strategy and trade.
 
-There are circumstances in which a modest UBI could increase labour
-market participation, but these are limited. More generally, a rising
-UBI in a capitalist economy will decrease labour participation and
-unemployment, with predictable effects. Sooner or later the labour
-market will grow “tight” and the bargaining power of labour stronger.
-Inflation is likely to rise as firms try to pass on higher labour costs.
-Ultimately, without state intervention, the result must be a capital
-strike: investment will collapse as profit rates fall, regenerating
-unemployment and returning labour to its former weakness.
+Land and the Commons
+--------------------
 
-This is the point where the state usually intervenes, in the guise of
-fighting inflation. If the state had just raised the level of UBI, then
-the obvious inflation-fighting response would be to lower the UBI again,
-forcing people back onto the jobs market and undercutting wage demands.
-The possibility of a UBI in a capitalist economy is conditional on it
-being low enough *not* to provide a viable alternative to wage labour
-for most people.
+Land and real property ownership is, and always has been, of fundamental
+importance in determining the distribution of wealth and power.
+Once-great cities have fallen into decay, whole regions been left
+behind, as elsewhere haphazard growth and speculation push out the poor
+and vulnerable. In London and other major cities, enormous pressures are
+being placed upon affordable land and housing by property speculation
+that has become synonymous with today’s financialised capitalism.
+Landlordism can also be quite literally deadly, as in the horrendous
+Grenfell Tower fire disaster. At the same time, the geography of
+neoliberalism is creating wastelands in many parts of the UK, which now
+boasts the widest regional economic disparities in Europe.  
+Democratising the ownership of land and housing and increasing community
+control over urban and rural development are critical for stabilising
+local communities – both economically and in terms of population – in
+both strong and weak ‘market’ cities. However, the left’s answer cannot
+simply be to seek to ensure more people have access to ‘the market’ or
+improve state regulation of ‘the market.’ Rather, it should be to
+encourage movement toward decommodification and a commons-based approach
+whereby communities can self-organise to manage and steward their own
+land and housing resources. There are a variety of historical examples
+and precedents for this approach, including community buyouts of land in
+Scotland, community land trusts in the United States, public housing in
+Vienna, and the vision and models of the tenant’s movement in Britain.
 
-For the same reason, UBI *within* capitalism is quite likely to mean the
-redistribution of income from higher- to lower-paid workers, rather than
-taking capital income and redistributing it to labour. There may be
-interesting possibilities to tap rental income flows like land rents and
-speculative capital gains, but the overall scope for sustainably
-reducing profit rates to pay for a UBI must be limited.
+Onward to Victory
+-----------------
 
-Moreover, a modest UBI that failed to provide a viable alternative to
-paid employment might actually increase profit rates. This might be the
-case if a UBI was effectively funded at the expense of higher-paid
-labour, whilst also facilitating lower pay and more precarious
-conditions for many workers. In this case, capital would be better off,
-whereas workers as a whole would be worse off. A UBI could become part
-of a package to create a “business friendly environment”: business might
-still be forced to pay some workers well, but some of that excessive pay
-could be recovered through taxation to subsidize low pay and
-“flexibility” for others.
+The above is a only a preliminary sketch, suggestive of some possible
+elements of a more developed new left political economy. Any such
+strategy and programme must also be situated within some of the most
+interesting and complex debates that are raging at the moment, regarding
+technology, automation, productivity, basic income, race, gender, and
+care. It’s certainly the case that technological unemployment is
+accelerating, but suggestions that universal leisure may be just around
+the corner seem premature, to say the least. British workers toil among
+the longest hours of any OECD workforce and productivity is painfully
+low. Gains to GDP in recent years have largely come from the continual
+addition to the economy of low-wage immigrant labour. Chronic
+underinvestment in plant and skills remains the true ‘British disease’.
 
-What difference does automation make?
--------------------------------------
+Labour must also lift up the importance of care work, which is so
+essential but often left out of our official economic accounting. This
+raises important questions regarding the current gendered division of
+household labour and care, which should be redistributed and, in some
+cases, socialised. We must explore such proposed policy options as a
+basic income or job guarantee, as well as new community structures –
+from co-housing to the spatial re-organisation of work and family life –
+and practices – such as a rebirth of civic participation and voluntary
+work. These possibilities connect back to the visions of past socialists
+such as Oscar Wilde and William Morris, and to more contemporary demands
+of socialist feminists for a post-work society.
 
-In a sense, automation could change all this, but in another sense—and
-this is where the LTV is crucial—it would make no difference at all. The
-idea behind the appeal to automation is that labour productivity will
-become so high that output can simultaneously fund a generous UBI, high
-wages and plentiful profit. Hence, no one would be compelled to work,
-enough people would still be willing to sell their time to capitalist
-firms, and entrepreneurs will still want to invest, all at the same
-time. The capitalist system of exploitation remains intact, but we all
-get to live a good life anyway.
+Many of the necessary tools and strategies already exist to enable the
+British left to construct a new political economy based on alternative
+economic institutions and approaches and the centrality of ownership,
+control, democracy, and participation. Given the growing systemic
+challenges facing our politics and economics – not to mention the
+biosphere – it’s imperative that we begin thinking and planning for the
+long haul, as well as developing strategies that contain the potential
+of creating – as neoliberalism was able to do in a different way – a new
+politics and culture based on a new notion of collective agency and
+citizenship. In this way we can aim to generate the political-economic
+transformation Britain so urgently needs – and, in so doing, create a
+powerful new model for emulation far beyond our borders.
 
-There is an extensive debate about how likely this actually is, given
-recent trends of slowing productivity growth. We must also consider the
-capacity of capital to find non-utility enhancing ways to absorb surplus
-and create work through zero-sum competitive games, such as in
-marketing, or just through the expansion of corporate bureaucracies.
-However, even assuming the promise of automation is fulfilled, this
-vision raises certain questions.
+For the British left, Corbynism is now the only game in town. [We’re
+just getting
+started](https://newsocialist.org.uk/this-is-just-the-beginning-corbynisms-next-steps/).
+Ours will be a Long Revolution, but it’s underway at last.
 
-Firstly, it is not correct, that UBI will be necessary to create demand
-for the output of automated production. Competitive consumption by the
-capitalist class and by states could perform this function perfectly
-well. We also need to be wary of what are essentially moral appeals to
-capital, in the form of arguments that say automation will make a UBI
-necessary in order to preserve some idea of the good (but capitalist)
-society. This is utopian, unless it can be specified why capital should
-acquiesce.
+[^chapter-2-1]: S.Webb, *English Progress Toward Social Democracy*,
+    Fabian Tract No. 15, 1890.
 
-More fundamentally, we may ask why this future is not with us already,
-given that labour productivity has quadrupled in the post war period.
-The answer is that labour, at least for the first three decades, was
-powerful enough to maintain its share of output, resulting in rising
-living standards for workers. After that, increases in productivity were
-rerouted into supporting the endless accumulation of capital.
+[^chapter-2-2]: K.Burk and A.Cairncross, *Goodbye Great Britain: The
+    1976 IMF Crisis*, New Haven, Yale University Press, 1992, p89.
 
-The high-tech vision of UBI, the darling of Silicon Valley billionaires,
-would represent the historic defeat of labour. Working to achieve this
-vision would mean ensuring that workers’ standards of living do not rise
-with productivity, in order to make UBI affordable. Indeed, we could
-also make such a “full” UBI affordable now, hypothetically, just by
-drastically reducing our standard of living. It would be kind of the
-same thing.
+[^chapter-2-3]: R.Blackburn, *Banking on Death, or, Investing in Life:
+    The History and Future of Pensions*, London, Verso, 2002, p506.
 
-Can a modest UBI be a transformative reform?
---------------------------------------------
+[^chapter-2-4]: Conference of Socialist Economists London Working Group,
+    *The Alternative Economic Strategy: A Labour Movement Response to
+    the Economic Crisis*, London, CSE Books, 1980.
 
-I hope that the preceding sections have shown that UBI under capitalism
-and UBI in a post-capitalist society can’t be understood as the same
-thing. Many appealing visions of life with a UBI belong strictly in a
-post-capitalist world, because they are not compatible with capitalism’s
-functional requirement for surplus labour and accumulation.
-
-Post-work critiques of the narrowness of workerist understandings of
-value creation do not have merit, but escape from alienating work is not
-a plausible option for most under capitalism—the broadly workerist
-vision of emancipation in and through work therefore remains vital.
-Moreover, the idea that a UBI could dramatically alter the bargaining
-position of workers within capitalism, or could even cause the tables to
-be turned, is logical but not realistic. If we had the power to kill off
-capitalism with a UBI, then we would not need a UBI to do so. And until
-that point, any UBI will be strictly limited by the imperative of
-profitability.
-
-This leaves us with the question of whether a modest UBI, under
-capitalist conditions, is a transformative reform that moves us forward,
-or rather one that causes us to regress. One argument from the post-work
-side is that even a modest UBI would undermine the “work ethic” that
-provides ideological support for capitalism, whilst preparing us
-psychologically for the “[new technological
-revolution](https://www.theguardian.com/politics/2016/jun/05/john-mcdonnell-labour-universal-basic-income-welfare-benefits-compass-report)”.
-This work ethic is certainly functional for capitalism, but it is less
-clear why we should see it as a barrier to change, and it is not clear
-why a UBI as such would undermine it. A campaign for a UBI might contest
-this ideology of work (and highlight how labour has ceased to benefit
-from productivity increases), but so too can campaigns for shorter
-working times and better life-work balance.
-
-Another tactic is to present a UBI not as a welfare transfer but as a
-“dividend” from a stock of capital that is collectively created and/or
-held by society (“knowledge capital”, “social capital”, etc.). But this
-draws upon and reinforces the idea that income is a matter of right
-derived from property. As equal shareholders in public capital, it is
-implied that we are entitled to equal dividends. If this is true,
-however, then surely the owners of private capital stock have a right to
-their dividends as well?
-
-The mainstream UBI debate, of course, is really mostly about welfare
-reform. Here, its usefulness integrates claims about efficiency, the
-dignity afforded to beneficiaries, and public acceptability. For
-example, John McDonnell has linked the idea of UBI to his [experience
-with child
-benefit](https://www.independent.co.uk/news/uk/politics/labour-sets-up-working-group-to-investigate-radical-idea-of-basic-income-john-mcdonnell-reveals-a7563566.html).
-As a non-means-tested measure, child benefit was once considered a
-dubious proposal, but has since proved popular among the public.
-
-But child benefit is not like a UBI. Neither are means-tested, but child
-benefit is need-determined, not universal. The arbiter of need is the
-(bureaucratically-determined) presence of children, which is recognized
-as implying a greater household need for income. There seems to be
-widespread acceptance for means-tested progressive taxation (from each
-according to their ability!) and for need-determined benefits like child
-benefit, pensions or disability benefits (to each according to their
-need!). Acceptance is most fragile where beneficiaries’ inability to
-look after themselves is popularly called into question (the unemployed,
-“benefit scroungers”, etc.).
-
-This is a problem for any UBI scheme. As described above, the scope for
-funding it from the capital share is limited. This means it is likely to
-be largely a transfer from the better-paid to the less well-paid, and
-from those who work to those who do not. Unlike child benefit, its
-acceptability will depend on persuading people that it is good to work
-and pay taxes so that other people do not have to. This is likely to be
-a hard sell.
-
-The acceptability of child benefit rests on the perception that people
-do not have equal needs, making need-determined distribution more
-efficient more efficient than universal provision. For the same reason,
-need-determined distribution provides greater security because people
-who need a bigger cushion can get one, or because help is targeted at
-occasions of need, such as the loss of work or the advent of illness.
-Benefits that are means-tested or conditional on behavior can be
-bureaucratically wasteful and intrusive, but cases like child benefit
-show that means need be tested only once (at taxation) and that much
-needs-testing can be reduced to simple objective criteria. We also need
-to push the idea that sometimes it is better to give claimants the
-benefit of the doubt, to create a more humane and efficient welfare
-system.
-
-Finally, we need to be wary of the assertion that the assessment of need
-by the state is always suspect, and that equality of benefits is in
-principle good. From this, it is but a small step to just handing out
-equal vouchers to spend on private healthcare and education. It is but
-another small step to the idea that all means-testing is bad and tax
-should always be flat. The libertarian support for UBI is not for
-nothing, after all.
-
-Marxist debates can help us understand UBI’s alluring vision. Only by
-transcending capitalism, however, can we ever reach that vision. Until
-then, it seems destined to be a disappointment: as a welfare system, it
-is sub-optimal; ideologically, it may be, on balance, unhelpful; and as
-a potential subsidy of low-paid and precarious employment, it may even
-become regressive.
-
-More promising transformative reforms lie elsewhere. We can strengthen
-and deepen democracy. We can raise the labour share of income at the
-expense of speculative and rentier incomes through instruments such as
-land value taxation, reducing the political power of capital as a whole.
-Lastly, we can begin to foster the growth of public, worker-owned and
-similar alternative forms of ownership at the gradual expense of the
-purely capitalist sector. While a UBI scheme is likely to become
-subordinate to the requirements of the capitalist mode of production,
-such policy options can help build the foundations for socialism.
+[^chapter-2-5]: J.Toporowski, ‘Brexit and the Discreet Charm of Haute
+    Finance’, in D.Bailey and L.Budd, eds., *The Political Economy of
+    Brexit*, Newcastle: Agenda, 2017, pp38-39.

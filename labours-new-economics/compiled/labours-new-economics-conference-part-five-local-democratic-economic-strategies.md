@@ -1,5 +1,5 @@
-Labour's New Economics Conference: Part Five, Local Democratic Economic Strategies
-==================================================================================
+New Economics Conference: Local Democratic Economic Strategies
+==============================================================
 
 **[Tom Gann](https://twitter.com/Tom_Gann)**
 
@@ -179,7 +179,7 @@ generalised to what sort of unions might we need to develop and
 implement programmes to what could a Labour government nationally do to
 expand on possibilities for local democratic economic strategies. The
 piece concludes with a brief consideration of the 1985 GLC London
-Industrial Strategy [^chapter-20-1] as an exemplary local democratic
+Industrial Strategy [^chapter-12-1] as an exemplary local democratic
 economic strategy to suggest that, long-term, we need to be thinking
 about what it would it take to get us to a point where versions equal to
 its scope and radicalism were possible in all kinds of different areas.
@@ -232,7 +232,7 @@ made here, drawing on Neil Smith’s notion of the Catch-22 of
 gentrification (places that have suffered long periods of disinvestment
 need significant investment but the cost of that investment is greater
 integration into capitalism, social cleansing and destruction of
-communities [^chapter-20-2]) or to slightly transform the saying, is the
+communities [^chapter-12-2]) or to slightly transform the saying, is the
 misery greater in a place capitalism wants to exploit or in one it does
 not want to? This bears on the political aspect of the question too:
 would a place that capital had more interest in (and this doesn’t
@@ -341,7 +341,7 @@ city in the world and challenges to the taken for granted spatial splits
 of capitalism ("Capitalism’s drive to increase surplus-value by
 enhancing productivity...forces a severe spatial, temporal, and
 institutional separation between domestic labour and the capitalist
-production-process"[^chapter-20-3]). The city economy, therefore,
+production-process"[^chapter-12-3]). The city economy, therefore,
 involves both the international and the domestic, two areas
 conventionally excluded. This is particularly apparent, especially
 because the intellectualism fostered by the processes of the women’s
@@ -459,11 +459,11 @@ both legal and institutional and cultural-political in the broadest
 possible sense. However, exploring what it might take to get to such a
 place and what can be began now would certainly be worth attention.
 
-[^chapter-20-1]: The London Industrial Strategy, (London, Greater London
+[^chapter-12-1]: The London Industrial Strategy, (London, Greater London
     Council, 1985). All page references are in parentheses in the text
 
-[^chapter-20-2]: Neil Smith, The New Urban Frontier: Gentrification and
+[^chapter-12-2]: Neil Smith, The New Urban Frontier: Gentrification and
     the Revanchist City, (London: Routledge, 1996), p. 161.
 
-[^chapter-20-3]: Lise Vogel, Lise Vogel, Marxism and the Oppression of
+[^chapter-12-3]: Lise Vogel, Lise Vogel, Marxism and the Oppression of
     Women: Towards a Unitary Theory, Chicago, Haymarket, 2013, p. 157.

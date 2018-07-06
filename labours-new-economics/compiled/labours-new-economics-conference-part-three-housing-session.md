@@ -1,5 +1,5 @@
-Labour's New Economics Conference: Part Three, Housing Session
-==============================================================
+New Economics Conference: Housing Session
+=========================================
 
 **[Wendy Liu](https://twitter.com/dellsystem)**
 

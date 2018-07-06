@@ -1,5 +1,5 @@
-Labour's New Economics Conference: Part Two, Digital Session
-============================================================
+New Economics Conference: Digital Session
+=========================================
 
 **[Wendy Liu](https://twitter.com/dellsystem)**
 

@@ -64,7 +64,7 @@ running a business through collective decision-making rather than with a
 CEO was better compared to just 11 per cent who thought it was worse.
 Polling also suggests widespread public support for renationalising
 railways, water companies and other utilities as well as for having
-workers on company boards[^chapter-11-1].
+workers on company boards[^chapter-1-1].
 
 More generally, the report also contains certain policy themes that have
 not always been the preserve of the left – or at least of the left
@@ -77,12 +77,12 @@ with automation and Unconditional Basic Income, which have interested
 figures like Tom Watson and Jonathan Reynolds; and a suspicion of how
 far states subject to the discipline of globalised capitalism can
 redistribute that underpinned Ed Miliband’s “predistribution”
-agenda[^chapter-11-2]. This, however, points to a further strength of
-the report, which takes as its starting point the understanding that
-there are not piecemeal policy solutions to the condition of the UK
-economy but that radical changes in ownership are required. What this
-means, politically, is that such an agenda may be able to be bring along
-some of the more imaginative thinkers of the right, showing how their
+agenda[^chapter-1-2]. This, however, points to a further strength of the
+report, which takes as its starting point the understanding that there
+are not piecemeal policy solutions to the condition of the UK economy
+but that radical changes in ownership are required. What this means,
+politically, is that such an agenda may be able to be bring along some
+of the more imaginative thinkers of the right, showing how their
 objectives can only be realised within a wider economic framework and
 set of values – of solidarity and cooperation – that break with private
 ownership and control. Within a piecemeal, technocratic framework, the
@@ -170,7 +170,7 @@ positions as key figures in the world of the 1980s London radical left.
 The question of both efficiency and human needs, as well as the
 possibility of translating a radical economic strategy intended for
 implementation on a national basis into a municipal context, with
-versions the Bennite Alternative Economic Strategy[^chapter-11-3]
+versions the Bennite Alternative Economic Strategy[^chapter-1-3]
 imaginatively redeployed by various Labour councils, is an important
 background to the report, which refers to some of the policies of the
 GLC and Sheffield council in the 1980s.
@@ -193,7 +193,7 @@ economistic and sectional trade union struggles for a greater wage
 within a particular firm to wider concerns over “principles for
 organising the economy: the principle of accumulation for private or at
 any rate unaccountable profit versus the belief in production for
-democratically decided need[^chapter-11-4].”
+democratically decided need[^chapter-1-4].”
 
 For Wainwright, as for broader new left critiques of the postwar
 nationalisations, the persistence of essentially capitalist values,
@@ -205,14 +205,14 @@ associated. As Raymond Williams argued, “in being dragged back to the
 processes of the old system, yet at the same time offered as witnesses
 of the new,” Britain’s nationalised industries, “so deeply damaged any
 alternative principle in the economy as to have emptied British
-socialism of any effective meaning[^chapter-11-5], invites capitalist
+socialism of any effective meaning[^chapter-1-5], invites capitalist
 counter-moves (which are, as the report acknowledges, increasingly
 difficult to resist in a globalised economy), relies on technocratic
 lever-pulling by distant political authorities, and creates a
 bureaucratised and repressive welfare state.
 
 In essence, the report returns to the fundamental left recognition,
-going back to Marx[^chapter-11-6], but reanimated in the new left, that
+going back to Marx[^chapter-1-6], but reanimated in the new left, that
 we must alter (socialise) the underlying economic relationships – i.e.
 the ownership and control of productive capital – in order to produce
 the outcomes we are seeking – equality, investment, community economic
@@ -238,7 +238,7 @@ Wood has argued,
 > separation of the ‘economic’ and the ‘political’ which has served
 > capitalist ideology so well ever since the classical economists
 > discovered the ‘economy’ in the abstract and began emptying capitalism
-> of its social and political content[^chapter-11-7].
+> of its social and political content[^chapter-1-7].
 
 This split also grounds the “economism” of large sections of the
 workers’ movement – the reduction, historically, of the struggle to
@@ -274,7 +274,7 @@ values and new patterns of social organisation for society and even the
 world as a whole by the labour movement in the struggle for socialism is
 most clearly set out by Raymond Williams in Culture and Society and in
 his refinement and qualification of his position in The Long
-Revolution[^chapter-11-8]”.
+Revolution[^chapter-1-8]”.
 
 For Williams, the “remarkable creative achievement” of the working class
 in Britain is in the generation and institutionalisation in the Labour
@@ -286,7 +286,7 @@ Party, in trade unions and in co-operatives of the idea of
 > life will alike in production and distribution be collective and
 > mutual. Improvement is sought, not in the opportunity to escape from
 > one’s class or to make a career but in the general and controlled
-> advance of all[^chapter-11-9].
+> advance of all[^chapter-1-9].
 
 The articulation and institutionalisation of new values is extended by
 Wainwright in the centrality she gives to social movements, especially
@@ -294,7 +294,7 @@ the peace and feminist movement (and their intersections). In both
 Williams and Wainwright, moreover, these institutionalisations of value
 have a prefigurative character. For Williams, they are “the right basis
 for the whole organization of any good society in the
-future[^chapter-11-10].” In The Long Revolution, however, Williams also
+future[^chapter-1-10].” In The Long Revolution, however, Williams also
 suggests there has been a moral degradation in these institutions which
 is marked by the loss of the capacity to generate alternative values,
 rooted in the integration of these working class institutions into
@@ -305,7 +305,7 @@ of society, which limited
 > extended to the whole of society, which could quite reasonably be
 > organised on the basis of collective democratic institutions and the
 > substitution of co-operative equality for competition as the principle
-> of social and economic policy[^chapter-11-11].
+> of social and economic policy[^chapter-1-11].
 
 This led to a situation where it was felt
 
@@ -313,7 +313,7 @@ This led to a situation where it was felt
 > unions simply industrial organizations with no other interests, each
 > union committing to its own sphere, and the Labour Party simply an
 > alternative government in the present system—the country needs an
-> effective opposition[^chapter-11-12].
+> effective opposition[^chapter-1-12].
 
 Wainwright in her argument over the development and municipal
 institutionalisation of an economics of need notes how the growth of
@@ -321,7 +321,7 @@ nationalised industries in the postwar period and “the growth of
 relatively independent workplace trade union organisations and a dense
 network of movements and initiatives in the community among groups with
 diverse needs enabled us to imagine and take steps in another
-direction[^chapter-11-13].”
+direction[^chapter-1-13].”
 
 Crucial to understanding the problems of today, as can be seen in the
 excellent recreation of the mid-1970s world of labour and industrial
@@ -335,7 +335,7 @@ the self-management of the economy rooted in communities and workplaces.
 Here we can recall the vital insights from Mike Cooley of the Lucas
 Aerospace Combine Shop Stewards’ Committee that “the workers are the
 experts” and of Valerie Wise from the GLC Women’s Committee that “women
-are the experts[^chapter-11-14].” A major part of the task of socialists
+are the experts[^chapter-1-14].” A major part of the task of socialists
 today, therefore, is the recreation, in a form appropriate to the 21st
 century, of new labour and associated institutions which will allow the
 generation of alternative values and popular capacities to carry forward
@@ -416,7 +416,7 @@ government bonds:
 > lived and infinitely far-sighted representative agent whose market and
 > moral behaviours are perfectly aligned, and who we can use as some
 > sort of infallible guide to our own decisions and
-> policies[^chapter-11-15].
+> policies[^chapter-1-15].
 
 The implications of these questions are far-reaching. The particular
 failure to correct for the impact of current decisions on unborn
@@ -483,7 +483,7 @@ more speculative, less immediately political treatments of automation
 that risk, as the Marxist intellectual and Vice-President of Bolivia
 Alvaro García Linera has argued, mystification in presenting “technology
 as the motor or halo that sets history into motion or slows it
-down[^chapter-11-16].”
+down[^chapter-1-16].”
 
 The report continues, more usefully, by arguing that the bigger
 immediate challenge is
@@ -525,15 +525,15 @@ notes
 > discount and luxury shopping, but above all a heroic age of what was
 > until recently called ‘financial technology’. Internet and mobile
 > phones, Walmart and Prada, Black–Scholes and subprime—such are the
-> technological landmarks of the period...[^chapter-11-17]
+> technological landmarks of the period...[^chapter-1-17]
 
 The point, therefore, is that policies to drive automation would have to
 be, on some level, global, with wage floors to encourage automation not
 restricted to the UK, as Srnicek and Williams argue in Inventing the
 Future. This poses a question of what political actors are to carry
 forward this policy and also whether even this would be
-sufficient[^chapter-11-18]. There may, of course, post-Brexit be a set
-of policies to enable “on-shoring”, a considerably less globalised UK
+sufficient[^chapter-1-18]. There may, of course, post-Brexit be a set of
+policies to enable “on-shoring”, a considerably less globalised UK
 economy with more domestic production, for example, in green high-tech
 and self-provisioning, with higher wages, transformed patterns of
 ownership, and domestic multipliers created from fewer leakages, which
@@ -561,7 +561,7 @@ similar manufactured goods is captured in the United States, and
 increasingly by an ever narrower minority, through tight control of
 intellectual property rights, strictly enforced investor protections,
 and monopolisation of design and marketing, but it is not created
-there[^chapter-11-19]. There is a risk that, even within a high-tech,
+there[^chapter-1-19]. There is a risk that, even within a high-tech,
 onshoring strategy, low-wage workers in Guangdong and Dhaka would
 continue to be exploited as the soft underbelly of Labour’s socialist
 future.
@@ -582,11 +582,11 @@ market access or development loans at favourable rates—all of which
 could have enormous beneficial effects. Britain maintains its
 imperialist position by acting as the world’s financier and clearing
 house, which plays a key role in producing and reproducing global
-inequality and uneven development[^chapter-11-20]. Any British
-government that acted to alter this relationship would face enormous
-resistance from our ruling class. However, even if we face enormous
-constraints, there are still meaningful measures that can, and ought to
-be, taken in the here and now.
+inequality and uneven development[^chapter-1-20]. Any British government
+that acted to alter this relationship would face enormous resistance
+from our ruling class. However, even if we face enormous constraints,
+there are still meaningful measures that can, and ought to be, taken in
+the here and now.
 
 Co-operatives, or Can we go beyond Socialism in one Company?
 ------------------------------------------------------------
@@ -609,7 +609,7 @@ Raymond Williams, who argues that the contrast between the working class
 idea of socialism or co-operation and bourgeois individualism as well as
 being muddied by the imperialist position of England is also muddied by
 the development of the Victorian imperialist-bourgeois idea of
-“service”[^chapter-11-21]. The notions around co-operatives developed in
+“service”[^chapter-1-21]. The notions around co-operatives developed in
 the report aim at developing values of socialism and co-operation, while
 the Big Society, with its recent denoument in John Lewis boss Andy
 Street being elected Mayor of the West Midlands, represents
@@ -680,7 +680,7 @@ workers external to the co-operative even if they work for the company
 and whether successful co-operatives inevitably produce a class of
 worker-capitalists. A notable UK case of this is the struggle of John
 Lewis cleaners against their exclusion from being partners and the
-resultant exploitation[^chapter-11-22]. This can also apply on a global
+resultant exploitation[^chapter-1-22]. This can also apply on a global
 scale, as with Mondragón. The report mentions, to prove the efficiency
 of co-operative enterprises, Mondragón’s 73 overseas plants, but it
 doesn’t address the implications of this for the ethics and politics of
@@ -706,7 +706,7 @@ globalised capitalism. Olin Wright therefore argues that
 > produces\] a global configuration of economic and class relations
 > within the conglomerate structure of the Mondragón cooperatives
 > \[which\] is in deep tension with its cooperativist
-> principles[^chapter-11-23].
+> principles[^chapter-1-23].
 
 So far three possible resolutions to the problem of the non-inclusion of
 Brazilian workers have been discussed and rejected—firstly, the
@@ -717,7 +717,7 @@ formation of strong unions and other forms of worker empowerment within
 the subsidiary firms, including such things as the works councils and
 worker co-determination.” In the absence of any of these measures, the
 Brazilian subsidiaries were still, at the time Olin Wright was writing,
-“run pretty much like a conventional capitalist firm[^chapter-11-24].”
+“run pretty much like a conventional capitalist firm[^chapter-1-24].”
 There may also be a question of political consciousness—though again,
 this is perhaps best seen as an expression of economism or sectional
 interest, as in the U.S. plywood co-operatives discussed in the report
@@ -822,7 +822,7 @@ Municipal Fabianism were the radically democratic means, “what turned
 out to be revolutionary, at least in spirit, was the way that the GLC
 opened its buildings, its funds, its research and—very much more
 selectively—its decision-making process to some of the most radical and
-needy sections of society[^chapter-11-25].”
+needy sections of society[^chapter-1-25].”
 
 Crucially, the necessity of democratic openness was not just morally
 correct but a vitally political part of the project, a way to bring in
@@ -841,7 +841,7 @@ any.” Wainwright again expands on this, “In London, perhaps more than
 anywhere else, such proof was near enough a condition for the GLC’s
 success. The party’s traditional, organised working-class support base
 had collapsed more rapidly than anywhere else in the
-country[^chapter-11-26].”
+country[^chapter-1-26].”
 
 Successful forms of municipal and locally-led ownership have obvious
 advantages, as detailed in Alternative Models of Ownership, as
@@ -902,7 +902,7 @@ to replicate the “entrepreneurial state”—as described by Mariana
 Mazzucato—at the local level.” ([p.
 24-5](http://www.labour.org.uk/page/-/PDFs/9472_Alternative%20Models%20of%20Ownership%20all_v4.pdf))
 There is little point in our summarising this, we would urge people to
-look at and study this further[^chapter-11-27].
+look at and study this further[^chapter-1-27].
 
 In response to the Preston Model, an urgent political question arises.
 What would it take to see more Labour councils adopting these sorts of
@@ -937,7 +937,7 @@ co-operatives, both to resource the most needy and radical sectors of
 society (often working class women and Black and Minority Ethnic
 communities) and to make radical versions of equal opportunities
 policies a central part of council spending and
-procurement[^chapter-11-28]. There is considerable potential for radical
+procurement[^chapter-1-28]. There is considerable potential for radical
 councils to address inequalities of gender and race in their activities
 whether through provision of responsive, democratically controlled
 services or through support for women’s or Black and Ethnic Minority
@@ -970,7 +970,7 @@ money is allocated locally. It has been suggested, for example in areas
 of Wales that were the recipients of significant EU development funding
 but voted strongly for Brexit, that an important factor was the poor use
 made of this money and the complete lack of democratic local control
-over it[^chapter-11-29].
+over it[^chapter-1-29].
 
 Alternative Ownership of Childcare: A Possible Extension
 --------------------------------------------------------
@@ -986,10 +986,10 @@ control in childcare.
 
 “Before the late 1990s the English Early Years system had three distinct
 elements: public education, public childcare for the disadvantaged and
-private and voluntary provision of various types.” [^chapter-11-30]
-These elements chime with three policy strands, education, early
-intervention and childcare, that, even after the late 1990s, have
-interacted in various ways in the provision of early years services.
+private and voluntary provision of various types.” [^chapter-1-30] These
+elements chime with three policy strands, education, early intervention
+and childcare, that, even after the late 1990s, have interacted in
+various ways in the provision of early years services.
 
 These three strands of early years policy came together, briefly, under
 the last Labour government, when Sure Start Centres were transformed
@@ -997,22 +997,22 @@ into Children’s Centres from 2004. Originally, targeted services in the
 most deprived areas offering outreach and home visiting, parenting
 support, play and learning opportunities, healthcare and advice, and
 support for parents and children with special needs; they were expanded
-to “each community” [^chapter-11-31] in England, providing integrated
+to “each community” [^chapter-1-31] in England, providing integrated
 early education and childcare. The best Centres (and as the roll out
 continued, Centres were allocated less and less money, providing a
-thinner service in general [^chapter-11-32]) combined the services of
-the early Sure Starts – integrated, multi-agency teams; personalised
+thinner service in general [^chapter-1-32]) combined the services of the
+early Sure Starts – integrated, multi-agency teams; personalised
 outreach workers; a welcoming and non-threatening environment; and
-co-location of services [^chapter-11-33], with universal access, which,
+co-location of services [^chapter-1-33], with universal access, which,
 has been shown to be key to improving outcomes for poorer children.
-[^chapter-11-34] This coincided with the development of an integrated
+[^chapter-1-34] This coincided with the development of an integrated
 curriculum – the 2007 Early Years Foundation Stage Framework imposed a
 single regulatory and quality framework on all providers specifying
 learning and development objectives with regular inspections by OFSTED,
 as well as a universal entitlement to part-time early education for
-three and four year olds. [^chapter-11-35]
+three and four year olds. [^chapter-1-35]
 
-However, despite being of higher quality [^chapter-11-36], the Labour
+However, despite being of higher quality [^chapter-1-36], the Labour
 government continued to offer this type of integrated publicly
 maintained provision as part of a wider mixed childcare market, in which
 favourable terms were in fact given to the private and voluntary sector.
@@ -1020,28 +1020,28 @@ The 2006 Childcare Act stipulated that, while local authorities in
 England had a duty to ensure sufficient childcare places for all those
 children whose parents wanted them, they should not directly provide the
 places unless no private or voluntary sector organisation was willing to
-do so [^chapter-11-37]. This preferential treatment created an
+do so [^chapter-1-37]. This preferential treatment created an
 environment which allowed the Coalition government to take public
 provision out of the childcare market altogether by, in 2011, removing
 the requirement for Children’s Centres in the most disadvantaged 30% of
 areas to provide access to childcare and early education and refocusing
 provision on “those who are suffering the greatest disadvantage”.
-[^chapter-11-38] This attack on the universal provision of Sure Start
+[^chapter-1-38] This attack on the universal provision of Sure Start
 services for young children and their families led to a pulling apart of
 the strands of early years provision. While publicly supportive of Sure
 Start and the social welfare strand that it had been returned to
 delivering, by reformulating state funding to end the more generous
-subsidy for maintained settings [^chapter-11-39] and shifting spending
+subsidy for maintained settings [^chapter-1-39] and shifting spending
 away in general from targeted subsidy towards employer vouchers
-[^chapter-11-40] (yet requiring a higher level of service to a needier
+[^chapter-1-40] (yet requiring a higher level of service to a needier
 population), the Coalition were essentially pulling the financial rug
 from under them. With the final phase of the roll out of Children’s
 Centres having only ended in 2010, their dismantling began soon after,
-with a third having been lost since then.[^chapter-11-41]
+with a third having been lost since then.[^chapter-1-41]
 
 This left the private sector to take over the delivery of the other two
 strands of early years, education and care, with the 2006 Childcare Act
-having removed any legal distinction between them. [^chapter-11-42]
+having removed any legal distinction between them. [^chapter-1-42]
 However, the market mechanism through which this dual responsibility is
 now mainly delivered has increasingly led to weakening the educative
 element of nursery provision rather than enhancing the learning
@@ -1055,7 +1055,7 @@ childcare workforce, but also an increasing tendency for monopolies from
 the cost saving of repeating and combining organisational features. This
 has lead to the childcare market being increasingly dominated by larger
 chains of for-profit companies, some of which are listed on the stock
-market. [^chapter-11-43]
+market. [^chapter-1-43]
 
 Through increased lobbying by the childcare industry, the government
 have introduced a series of deregulatory reforms including the
@@ -1065,15 +1065,15 @@ in supporting quality improvements, and ‘slimming down’ the Early Years
 Foundation Stage curriculum, and making the Early Years Foundation Stage
 Profile optional. There were proposals to reduce the rations of staff to
 two year old children from 4:1 to 6:1, but they were dropped due to
-political pressure. [^chapter-11-44] Because the state subsidy is also
+political pressure. [^chapter-1-44] Because the state subsidy is also
 not seen to cover the real costs of provision, requiring the need to
 cross-subsidise from working parents paying for wrap-around care, poorer
 children who only use their free entitlement are discriminated against
 in allocation of places. This leads to worse outcomes for them, and an
 increasing likelihood that they will not be able to take up their
 entitlement in practice, as children requiring extra provision are
-prioritised [^chapter-11-45], with only a third of councils predicting
-they will have enough places this September. [^chapter-11-46]
+prioritised [^chapter-1-45], with only a third of councils predicting
+they will have enough places this September. [^chapter-1-46]
 
 The current Conservative government have, by making their promised
 extensions to (what was) the universal entitlement for early years only
@@ -1081,21 +1081,21 @@ available to children of working parents, shown, at the very least, that
 they are not interested in all children receiving early childhood
 education. Labour have, on the other hand, promised that their wider
 extensions to the entitlement will be universal and that they will
-increase the number of childcare places. [^chapter-11-47] They have also
+increase the number of childcare places. [^chapter-1-47] They have also
 made a commitment to give £500 million to help reopen many of the Sure
-Start Centres that have closed. [^chapter-11-48] However, it is, at
+Start Centres that have closed. [^chapter-1-48] However, it is, at
 present, unclear how the two policies relate and whether Labour will
 maintain public provision as targeted ‘early intervention’ while ceding
 universal education and care to the private sector, allowing continued
 downward pressure on costs to weaken ever further the quality of
 provision. Maintaining early intervention as targeted provision also has
 the potential to pathologise social problems in the ‘poor family’ rather
-than in the wider capitalist structuring of society [^chapter-11-49],
+than in the wider capitalist structuring of society [^chapter-1-49],
 although, given the context of the wider measures in Labour’s manifesto,
 this is less likely than the last Labour administration. Even so, it
 segregates, and potentially stigmatises, families who use it, when not
 only has universalism been shown to be a beneficial strategy to
-children’s outcomes [^chapter-11-50], but also, not embracing
+children’s outcomes [^chapter-1-50], but also, not embracing
 universalism prevents useful services from being used in general by
 everyone.
 
@@ -1119,7 +1119,7 @@ within the wider community. As Silvia Federici writes,
 > then demand that the State pay for it. It is quite another thing to
 > deliver our children to the State to control them not for five but for
 > fifteen hours a day…In one case we regain some control over our lives,
-> in the other we extend the State’s control over us. [^chapter-11-51]
+> in the other we extend the State’s control over us. [^chapter-1-51]
 
 Although much has since been undone, what is left from the last Labour
 government’s legacy on early years are the buildings, ‘one in each
@@ -1129,7 +1129,7 @@ Cooperatives of parents could involve paying parents directly to deliver
 services together or for one another (Federici observes how “welfare
 mothers, for example, denounced the absurdity of the government policy
 that recognizes childcare as work only when it involves the children of
-others” [^chapter-11-52]), as well as parents employing childcare
+others” [^chapter-1-52]), as well as parents employing childcare
 professionals. Parents can take democratic control of their services so
 that they do not necessarily need to be excluded from wider community
 care of their children, and they do not necessarily have high quality
@@ -1174,13 +1174,13 @@ improving the efficiency of a capitalist economy” and “government
 interference in economic affairs though in some aspects irksome to
 private industry and finance, presented no significant challenge to the
 power of men who continued to control the country’s economic
-resources[^chapter-11-53].”
+resources[^chapter-1-53].”
 
 The report posits new models of national ownership that are more
 democratic than the Morrisonian top-down public corporation model of the
 post-war nationalizations, and Corbyn and McDonnell have already
 indicated their desire to see more pluralistic, democratic ownership
-forms[^chapter-11-54]. Having listed the various reasons and sectors
+forms[^chapter-1-54]. Having listed the various reasons and sectors
 where national ownership is absolute necessary, the authors argue that
 
 > There remain several critical reasons for state ownership in an
@@ -1236,7 +1236,7 @@ With the case of Norway there is a particular sense of going back to the
 melancholy in the face of what might have been had Labour been
 re-elected on an AES-type programme allowing the development of North
 Sea Oil for the use and benefit of the whole of society rather than its
-exploitation within a Thatcherite context[^chapter-11-55]. Instead, of
+exploitation within a Thatcherite context[^chapter-1-55]. Instead, of
 course, Labour campaigned timidly, not offering a left resolution to the
 contradictions in British society, and offering no prospect of
 disalienating the bureaucratic institutions of the welfare state and
@@ -1247,7 +1247,7 @@ As Hall remarks,
 > was to hear Mr Callaghan complain that the radical Right meant to tear
 > the old system up by the roots. And we had been foolish enough to
 > imagine that tearing society up by the roots was what socialism was
-> about![^chapter-11-56]
+> about![^chapter-1-56]
 
 The Norwegian experience is doubly important for understanding
 socialism. On the one hand, there is the Norwegian insistence that
@@ -1296,7 +1296,7 @@ In terms of what party members, trade unionists and members of social
 movements could do, firstly, there is a contribution to be made in the
 analysis of sectors in which they are workers and consumers and whether
 and how alternative models of ownership could operate—remembering once
-again that“the workers are the experts”, “women are the experts”. Here,
+again that “the workers are the experts”, “women are the experts”. Here,
 though, it is also worth noting the vital role of experts, whether
 professional experts or worker, consumer, service user or community
 experts, external to both the Labour bureaucracy and, were Labour to
@@ -1304,7 +1304,7 @@ come into government, potentially the civil service. (In the case of the
 latter group, as Benn observed with his proposals in government and
 their frustration by civil servants, “I don’t think anyone can beat
 them... the civil service is defending the class interests of owners and
-professional people[^chapter-11-57]”. For all the sobriety and practical
+professional people[^chapter-1-57]”. For all the sobriety and practical
 reasonableness of the proposals in the report, it is easy to see how
 they would be frustrated in their formulation and implementation. This
 does not giving up on them but requires determination to build the
@@ -1324,13 +1324,13 @@ the existing, often fossilised forms of representative democracy in the
 party, “the democracy the women’s movement places a high value on the
 social and economic organisations, formal and informal, created by women
 to press their needs directly without council and parliamentary
-mediation[^chapter-11-58].” The Labour Party is not the only point at
-which the movement needs to be transformed and put to etterb to better
-use in order to realise the programme set out in the report. There needs
-to be pressure and an investigation of union and perhaps Momentum
-resources, both financial and organisational, to help us develop
-appropriate forms. Credit Unions run by UNITE and the PCS, for example,
-are already part of the Preston model ([p.
+mediation[^chapter-1-58].” The Labour Party is not the only point at
+which the movement needs to be transformed and put to better use in
+order to realise the programme set out in the report. There needs to be
+pressure and an investigation of union and perhaps Momentum resources,
+both financial and organisational, to help us develop appropriate forms.
+Credit Unions run by UNITE and the PCS, for example, are already part of
+the Preston model ([p.
 25](http://www.labour.org.uk/page/-/PDFs/9472_Alternative%20Models%20of%20Ownership%20all_v4.pdf)).
 Once again, there is again a question of how needs can be met directly
 and how this relates to local council provision.
@@ -1349,7 +1349,7 @@ reformulated and repurposed for a new time and new challenges, should
 re-surface just as they are needed, as the long dark night of
 neoliberalism draws to a close.
 
-[^chapter-11-1]: See [Companies without CEOs; Working better without a
+[^chapter-1-1]: See [Companies without CEOs; Working better without a
     boss; Taxing
     robots](https://yougov.co.uk/news/2017/02/21/companies-without-ceos-working-better-without-boss/),
     YouGov, February 2017 and [Majority support for rail nationalisation
@@ -1357,7 +1357,7 @@ neoliberalism draws to a close.
     right](https://yougov.co.uk/news/2015/08/06/support-radical-left-and-right/),
     YouGov, August 2015.
 
-[^chapter-11-2]: See, David Cameron’s [Big Society
+[^chapter-1-2]: See, David Cameron’s [Big Society
     Speech](https://www.gov.uk/government/speeches/pms-speech-on-big-society),
     George Osborne on the [Northern
     Powerhouse](https://www.gov.uk/government/news/chancellor-showcases-northern-powerhouse-to-us-delegation),
@@ -1371,52 +1371,52 @@ neoliberalism draws to a close.
     and Ed Miliband on
     [predistribution](http://www.politics.co.uk/comment-analysis/2012/09/06/ed-miliband-s-redistribution-speech-in-full).
 
-[^chapter-11-3]: For an excellent treatment of both the Alternative
+[^chapter-1-3]: For an excellent treatment of both the Alternative
     Economic Strategy and the wider world associated with it see John
     Medhurst, That Option No Longer Exists, Alresford, Zero, 2014.
 
-[^chapter-11-4]: Hilary Wainwright, A Tale of Two Parties, London,
+[^chapter-1-4]: Hilary Wainwright, A Tale of Two Parties, London,
     Hogarth, 1987, p. 255.
 
-[^chapter-11-5]: Raymond Williams, The Long Revolution, Harmondsworth,
+[^chapter-1-5]: Raymond Williams, The Long Revolution, Harmondsworth,
     Pelican, 1965, p. 330.
 
-[^chapter-11-6]: See, most succinctly, "The Critique of the Gotha
+[^chapter-1-6]: See, most succinctly, "The Critique of the Gotha
     Programme" and the argument that, "vulgar socialism (and from it in
     turn a section of the democrats) has taken over from the bourgeois
     economists the consideration and treatment of distribution as
     independent of the mode of production and hence the presentation of
     socialism as turning principally on distribution."
 
-[^chapter-11-7]: Ellen Meiksins Wood, Democracy Against Capitalism:
+[^chapter-1-7]: Ellen Meiksins Wood, Democracy Against Capitalism:
     Renewing Historical Materialism, London, Verso, 2016, p. 19.
 
-[^chapter-11-8]: Raymond Williams, Culture and Society, Harmondsworth,
+[^chapter-1-8]: Raymond Williams, Culture and Society, Harmondsworth,
     Pelican, pp. 312-4. Williams, The Long Revolution, 328-30.
 
-[^chapter-11-9]: Williams, Culture and Society, p. 312.
+[^chapter-1-9]: Williams, Culture and Society, p. 312.
 
-[^chapter-11-10]: Wiliams, The Long Revolution, p. 328.
+[^chapter-1-10]: Wiliams, The Long Revolution, p. 328.
 
-[^chapter-11-11]: Williams, The Long Revolution, p. 328.
+[^chapter-1-11]: Williams, The Long Revolution, p. 328.
 
-[^chapter-11-12]: Williams, The Long Revolution, p. 329.
+[^chapter-1-12]: Williams, The Long Revolution, p. 329.
 
-[^chapter-11-13]: Wainwright, A Tale of Two Parties, p. 257.
+[^chapter-1-13]: Wainwright, A Tale of Two Parties, p. 257.
 
-[^chapter-11-14]: Quoted in Wainwright, A Tale of Two Parties, p. 100.
+[^chapter-1-14]: Quoted in Wainwright, A Tale of Two Parties, p. 100.
 
-[^chapter-11-15]: Stern, Sir Nicholas, [On transatlantic vices, or Stern
+[^chapter-1-15]: Stern, Sir Nicholas, [On transatlantic vices, or Stern
     in
     America](http://scholar.princeton.edu/sites/default/files/deaton/files/letterfromamerica_oct2007_transatlantic_vices_0.pdf).
 
-[^chapter-11-16]: Alvaro García Linera, Plebeian Power, Chicago,
+[^chapter-1-16]: Alvaro García Linera, Plebeian Power, Chicago,
     Haymarket, 2014, p.33.
 
-[^chapter-11-17]: Gopal Balakrishnan, “Speculations of the Stationary
+[^chapter-1-17]: Gopal Balakrishnan, “Speculations of the Stationary
     State”, New Left Review 59, 2009.
 
-[^chapter-11-18]: Nick Srnicek and Alex Williams, Inventing the Future:
+[^chapter-1-18]: Nick Srnicek and Alex Williams, Inventing the Future:
     Postcapitalism and A World without Work, London: Verso, 2015. For
     the limits of the demands for global wage floors as a means of
     accelerating automation see Jason Smith, "Nowhere to Go: Automation,
@@ -1425,32 +1425,31 @@ neoliberalism draws to a close.
     [part
     2](http://brooklynrail.org/2017/04/field-notes/Nowhere-to-Go-Automation-Then-and-Now-Part-Two).
 
-[^chapter-11-19]: Mariana Mazzucato, The Entrepreneurial State:
-    Debunking Public vs. Private Sector Myths, London, Anthem Press,
-    2013 and for the critique, Lucia Pradella, “The Entrepreneurial
-    State by Mariana Mazzucato: A Critical Engagement”, Competition and
-    Change, 2016.
+[^chapter-1-19]: Mariana Mazzucato, The Entrepreneurial State: Debunking
+    Public vs. Private Sector Myths, London, Anthem Press, 2013 and for
+    the critique, Lucia Pradella, “The Entrepreneurial State by Mariana
+    Mazzucato: A Critical Engagement”, Competition and Change, 2016.
 
-[^chapter-11-20]: See Tony Norfield for [an excellent
+[^chapter-1-20]: See Tony Norfield for [an excellent
     overview](https://economicsofimperialism.blogspot.co.uk/2011/05/economics-of-british-imperialism.htm).
 
-[^chapter-11-21]: Williams, Culture and Society, p. 312.
+[^chapter-1-21]: Williams, Culture and Society, p. 312.
 
-[^chapter-11-22]: [John Lewis Protest: bring the Cleaners into the
+[^chapter-1-22]: [John Lewis Protest: bring the Cleaners into the
     partnership!](https://www.uvwunion.org.uk/uvwnews/?category=John+Lewis),
     UVW Union, September 2016.
 
-[^chapter-11-23]: Erik Olin Wright, Envisioning Real Utopias, London,
+[^chapter-1-23]: Erik Olin Wright, Envisioning Real Utopias, London,
     Verso, 2010, pp. 170-3.
 
-[^chapter-11-24]: Erik Olin Wright, Envisioning Real Utopias, London,
+[^chapter-1-24]: Erik Olin Wright, Envisioning Real Utopias, London,
     Verso, 2010, pp. 170-3.
 
-[^chapter-11-25]: Wainwright, A Tale of Two Parties, p. 97.
+[^chapter-1-25]: Wainwright, A Tale of Two Parties, p. 97.
 
-[^chapter-11-26]: Wainwright, A Tale of Two Parties, p. 105.
+[^chapter-1-26]: Wainwright, A Tale of Two Parties, p. 105.
 
-[^chapter-11-27]: For further analysis of the Preston Model see also
+[^chapter-1-27]: For further analysis of the Preston Model see also
     Clifford Singer, [The Preston
     Model](http://thenextsystem.org/the-preston-model/), The Next System
     Project, September 2016 and Matthew Brown and Martin O’Neill, [The
@@ -1458,120 +1457,120 @@ neoliberalism draws to a close.
     Model](http://www.renewal.org.uk/articles/the-road-to-socialism-is-the-a59-the-preston-model),
     Renewal, 2016.
 
-[^chapter-11-28]: Wainwright, A Tale of Two Parties, pp. 94-124.
+[^chapter-1-28]: Wainwright, A Tale of Two Parties, pp. 94-124.
 
-[^chapter-11-29]: On Wales, Brexit and EU funding see the excellent
+[^chapter-1-29]: On Wales, Brexit and EU funding see the excellent
     [Desolation Radio
     podcast](https://soundcloud.com/desolationradio/talking-brexit-with-immolations).
 
-[^chapter-11-30]: Jo Blanden, Kirstine Hansen and Sandra McNally,
+[^chapter-1-30]: Jo Blanden, Kirstine Hansen and Sandra McNally,
     [Quality in Early Years Settings and Children’s School
     Achievement](http://cep.lse.ac.uk/pubs/download/dp1468.pdf), Centre
     for Economic Performance Discussion Paper No 1468, February 2017, p.
     6.
 
-[^chapter-11-31]: 3500, one for roughly every 800 children under 4, see
+[^chapter-1-31]: 3500, one for roughly every 800 children under 4, see
     Kitty Stewart, [Labour’s Record on the Under Fives: Policy, Spending
     and Outcomes 1997 – 2010, Working Paper
     4](http://sticerd.lse.ac.uk/dps/case/spcc/wp04.pdf), Social Policy
     in a Cold Climate, July 2013, LSE and CASE, p. 24.
 
-[^chapter-11-32]: Stewart, [Labour’s Record on the Under
+[^chapter-1-32]: Stewart, [Labour’s Record on the Under
     Fives](http://sticerd.lse.ac.uk/dps/case/spcc/wp04.pdf), pp. 25-6.
 
-[^chapter-11-33]: House of Commons, 2010. Sure Start Children’s Centres:
+[^chapter-1-33]: House of Commons, 2010. Sure Start Children’s Centres:
     Fifth Report of Session 2009-10.
 
-[^chapter-11-34]: LSE, [Do poorer children receive lower quality
+[^chapter-1-34]: LSE, [Do poorer children receive lower quality
     childcare?](http://www.lse.ac.uk/researchAndExpertise/researchHighlights/socialPolicy/Childcare.aspx),
     September 2013.
 
-[^chapter-11-35]: Stewart, [Labour’s Record on the Under
+[^chapter-1-35]: Stewart, [Labour’s Record on the Under
     Fives](http://sticerd.lse.ac.uk/dps/case/spcc/wp04.pdf), pp. 33-4.
 
-[^chapter-11-36]: LSE, [Do poorer children receive lower quality
+[^chapter-1-36]: LSE, [Do poorer children receive lower quality
     childcare?](http://www.lse.ac.uk/researchAndExpertise/researchHighlights/socialPolicy/Childcare.aspx),
     September 2013.
 
-[^chapter-11-37]: Stewart, [Labour’s Record on the Under
+[^chapter-1-37]: Stewart, [Labour’s Record on the Under
     Fives](http://sticerd.lse.ac.uk/dps/case/spcc/wp04.pdf), pp. 32-3.
 
-[^chapter-11-38]: [David
+[^chapter-1-38]: [David
     Cameron](http://www.telegraph.co.uk/journalists/christopher-hope/7937248/Middle-classes-told-to-stop-using-Sure-Start.html),
     11 August 2010.
 
-[^chapter-11-39]: Kitty Stewart and Polina Obolenskaya, [The Coalition’s
+[^chapter-1-39]: Kitty Stewart and Polina Obolenskaya, [The Coalition’s
     Record on the Under Fives: Policy, Spending and Outcomes 2010-2015,
     Working Paper 12](http://sticerd.lse.ac.uk/dps/case/spcc/WP12.pdf),
     Social Policy in a Cold Climate, January 2015, LSE and CASE, p. 17.
 
-[^chapter-11-40]: Stewart and Obolenskaya, [The Coalition’s Record on
-    the Under Fives](http://sticerd.lse.ac.uk/dps/case/spcc/WP12.pdf),
-    p. 22.
+[^chapter-1-40]: Stewart and Obolenskaya, [The Coalition’s Record on the
+    Under Fives](http://sticerd.lse.ac.uk/dps/case/spcc/WP12.pdf), p.
+    22.
 
-[^chapter-11-41]: [A third of Sure Start children’s centres in England
+[^chapter-1-41]: [A third of Sure Start children’s centres in England
     lost, says
     Labour](https://www.theguardian.com/society/2017/apr/05/sure-start-childrens-centres-cuts-labour),
     The Guardian, April 2017.
 
-[^chapter-11-42]: Stewart, [Labour’s Record on the Under
+[^chapter-1-42]: Stewart, [Labour’s Record on the Under
     Fives](http://sticerd.lse.ac.uk/dps/case/spcc/wp04.pdf), p. 33.
 
-[^chapter-11-43]: Eva Lloyd, [Early childhood education and care policy
+[^chapter-1-43]: Eva Lloyd, [Early childhood education and care policy
     in England under the Coalition
     Government](http://roar.uel.ac.uk/4728/1/Early%20childhood%20education%20and%20care%20policy%20in%20England%20under%20the%20Coalition%20Government.pdf),
     London Review of Education, Volume 13, Number 2, September 2015,
     Cass School of Education and Communities, University of East London,
     pp. 2-3.
 
-[^chapter-11-44]: Lloyd, [Early childhood education and care
+[^chapter-1-44]: Lloyd, [Early childhood education and care
     policy](http://roar.uel.ac.uk/4728/1/Early%20childhood%20education%20and%20care%20policy%20in%20England%20under%20the%20Coalition%20Government.pdf),
     p. 149.
 
-[^chapter-11-45]: LSE, [Do poorer children receive lower quality
+[^chapter-1-45]: LSE, [Do poorer children receive lower quality
     childcare?](http://www.lse.ac.uk/researchAndExpertise/researchHighlights/socialPolicy/Childcare.aspx)
 
-[^chapter-11-46]: Angela Rayner, [While The Tories Restrict Childcare To
+[^chapter-1-46]: Angela Rayner, [While The Tories Restrict Childcare To
     Cut Costs, Labour Will Build A Truly Universal Childcare
     System](http://www.huffingtonpost.co.uk/angela-rayner/labour-policy-childcare_b_16876272.html),
     Huffington Post, May 2017.
 
-[^chapter-11-47]: Angela Rayner, [While The Tories Restrict Childcare To
+[^chapter-1-47]: Angela Rayner, [While The Tories Restrict Childcare To
     Cut Costs, Labour Will Build A Truly Universal Childcare
     System](http://www.huffingtonpost.co.uk/angela-rayner/labour-policy-childcare_b_16876272.html),
     Huffington Post, May 2017.
 
-[^chapter-11-48]: Angela Rayner, [Labour will boost Sure Start services
+[^chapter-1-48]: Angela Rayner, [Labour will boost Sure Start services
     that changed my
     life](https://www.theguardian.com/politics/2017/jun/01/angela-rayner-labour-will-boost-sure-start-services-that-changed-my-life),
     The Guardian, June 2017.
 
-[^chapter-11-49]: See Diane Elson, [The Economic, the Political and the
+[^chapter-1-49]: See Diane Elson, [The Economic, the Political and the
     Domestic: Businesses, States and Households in the Organisation of
     Production](http://www.ciedur.org.uy/adm/archivos/publicacion_197.pdf),
     New Political Economy, Vol. 3, No. 2, 1998.
 
-[^chapter-11-50]: LSE, [Do poorer children receive lower quality
+[^chapter-1-50]: LSE, [Do poorer children receive lower quality
     childcare?](http://www.lse.ac.uk/researchAndExpertise/researchHighlights/socialPolicy/Childcare.aspx)
 
-[^chapter-11-51]: Silvia Federici, Revolution at Point Zero: Housework,
+[^chapter-1-51]: Silvia Federici, Revolution at Point Zero: Housework,
     Reproduction and Feminist Struggle, Oakland, PM Press, p. 21.
 
-[^chapter-11-52]: Federici, Revolution at Point Zero, p. 43.
+[^chapter-1-52]: Federici, Revolution at Point Zero, p. 43.
 
-[^chapter-11-53]: Miliband, Parliamentary Socialism, p. 289, 291.
+[^chapter-1-53]: Miliband, Parliamentary Socialism, p. 289, 291.
 
-[^chapter-11-54]: For an example of possible forms of democratic
-    national ownership see Paul Salveson of the Hannah Mitchell
-    Foundation’s Railpolitik: Bringing Railways Back to the Community,
-    Lawrence & Wishart, London, 2013.
+[^chapter-1-54]: For an example of possible forms of democratic national
+    ownership see Paul Salveson of the Hannah Mitchell Foundation’s
+    Railpolitik: Bringing Railways Back to the Community, Lawrence &
+    Wishart, London, 2013.
 
-[^chapter-11-55]: Medhurst, That Option No Longer Exists, pp. 2-3.
+[^chapter-1-55]: Medhurst, That Option No Longer Exists, pp. 2-3.
 
-[^chapter-11-56]: Stuart Hall, [Faith, Hope or
+[^chapter-1-56]: Stuart Hall, [Faith, Hope or
     Clarity](http://banmarchive.org.uk/collections/mt/pdf/85_01_15.pdf),
     in Marxism Today, 1985, pp. 16-7.
 
-[^chapter-11-57]: Medhurst, That Option No Longer Exists, p. 101.
+[^chapter-1-57]: Medhurst, That Option No Longer Exists, p. 101.
 
-[^chapter-11-58]: Wainwright, A Tale of Two Parties, p. 166.
+[^chapter-1-58]: Wainwright, A Tale of Two Parties, p. 166.

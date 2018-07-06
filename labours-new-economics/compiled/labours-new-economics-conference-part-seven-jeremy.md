@@ -1,5 +1,5 @@
-Labour's New Economics Conference: Part Seven, Jeremy Corbyn's Speech
-=====================================================================
+New Economics Conference: Jeremy Corbyn's Speech
+================================================
 
 **[Tom Gann](https://twitter.com/Tom_Gann)**
 
@@ -60,7 +60,7 @@ ethical-political power of the institutionalised culture of the labour
 movement in *Culture and Society* of the limits imposed by how
 “England’s position as an imperial power has tended to limit the sense
 of community to national (and, in this context, imperialist)
-lines.”[^chapter-22-1] Here, in a different way from the critique
+lines.”[^chapter-14-1] Here, in a different way from the critique
 [McDonnell
 quoted](https://newsocialist.org.uk/labours-new-economics-conference-part-one-introductory-session/)
 from *The Long Revolution*, Williams critiques the limits on ethical
@@ -80,7 +80,7 @@ financial resources (one should add of nature, too) in the face of unmet
 human need, the claim here is both moral and pragmatic- “when the
 history of Britain’s experiment with monetarism comes to be written, the
 contrast between unmet needs and vast human and financial waste will be
-the theme”[^chapter-22-2]. Social organisation limits the use of popular
+the theme”[^chapter-14-2]. Social organisation limits the use of popular
 expertise in ensuring both the satisfaction of needs and full social
 development of human capacities, as Corbyn argued: “services will be
 more efficient and better run when controlled by the knowledge of those
@@ -152,7 +152,7 @@ would also bear on the international context, both in terms of what
 pressures from international capital there are and will be on the
 project and in terms of how the project relates to Britain’s continued
 imperialist position. What might a Corbynite contribution to socialist
-world ecology look like?[^chapter-22-3]
+world ecology look like?[^chapter-14-3]
 
 A crucial area of eco-Corbynism will have to be around food, an often
 ignored but today timely site of struggle, particularly in the UK which
@@ -169,7 +169,7 @@ or [Preston’s support for farmer
 co-ops](https://newsocialist.org.uk/labours-new-economics-conference-part-five-local-democratic-economic-strategies/).
 It is vital, however, that the question of food be rooted in class
 struggle, there is, always, following Thompson a “dietary class
-warfare”[^chapter-22-4]. However, questions of dietary class warfare
+warfare”[^chapter-14-4]. However, questions of dietary class warfare
 cannot be limited to a narrow understanding of class, they are, for
 example, very strongly mediated and organised through the oppression of
 women, through who does the shopping (and here significant questions in
@@ -199,7 +199,7 @@ power, which bear on the whole of the alternative models agenda.
 > appear to be witnessing an important shift since the mid-2000s...The
 > class struggle of the 21st century will turn in no small measure upon
 > how one answers the questions; What is food? What is nature? What is
-> valuable?[^chapter-22-5]
+> valuable?[^chapter-14-5]
 
 Here then is the argument both of food in class struggle and an account
 of the challenge to neoliberalism in forms that may appear modest,
@@ -211,7 +211,7 @@ this introduces the question of prefiguration, Moore continues,
 > like? This can only be answered through practical activity and
 > reflective theorization. But provisional answers, taken as guiding
 > threads can be offered In my view the elements of socialist
-> world-ecology are all around us.[^chapter-22-6]
+> world-ecology are all around us.[^chapter-14-6]
 
 Examples of these elements, include, Moore here quotes [Rebecca
 Solnit](https://www.thenation.com/article/revolution-has-already-occurred/),
@@ -225,7 +225,7 @@ questions around the limits, as we stand of these sort of projects,
 “even allowing for some measure of exaggeration in this statement- it is
 clear for instance, state power will be needed...to re-orient
 agriculture towards sustainable and democratic
-practices.”[^chapter-22-7] Whilst there is a great deal the movement and
+practices.”[^chapter-14-7] Whilst there is a great deal the movement and
 local government could do around food justice, *now*, with Labour out of
 national government, this does not mean problems of state power and
 co-ordination, including when questions of how a Corbynism stands within
@@ -244,28 +244,28 @@ together.” The point here, is that collective, participatory action is
 both a means and end in (Williams), furthering the idea of,
 “society...as the positive means for all kinds of development, including
 individual development. Development and advantage are not individually
-but commonly interpreted” [^chapter-22-8] and here the gap between
+but commonly interpreted” [^chapter-14-8] and here the gap between
 pragmatic and moral claims breaks down, full human development in common
 is both means and end.
 
-[^chapter-22-1]: Raymond Williams, Culture and Society (Harmondsworth,
+[^chapter-14-1]: Raymond Williams, Culture and Society (Harmondsworth,
     Penguin, 1961), p. 312.
 
-[^chapter-22-2]: The London Industrial Strategy, (London, The GLC:
+[^chapter-14-2]: The London Industrial Strategy, (London, The GLC:
     1985), p. vii.
 
-[^chapter-22-3]: The conceptual framework of this question, including
+[^chapter-14-3]: The conceptual framework of this question, including
     world ecology and human and non-human natures is substantially
     derived from Jason W. Moore, *Capitalism in the Web of Life: Ecology
     and the Accumulation of Capital*, (London, Verso, 2015).
 
-[^chapter-22-4]: E. P. Thompson, The Making of the English Working Class
+[^chapter-14-4]: E. P. Thompson, The Making of the English Working Class
     (London: Pelican, 1968), p. 315.
 
-[^chapter-22-5]: Moore, Capitalism in the Web of Life, p. 287.
+[^chapter-14-5]: Moore, Capitalism in the Web of Life, p. 287.
 
-[^chapter-22-6]: Moore, Capitalism in the Web of Life, p. 288.
+[^chapter-14-6]: Moore, Capitalism in the Web of Life, p. 288.
 
-[^chapter-22-7]: Moore, Capitalism in the Web of Life, p. 288.
+[^chapter-14-7]: Moore, Capitalism in the Web of Life, p. 288.
 
-[^chapter-22-8]: Williams, Culture and Society, p. 312.
+[^chapter-14-8]: Williams, Culture and Society, p. 312.

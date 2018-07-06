@@ -6,7 +6,7 @@ Transforming Childcare Now
 *This is the last part of a four-part examination of the care of
 children under capitalism, which draws extensively on Lise Vogel’s
 (2013) Marxism and the Oppression of Women in order to theorise exactly
-how childcare functions in the UK today[^chapter-14-1] and to suggest
+how childcare functions in the UK today[^chapter-5-1] and to suggest
 alternatives.*
 
 *[Part
@@ -58,7 +58,7 @@ serious task, that of overthrowing capitalism itself.
 This requires a consideration of a form of reformism that involves a
 total understanding of society and of the limits imposed by capitalism,
 this kind of reformism is suggested in Raymond Williams’s notion of
-“reformism as response”[^chapter-14-2]. This kind of reformism must be
+“reformism as response”[^chapter-5-2]. This kind of reformism must be
 distinguished, firstly, from an ameliorative reformism in which,
 perhaps, as with the struggle to shorten the length of the working day,
 the workers’ movement may act in the interests of capitalism in the
@@ -80,7 +80,7 @@ which while “reasonable”, capitalism cannot meet.
 Reformism as response for Williams proceeds from a particular situation,
 and the state and capital’s failure to meet human needs, but then, both
 in theory and practice, pushes beyond the limited and particular so that
-“one struggle connects with and implies another”[^chapter-14-3].
+“one struggle connects with and implies another”[^chapter-5-3].
 Childcare, precisely because of how it stands within absolutely
 fundamental contradictions within capitalism, certainly has this dynamic
 possibility. There are then three fundamental aspects of a reformism as
@@ -246,7 +246,7 @@ supported more widely, and to increase the capacity in the community for
 care in general. A mix of state provision, co-operatives and well
 resourced informal care, with the boundaries between the three being
 porous, provides a way to challenge the spatial, temporal, institutional
-and cultural splitting off of the domestic sphere[^chapter-14-4] as a
+and cultural splitting off of the domestic sphere[^chapter-5-4] as a
 place where care is carried out in conditions of submission, isolation
 and drudgery as well as making the social realm inclusive of families,
 rather than excluding children from public life.
@@ -267,7 +267,7 @@ where government money goes in to private companies to deliver the
 government’s policy aims, which are described by the Conservatives' own
 evaluation of the extension of free hours as a confused mixture of
 predominantly enabling parental, and in reality maternal, employment and
-some early years education[^chapter-14-5]. As a Reformism as Response
+some early years education[^chapter-5-5]. As a Reformism as Response
 strategy would suggest, without delivering childcare on the basis of a
 total critique of capitalism, these purposes are not only liable to
 co-option to capitalist purposes for production (coercing women into the
@@ -337,7 +337,7 @@ having childcare provision for time off from care work as well as paid
 work. In *The Playgroup Movement*, Brenda Crowe writes, “there is a very
 real need for mothers to go off duty for a couple of hours occasionally.
 Who else is on the job for twenty-four consecutive hours, seven days a
-week, without even a break for meals?”[^chapter-14-6]. Parents and
+week, without even a break for meals?”[^chapter-5-6]. Parents and
 childcare workers have only minimal control over the services they use
 and provide. Parental input is only very weakly determined by market
 mechanisms, as ‘consumers’ of childcare; and even then, these mechanisms
@@ -384,7 +384,7 @@ back to Federici:
 > deliver our children to the State and then ask the State to control
 > them not for five but for fifteen hours a day...In one case we regain
 > some control over our lives, in the other we extend the State’s
-> control over us[^chapter-14-7].
+> control over us[^chapter-5-7].
 
 ### Alternative Models of Childcare: Co-operative Playgroups
 
@@ -396,7 +396,7 @@ that views childcare as only occurring when parents, particularly
 mothers, are absent from it (and ideally at work). Federici, again,
 observes how “welfare mothers, for example, denounced the absurdity of
 the government policy that recognizes childcare as work only when it
-involves the children of others”[^chapter-14-8]. In contrast, the
+involves the children of others”[^chapter-5-8]. In contrast, the
 [Playcentre Federation](http://www.playcentre.org.nz/) describes in its
 philosophy how it “recognises the parents as the first and best
 educators of their own children. Playcentre families receive a unique
@@ -426,7 +426,7 @@ professionals. This means childcare workers are given a new importance,
 reflected in their pay and conditions1, as Crowe writes, when parents
 turn to professionals for “advice, guidance and support”, they do so
 “within the context of a redefined relationship of self-confidence and
-partnership”[^chapter-14-9]. In this sense of partnerships, it is
+partnership”[^chapter-5-9]. In this sense of partnerships, it is
 important that childcare workers also have co-operative control
 alongside parents. [Lucie
 Stephens](http://b.3cdn.net/nefoundation/c142e402b391ed2097_z7m6ibzpa.pdf)
@@ -444,7 +444,7 @@ example, “PPA has started to involve teenagers and the retired. A
 further new development might be to enlist the interest of the redundant
 and the unemployed to the benefit both of those made to feel unwanted by
 society and of young children most of whom see far too little of male
-figures in their every day life”[^chapter-14-10].
+figures in their every day life”[^chapter-5-10].
 
 In order for this to be practically possible, the government should
 provide a legislative framework and set up a shelter organisation, like
@@ -502,7 +502,7 @@ become a part of daily life rather than excluded from the public realm
 and relegated to the domestic sphere.
 
 Alongside “the good community playgroup, firmly rooted in its own
-locality”[^chapter-14-11], child-friendly spaces need to become the norm
+locality”[^chapter-5-11], child-friendly spaces need to become the norm
 in public buildings and work places. Birmingham Impact Hub provides
 [\#radicalchildcare](http://www.famalam.org/radical-childcare/), a
 co-operative pop-up on-site creche facility alongside its workspace,
@@ -545,49 +545,49 @@ Further to ready-made child friendly spaces, organisations should also
 have the responsibility to provide childcare. Wainwright describes how
 women’s sections transformed the Labour Party so that in one branch,
 “they have changed the time of meetings to suit parents and provide two
-hours’ paid child care”[^chapter-14-12].
+hours’ paid child care”[^chapter-5-12].
 
 Wainwright also discusses women’s demands for a mobile creche: “their
 idea was that creche workers would take play equipment and set up a
 creche on demand, at adult-education classes for instance, or health
-centres or community centres”[^chapter-14-13].
+centres or community centres”[^chapter-5-13].
 
 These are all ways to reform childcare that need further examination.
 
-[^chapter-14-1]: Raymond Williams, “Notes on Marxism in Britain since
+[^chapter-5-1]: Raymond Williams, “Notes on Marxism in Britain since
     1945” in Culture and Materialism, London, Verso, 2005.
 
-[^chapter-14-2]: Raymond Williams, “Notes on Marxism in Britain since
+[^chapter-5-2]: Raymond Williams, “Notes on Marxism in Britain since
     1945” in Culture and Materialism, London, Verso, 2005.
 
-[^chapter-14-3]: Williams, “Notes on Marxism in Britain since 1945”, p.
+[^chapter-5-3]: Williams, “Notes on Marxism in Britain since 1945”, p.
     248.
 
-[^chapter-14-4]: See Lise Vogel, Marxism and the Oppression of Women:
+[^chapter-5-4]: See Lise Vogel, Marxism and the Oppression of Women:
     Towards a Unitary Theory, Chicago, Haymarket, 2013, p. 159.
 
-[^chapter-14-5]: " While the universal entitlement is focused on
+[^chapter-5-5]: " While the universal entitlement is focused on
     supporting child development, the aim of the extension is that
     “Additional free childcare will help families by reducing the cost
     of childcare and will support parents into work or to work more
     hours should they wish to do so” ([DfE, 2017, p.
     12](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/629460/Evaluation_of_early_implementation_of_30_hours_free_childcare_.pdf)).
 
-[^chapter-14-6]: Brenda Crowe, The Playgroup Movement, Oxon, Routledge
+[^chapter-5-6]: Brenda Crowe, The Playgroup Movement, Oxon, Routledge
     Library Editions, 1983, p. 1.
 
-[^chapter-14-7]: Silvia Federici, Revolution at Point Zero: Housework,
+[^chapter-5-7]: Silvia Federici, Revolution at Point Zero: Housework,
     Reproduction and Feminist Struggle, Oakland, PM Press, 2012, p. 21.
 
-[^chapter-14-8]: Federici, Revolution at Point Zero, p. 43.
+[^chapter-5-8]: Federici, Revolution at Point Zero, p. 43.
 
-[^chapter-14-9]: Crowe, The Playgroup Movement.
+[^chapter-5-9]: Crowe, The Playgroup Movement.
 
-[^chapter-14-10]: Crowe, The Playgroup Movement, p. xi.
+[^chapter-5-10]: Crowe, The Playgroup Movement, p. xi.
 
-[^chapter-14-11]: Crowe, The Playgroup Movement, p. 1.
+[^chapter-5-11]: Crowe, The Playgroup Movement, p. 1.
 
-[^chapter-14-12]: Hilary Wainwright, Labour: A Tale of Two Parties,
+[^chapter-5-12]: Hilary Wainwright, Labour: A Tale of Two Parties,
     London, Hogarth Press, 1987, p. 175.
 
-[^chapter-14-13]: Wainwright, Labour: A Tale of Two Parties, p. 169.
+[^chapter-5-13]: Wainwright, Labour: A Tale of Two Parties, p. 169.

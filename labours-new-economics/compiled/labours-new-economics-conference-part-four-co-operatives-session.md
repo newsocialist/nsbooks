@@ -1,5 +1,5 @@
-Labour's New Economics Conference: Part Four, Co-Operatives Session
-===================================================================
+New Economics Conference: Co-Operatives Session
+===============================================
 
 **[Tom Gann](https://twitter.com/Tom_Gann)**
 
@@ -28,7 +28,7 @@ current situation and the future. The Co-operative Party has been
 Labour’s sister party since 1927, and the first co-op was formed in
 Rochdale in 1844 to sell unadulterated food- a working class fightback
 in (E. P. Thompson) the “dietary class warfare” of early industrial
-capitalism.[^chapter-19-1] At the same time, co-operatives are “at the
+capitalism.[^chapter-11-1] At the same time, co-operatives are “at the
 heart of Labour’s preparation for government”. The manifesto commits to
 doubling the co-op sector, which would, according to McCarthy, amount to
 the beginnings of an absolutely necessary “ownership revolution” in the
@@ -232,7 +232,7 @@ egalitarian US plywood co-operatives were often deeply conservative in
 their wider political behaviour. In Raymond Williams’s words, the
 question is how to go beyond co-operatives as “simply trading
 organisations” isolated from any struggle for alternative social
-purposes.[^chapter-19-2]
+purposes.[^chapter-11-2]
 
 The question can also be about the line between internal co-op relations
 and external ones, particularly when it comes to non-member workers
@@ -257,7 +257,7 @@ conventional capitalist firm” is instructive here:
 > produces\] a global configuration of economic and class relations
 > within the conglomerate structure of the Mondragón cooperatives
 > \[which\] is in deep tension with its cooperativist
-> principles.[^chapter-19-3]
+> principles.[^chapter-11-3]
 
 A further question where the impact of the global division of labour is
 significant may be found in the realm of tech co-ops. If tech companies
@@ -291,7 +291,7 @@ islands of co-operation within capitalism but with the wider movement
 and its struggles against capitalism into which co-operatives are
 integrated, whether this is presented as the institutionalised culture
 of the working class, its “remarkable creative
-achievement”[^chapter-19-4] (Williams) or “[the world of
+achievement”[^chapter-11-4] (Williams) or “[the world of
 labour](https://newleftreview.org/I/150/ralph-miliband-the-new-revisionism-in-britain)”
 (Ralph Miliband) or if we’re to take something more specific and
 hopefully beginning to be emergent today, “[Corbynism from
@@ -319,7 +319,7 @@ into.
 > then demand that the State pay for it. It is quite another thing to
 > deliver our children to the State to control them not for five but for
 > fifteen hours a day…In one case we regain some control over our lives,
-> in the other we extend the State’s control over us.[^chapter-19-5]
+> in the other we extend the State’s control over us.[^chapter-11-5]
 
 Within these socialist feminist struggles prefiguration (a theme already
 present in Raymond Williams) becomes central. In extending principles of
@@ -332,17 +332,17 @@ a place for this, but one of building a movement within which popular
 capacities to satisfy needs that capital cannot and will not meet can be
 nurtured and developed.
 
-[^chapter-19-1]: E. P. Thompson, The Making of the English Working Class
+[^chapter-11-1]: E. P. Thompson, The Making of the English Working Class
     (London: Pelican, 1968), p. 315
 
-[^chapter-19-2]: Raymond Williams, The Long Revolution, (Harmondsworth,
+[^chapter-11-2]: Raymond Williams, The Long Revolution, (Harmondsworth,
     Pelican: 1965), pp. 328-9.
 
-[^chapter-19-3]: Erik Olin Wright, Envisioning Real Utopias, (London,
+[^chapter-11-3]: Erik Olin Wright, Envisioning Real Utopias, (London,
     Verso, 2010), pp. 170-3.
 
-[^chapter-19-4]: Raymond Williams, Culture and Society, (Harmondsworth,
+[^chapter-11-4]: Raymond Williams, Culture and Society, (Harmondsworth,
     Pelican 1958), pp. 312-4.
 
-[^chapter-19-5]: Silvia Federici, Revolution at Point Zero: Housework,
+[^chapter-11-5]: Silvia Federici, Revolution at Point Zero: Housework,
     Reproduction and Feminist Struggle, Oakland, PM Press, p. 21

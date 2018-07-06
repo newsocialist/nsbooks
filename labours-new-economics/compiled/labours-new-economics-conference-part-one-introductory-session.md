@@ -1,5 +1,5 @@
-Labour's New Economics Conference: Part One, Introductory Session
-=================================================================
+New Economics Conference: Introductory Session
+==============================================
 
 **[Tom Gann](https://twitter.com/Tom_Gann)**
 
@@ -125,7 +125,7 @@ market mechanisms to do this, as the 1985 *London Industrial Strategy*
 begins (a document discussed by both Hilary Wainwright and Jeremy
 Corbyn), “when the history of Britain’s experiment with monetarism comes
 to be written, the contrast between unmet needs and vast human and
-financial waste will be the theme” [^chapter-16-1]- it should be clear
+financial waste will be the theme” [^chapter-8-1]- it should be clear
 the same could be said with British neoliberalism of whatever political
 stripe more widely. Alongside this economically pragmatic justification,
 popular participation also has a politically pragmatic justification,
@@ -187,7 +187,7 @@ ethical, institutional culture and values of the working class,
 > including individual development. Development and advantage are not
 > individually but commonly interpreted. The provision of the means of
 > life will alike in production and distribution be collective and
-> mutual.[^chapter-16-2]
+> mutual.[^chapter-8-2]
 
 Going beyond the post-1945 nationalisations, particularly their lack of
 democratic control, also entails a striking hegemonic move (and implicit
@@ -229,7 +229,7 @@ whereby, instead of
 > organizations with no other interests, each union committing to its
 > own sphere, and the Labour Party simply an alternative government in
 > the present system—the country needs an effective
-> opposition.[^chapter-16-3]
+> opposition.[^chapter-8-3]
 
 With only hints both from the actuality of the postwar settlement and
 the traditions of radical, decentralised socialism in the UK, the future
@@ -360,17 +360,17 @@ nationalisations, as Williams argues “in being dragged back to the
 processes of the old system, yet at the same time offered as witnesses
 of the new,” Britain’s nationalised industries, “so deeply damaged any
 alternative principle in the economy as to have emptied British
-socialism of any effective meaning”, [^chapter-16-4] are also
-limitations rooted in the limits of Labour as a Party and the Trade
-Unions. Williams’s argument on the moral decline of the labour movement
-(a decline that is rooted in tendencies that had always existed) and
-their acceptance of their existing place in society- the Labour Party
-becoming mere alternative state administrators and Trade Unions having a
-narrow, corporatist and economistic function is key. Cumbers pointed
-here to Labour’s perennial suspicion of syndicalist tendencies, though
-Benn would be an exception here (and the place of Benn and the
-Alternative Economic Strategy and the relation to union hierarchies was
-developed later by Wainwright).
+socialism of any effective meaning”, [^chapter-8-4] are also limitations
+rooted in the limits of Labour as a Party and the Trade Unions.
+Williams’s argument on the moral decline of the labour movement (a
+decline that is rooted in tendencies that had always existed) and their
+acceptance of their existing place in society- the Labour Party becoming
+mere alternative state administrators and Trade Unions having a narrow,
+corporatist and economistic function is key. Cumbers pointed here to
+Labour’s perennial suspicion of syndicalist tendencies, though Benn
+would be an exception here (and the place of Benn and the Alternative
+Economic Strategy and the relation to union hierarchies was developed
+later by Wainwright).
 
 By contrast to the limits of the postwar nationalisation, limits which
 are precisely not socialist, but limits coming from a failure to break
@@ -403,19 +403,19 @@ consequences of companies finding it easier and cheaper to pay fines for
 polluting than changing their behaviour (it’s important to note here
 that capitalism works by always trying to avoid paying its way, and this
 is particularly significant with dumping onto nature, what Jason W.
-Moore describes as “nature as a sink” [^chapter-16-5]), to railways, the
+Moore describes as “nature as a sink” [^chapter-8-5]), to railways, the
 Royal Mail energy companies, social care providers and buses.
 
-[^chapter-16-1]: *The London Industrial Strategy*, (London, The GLC:
+[^chapter-8-1]: *The London Industrial Strategy*, (London, The GLC:
     1985), p. vii.
 
-[^chapter-16-2]: Raymond Williams, *Culture and Society*,
-    (Harmondsworth, Pelican: 1958), p. 312.
+[^chapter-8-2]: Raymond Williams, *Culture and Society*, (Harmondsworth,
+    Pelican: 1958), p. 312.
 
-[^chapter-16-3]: Raymond Williams, *The Long Revolution*,
-    (Harmondsworth, Pelican: 1965), pp. 328-9.
+[^chapter-8-3]: Raymond Williams, *The Long Revolution*, (Harmondsworth,
+    Pelican: 1965), pp. 328-9.
 
-[^chapter-16-4]: Williams, *The Long Revolution*, p. 330.
+[^chapter-8-4]: Williams, *The Long Revolution*, p. 330.
 
-[^chapter-16-5]: Jason W. Moore, *Capitalism in the Web of Life: Ecology
+[^chapter-8-5]: Jason W. Moore, *Capitalism in the Web of Life: Ecology
     and the Accumulation of Capital*, (London: Verso, 2015).

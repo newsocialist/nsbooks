@@ -1,9 +1,10 @@
 {
   "title": "Labour's New Economics",
-  "date": "29th June 2019",
+  "date": "29th June 2018",
   "chapters": [
     {
       "title": "Technological Development For The Many",
+      "date": "May 19, 2018",
       "authors": [
         {
           "name": "Wendy Liu",
@@ -14,6 +15,7 @@
     },
     {
       "title": "Capitalist and Socialist Universal Basic Incomes",
+      "date": "May 13, 2018",
       "authors": [
         {
           "name": "John Marlow",
@@ -24,6 +26,7 @@
     },
     {
       "title": "Ownership and Markets in Energy",
+      "date": "April 12, 2018",
       "authors": [
         {
           "name": "Chris MacMackin",
@@ -34,6 +37,7 @@
     },
     {
       "title": "Public Ownership of the Public Sphere",
+      "date": "March 4, 2018",
       "authors": [
         {
           "name": "Tom Mills",
@@ -48,6 +52,7 @@
     },
     {
       "title": "Universal Basic Services Won't Fix Our Economy",
+      "date": "Feb. 8, 2018",
       "authors": [
         {
           "name": "Grace Blakeley",
@@ -58,6 +63,7 @@
     },
     {
       "title": "Seventy-Seven Nation Industrial Reserve Army",
+      "date": "Jan. 6, 2018",
       "authors": [
         {
           "name": "David Quentin",
@@ -68,6 +74,7 @@
     },
     {
       "title": "Labour's Digital Strategy Is a Missed Opportunity",
+      "date": "Dec. 17, 2017",
       "authors": [
         {
           "name": "Wendy Liu",
@@ -78,6 +85,7 @@
     },
     {
       "title": "Building Platform Socialism: Beyond the Taylor Review",
+      "date": "Aug. 16, 2017",
       "authors": [
         {
           "name": "Justin Reynolds",
@@ -88,6 +96,7 @@
     },
     {
       "title": "A Socialist Bank? Labour's National Investment Bank Proposal",
+      "date": "Aug. 11, 2017",
       "authors": [
         {
           "name": "John Marlow",
@@ -98,6 +107,7 @@
     },
     {
       "title": "Full Corbynism: Constructing a new left Political Economy beyond Neoliberalism",
+      "date": "June 19, 2017",
       "authors": [
         {
           "name": "Joe Guinan",
@@ -112,6 +122,7 @@
     },
     {
       "title": "Labour's Alternative Models of Ownership Report",
+      "date": "June 11, 2017",
       "authors": [
         {
           "name": "The Editors",
@@ -122,6 +133,7 @@
     },
     {
       "title": "Freedom Yet to Come",
+      "date": "June 7, 2018",
       "authors": [
         {
           "name": "Tom O'Shea",
@@ -132,6 +144,7 @@
     },
     {
       "title": "Escaping the Black Dog's Shadow",
+      "date": "March 12, 2018",
       "authors": [
         {
           "name": "Nic Murray",
@@ -142,6 +155,7 @@
     },
     {
       "title": "Transforming Childcare Now",
+      "date": "Sept. 23, 2017",
       "authors": [
         {
           "name": "Andrea Marie",
@@ -152,6 +166,7 @@
     },
     {
       "title": "When We Go Into Government, We All Go Into Government Together",
+      "date": "June 23, 2018",
       "authors": [
         {
           "name": "John McDonnell MP",
@@ -161,7 +176,8 @@
       "content": "when-we-go-into-government.md"
     },
     {
-      "title": "Labour's New Economics Conference: Part One, Introductory Session",
+      "title": "New Economics Conference: Introductory Session",
+      "date": "Feb 1, 2018",
       "authors": [
         {
           "name": "Tom Gann",
@@ -171,7 +187,8 @@
       "content": "labours-new-economics-conference-part-one-introductory-session.md"
     },
     {
-      "title": "Labour's New Economics Conference: Part Two, Digital Session",
+      "title": "New Economics Conference: Digital Session",
+      "date": "Feb 2, 2018",
       "authors": [
         {
           "name": "Wendy Liu",
@@ -181,7 +198,8 @@
       "content": "labours-new-economics-conference-part-two-digital-session.md"
     },
     {
-      "title": "Labour's New Economics Conference: Part Three, Housing Session",
+      "title": "New Economics Conference: Housing Session",
+      "date": "Feb 3, 2018",
       "authors": [
         {
           "name": "Wendy Liu",
@@ -191,7 +209,8 @@
       "content": "labours-new-economics-conference-part-three-housing-session.md"
     },
     {
-      "title": "Labour's New Economics Conference: Part Four, Co-Operatives Session",
+      "title": "New Economics Conference: Co-Operatives Session",
+      "date": "Feb 4, 2018",
       "authors": [
         {
           "name": "Tom Gann",
@@ -201,7 +220,8 @@
       "content": "labours-new-economics-conference-part-four-co-operatives-session.md"
     },
     {
-      "title": "Labour's New Economics Conference: Part Five, Local Democratic Economic Strategies",
+      "title": "New Economics Conference: Local Democratic Economic Strategies",
+      "date": "Feb 5, 2018",
       "authors": [
         {
           "name": "Tom Gann",
@@ -211,7 +231,8 @@
       "content": "labours-new-economics-conference-part-five-local-democratic-economic-strategies.md"
     },
     {
-      "title": "Labour's New Economics Conference: Part Six, Plenary Session",
+      "title": "New Economics Conference: Plenary Session",
+      "date": "Feb 6, 2018",
       "authors": [
         {
           "name": "Tom Gann",
@@ -221,7 +242,8 @@
       "content": "labours-new-economics-conference-part-six-plenary.md"
     },
     {
-      "title": "Labour's New Economics Conference: Part Seven, Jeremy Corbyn's Speech",
+      "title": "New Economics Conference: Jeremy Corbyn's Speech",
+      "date": "Feb 7, 2018",
       "authors": [
         {
           "name": "Tom Gann",

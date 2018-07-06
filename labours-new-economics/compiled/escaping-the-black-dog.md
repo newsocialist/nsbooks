@@ -3,508 +3,435 @@ Escaping the Black Dog's Shadow
 
 **[Nic Murray](https://twitter.com/nic__murray)**
 
-There have been significant debates around the Labour Party’s increasing
-sympathy for universal basic income (UBI). Though UBI’s alternatives
-have also been discussed by both Jeremy Corbyn and John McDonnell, UBI
-itself has been the starting point for policy responses to increased
-precariousness of employment and the possible effects of greater
-automation, with McDonnell setting up [a working
-group](http://basicincome.org/news/2017/02/uk-labour-party-ubi-working-group/)
-to look into the idea in February last year.
+Several weeks ago, Johann Hari told us that [everything we knew about
+depression was
+wrong](https://www.theguardian.com/society/2018/jan/07/is-everything-you-think-you-know-about-depression-wrong-johann-hari-lost-connections).
+As an opening gambit for any new book it was a brave one, never mind it
+coming from a [disgraced investigative
+journalist](https://deterritorialsupportgroup.wordpress.com/2011/06/17/hari-karihackery/).
+Hari’s claims, excerpted in The Guardian were doubly dubious, partially
+based on dubious statistics and where more reliable rather less new than
+the book’s title claimed with depression having causes external to the
+brain known by and taught to healthcare professionals for
+[decades](https://twitter.com/ProfLAppleby/status/950800168366018560).
+Even to those outside the healthcare profession, the suggestion that we
+were unaware that mental health problems were socially determined is at
+best disingenuous and at worst actively harmful. Speak to anyone who is
+depressed or mentally distressed in de-industrialized towns, or
+[forgotten seaside
+resorts](https://www.ft.com/content/b6dbf34e-c987-11e7-aa33-c63fdc9b8c6c),
+and they’ll tell you it’s not because they’re a biologically distinct
+tribe to the residents of Kensington (or at least Kensington’s richer
+residents). Perhaps because the vast majority of what they, or anyone
+facing oppression or systemic injustice, know about depression, is
+right.
 
-The concept of UBI has been a mainstay for left and green parties in
-recent decades, and has rapidly become mainstream as it gains increasing
-support from both centrist parties and individual capitalists, becoming
-at least an inspiration for further policy development across the
-political spectrum. However, as this concept has become more popular
-even among mainstream commentators who seem increasingly ready to
-entertain at least one form of radical change, it has remained
-controversial among Marxists.
+The ‘You’ that Hari was addressing in his article and book isn’t really
+any of these people though. Looking at the sleeve of *Lost Connections*,
+adorned with gushing quotes by everyone from Matt Haig to Elton John,
+the desired audience for his piece and book becomes clearer. The ‘You’
+conjures up the commentariat and mainstream media narrative that
+currently exists around mental health - a narrative that for years has
+ceaselessly circled around the need to ‘speak out’ and ‘break the
+stigma’, and has become so hollowed out and devoid of real insight that
+the Royal Family is able to enter into the fray, [clearly signifying the
+debate as wholly
+apolitical](https://www.theguardian.com/commentisfree/2017/apr/20/mental-health-royal-family-government-children-illness).
+If this is the space into which Hari intended to launch his book then
+the suggestion that social factors can influence our mental health would
+undoubtedly be seen as a novel take. Reading his book makes clear that
+his years of jetsetting to uncover the truth about mental health only
+produces a series of ahistorical and unlinked anecdotes, giving rise to
+individualised self-help hacks. Rather than collectively piling in on
+the flaws in this, there’s a need to present a counter narrative that
+listens to the voice of survivors to understand how we got to this
+apolitical space, and consider what is our way out.
 
-Authors in the “post work” tradition such as Nick Srnicek and Alex
-Williams see a UBI as a central feature of a highly automated
-post-capitalist society. Within capitalism, it is put forward as a
-transformational reform, smoothing the path towards post-capitalist
-society by challenging the ideology of work that makes one’s job a
-signifier of social purpose and worth.
+The black dog’s shadow
+----------------------
 
-In contrast, the “workerist” tradition has argued that it would
-undermine the key aim of post-capitalism. A [recent critique in Jacobin
-magazine](https://www.jacobinmag.com/2017/12/universal-basic-income-inequality-work)
-is exemplary. UBI proponents are charged with abandoning the idea of
-worker’s emancipation in the workplace through control of the production
-process. UBI, it is said, offers workers only a subordinated and
-alienating position within a market economy.
+In March 2006, a statue appeared in Norwich of depicting [Winston
+Churchill constrained by a straight
+jacket](http://news.bbc.co.uk/2/hi/uk_news/4795832.stm). It later turned
+out the 9ft figure was commissioned by mental health charity Rethink as
+part of a campaign to tackle mental health stigma. This served as
+something of a harbinger for the years to come, both for mental health
+policy and discourse. This was a period in which the space to discuss
+the politics of mental health was chipped away - and then colonised by
+the third sector- a process that could loosely be termed the ‘black
+dog-ification’ of mental health. Looking at the figure, Churchill was
+undoubtedly chosen by Rethink (and [later Time to
+Change](https://www.time-to-change.org.uk/news/would-his-depression-have-stopped-churchill-becoming-pm-modern-britain))
+as a mental health icon due to his writings on the ‘black dog’ that
+visited him during periods of poor mental health. It mattered little
+that Churchill was also[in favour of compulsory labour camps for those
+he saw as ‘mentally
+defective’](https://broadly.vice.com/en_us/article/ae55v8/winston-churchill-racist-warmonger-sterilize-mentally-ill),
+the function he and his black dog served was perfect for the myopic
+vision of the next decade’s mental health campaigning.
 
-So should a UBI be part of a socialist vision for the future? Does a UBI
-even make sense as a transformative reform within capitalism? Debates on
-UBI as a practical policy are well-rehearsed, but this article seeks to
-answer these questions through a critical review of the Marxist
-perspectives on the concept.
+Perhaps most immediately harmful in the conjuring of a ‘black dog’
+associated with mental health problems is that it encouraged people to
+see their distress as [something external and, even more importantly,
+inexplicable](https://medium.com/@tristandross/a-critique-of-the-genre-of-mental-health-writing-part-one-6084087f71a3).
+Though metaphor at times has its merits, this process can serve to
+prevent us from establishing the triggers and underlying causes of our
+symptoms, and ultimately hinder debate by refusing to name structural
+causes of mental illness. The ‘black-dog’ anti-stigma approach to mental
+health can then claim progress by encouraging discussion of a sanitised
+image of mental health, with a dark unnamed cause lurking at the edges,
+invoking sympathy for those who did not choose to be visited by this
+creature. The anti-stigma initiative [has been described as a process of
+‘benevolent othering,’ which speaks of others in ways that are
+ostensibly positive but which function to maintain their subordination
+to capitalist market
+forces](https://link.springer.com/content/pdf/10.1007/s00127-017-1393-x.pdf).
+Mark Fisher famously wrote on the [privatisation of
+stress](http://www.newleftproject.org/index.php/site/article_comments/the_privatisation_of_stress),
+encouraged by capitalist systems to further exploit a workforce
+conditioned to dissociate work stresses from their mental health. The
+encouragement of this dissociation was perhaps exemplified by 2017’s
+World Mental Health Day with its theme of workplace wellbeing. Amid the
+[current crisis of
+work](https://popularresistance.org/against-meaninglessness-and-precarity-the-crisis-of-work/),
+it’s an incredible sleight of hand that such a theme aims to reconcile
+us with distressing work, while also championing the employers
+responsible for their ‘mental health awareness’. As David Frayne pithily
+remarked at the time: “[dare we imagine a Mental Health Day on the theme
+of 'inequality', or
+'capitalism'?](https://twitter.com/TheWorkDogma/status/917650823588601857)”
 
-Freedom in work
----------------
+The ‘black dog’ has further aided market forces through the
+commodification of mental health, [creating a new social
+issue](https://www.vice.com/en_uk/article/9ammqv/how-mental-health-became-the-new-feminism)
+that brands can tack onto products, or, in some cases, help to target
+[individuals whose online search
+behaviour](https://www.vice.com/en_us/article/pg7d59/when-facebook-and-instagram-thinks-youre-depressed)
+might indicate they are distressed with consumption proffered as the
+solution. The sole intervention into markets for the cause of our mental
+health has been to prevent the sale of stigmatising halloween costumes -
+an incredibly minor disruption in a two week period of the consumer
+capitalist calendar, but one that has been [heralded as a key
+win](https://twitter.com/TimetoChange/status/917408312794136577) of the
+now decade old Time to Change campaign, into which the government has
+poured [at least £20 million to
+date](https://www.gov.uk/government/news/time-to-change-tackling-mental-health-stigma).
+If the anti-stigma campaign, and the work of mental health charities,
+have only ever sought to evoke sympathy and place a slight veneer over
+the ongoing atrocities of neoliberalism, what then is to be made of
+mental health charities’ complicity with a system that repeatedly
+punishes those they claim to represent?
 
-“Workerism” is the often derogatory term for Marxist analysis that
-dogmatically privileges manual production workers as creators of
-economic value and agents of history, calling for workplace organisation
-to the exclusion of all else. Though this is a fair criticism of
-specific Marxist movements, much of the Marxist tradition is
-“workerist”—with a small “w”—in emphasizing wage labour as the origin of
-economic value. As workers, we are said to create value and continually
-remake the world, yet at someone else’s direction. Seeing ourselves as
-passive “employees” rather than active creators is crucial to the
-concept of alienation, which underpins capitalists’ ability to
-expropriate value from production, yet herein is said to lie our latent
-revolutionary potential.
-
-Accordingly, emancipation cannot be seen as freedom from work, which
-would appear to be an abdication of agency. Instead, class struggle
-centres on the workplace, on the fate of the value we create, and on the
-control of the work process itself. The goal is freedom-in-work through
-the socialisation and democratisation of the workplace. The free
-association of producers replaces wage labour.
-
-This position can be caricatured—and historically often has been—as
-ignoring those who are outside the realm of capitalist production.
-However, it maintains that unpaid work (such as domestic labour) can,
-like all labour, create use value, which is something to celebrate.
-Greater recognition of this fact gave rise to ideas such as “wages for
-housework”. Although proposed in opposition to narrow workerism, these
-ideas still embody a certain workerist logic: the response to unpaid
-labour is to demand that it should be recognised as labour proper by
-linking it to a wage, and that it ultimately should be socialised, in
-order to emancipate it. In this vision, the realm of work expands
-outwards, but work is to become self-directed, and no longer alienating.
-
-In this context, it is not hard to understand the workerist opposition
-to UBI. To the extent that UBI means we can drop out of work, we gain
-“free time”, but we lose the historical agency we have as workers. As
-UBI-funded consumers, we are seen as passive, alienated, taking as given
-a world shaped by others. We may do work, such as housework, that
-creates use value outside of the market, but there is no reason to
-believe that this work must be “free”: it may fall victim to other
-structures of domination such as patriarchy. Might not UBI create an
-enormous pressure to “volunteer” in some approved manner, to
-symbolically earn one’s UBI cheque?
-
-From the beginning, Marxism has pointed out that wage labour offers an
-escape from “pre-capitalist” structures, even as it imposes a new form
-of subjugation. Workerism embodies the classical Marxist teleology that
-sees capitalism as a step on a liberatory path that is only completed
-through the socialisation of labour. From this perspective, UBI seems to
-miss a crucial step in the process towards post-capitalism.
-
-This critique recognises the fact that UBI is usually proposed as a
-specifically social democratic reform within capitalism. Despite all the
-talk of “free time”, such a formulation of UBI can only be intended to
-leave the system of wage labour intact, and this is how left critiques
-of UBI tend to understand it. As such, the liberation involved appears
-limited: if we still have to perform wage labour to supplement our UBI
-cheques, then we still cannot escape the alienation of working as
-someone else’s tool.
-
-UBI is also unlikely to be seen as a transformative reform from a
-workerist perspective. Organising for a (higher) UBI, to lessen the
-impact of low pay and precarious conditions, appears as an alternative
-to workplace organisation. And, from this perspective, organising to
-plead for state protection from capital looks like a dead end. Indeed,
-to the extent that UBI is really a subsidy of low pay and precarious
-conditions, it is not clear who the state would be protecting from whom.
-
-Freedom from work
------------------
-
-The post-work tradition has its roots in the post-operaismo of Italian
-Marxists such as Carlo Vercellone, Antonio Negri, and other “post-work”
-thinkers such as André Gorz. Its key contention is that work and
-value-production increasingly fail to conform to the model we see in
-Marx, one that is better suited to early industrial times. As production
-becomes more and more immaterial, less bounded by the conventional
-workplace, and less defined by physical time or output, labour’s role in
-production becomes harder to measure and define. In other words, the
-sphere of value creation becomes diffuse. It comes to include not just
-domestic and reproductive labour, but all activity that is generative of
-a functioning society and the knowledge that it possesses.
-
-As a result, much less emphasis is placed on the idea of emancipation
-*within* work. Instead, the receipt of a basic income often takes centre
-stage as the emancipatory moment, releasing us from the compulsion of
-performing alienated activity for the market, or indeed for the state.
-Work is not transformed so much as progressively abandoned in favour of
-UBI-funded, self-directed, productive activity.
-
-Technological advance plays a critical role in this approach. The growth
-of labour productivity through automation is seen, in the tradition of
-Gorz, as outpacing our demand for the products of labour. This would
-appear to make productive full-time work for everyone an impossibility,
-both as a source of income and as a route to emancipation. A related
-critique is David Graeber’s view that “[bullshit
-jobs](https://strikemag.org/bullshit-jobs/)” have become the norm in
-capitalism—jobs which may have some tactical rational for employers yet
-cannot be seen as meaningfully creating value for society. For Graeber,
-such jobs should not be socialised; they should be abolished.
-
-So workerist and post-work traditions actually share a vision of
-production through free association in a society that has moved beyond
-wage labour, but they foresee very different paths to get there: the one
-through the transformation of work, the other through escaping it.
-
-The moral agenda is also different. Paying workers “the full fruits of
-their labour” is a caricature of the workerist position, but not
-entirely without basis. By contrast, proponents of UBI see it as a way
-for society to reward all useful activity performed beyond the market.
-It is often promoted as a “dividend” of past efforts to develop
-knowledge, technology and “social capital”.
-
-Lastly, there is the question of the transformative potential of a UBI
-on capitalism itself. Inasmuch as it creates an alternative to wage
-labour, a UBI is often seen by left proponents as a tool to undermine
-the bargaining power of capital over labour, forcing improvements in pay
-and working conditions, or even challenging capitalism itself. Even the
-implementation of a modest “partial” UBI is seen as a transformative
-reform, undermining the ideology of work that makes one’s job a
-signifier of social purpose and worth, and that stands politically in
-the way of the transition to a post-work society.
-
-Some sources of confusion
+The co-option of recovery
 -------------------------
 
-One conclusion we can draw from this controversy is that it is not
-always helpful to read the labour theory of value (LTV) as a normative
-theory, despite the undoubted rhetorical power of doing so. With LTV
-treated as a moral theory of theft, the UBI debate becomes one of
-competing moral claims to the social product, based upon competing
-claims about value-creation.
+"The message we want to portray is that it is possible to recover from
+mental illness and overcome it and be successful - because Churchill is
+an example of someone who was able to do that" was the statement put out
+by Rethink following the stunt. The role recovery plays in this
+statement is significant, as it’s closely followed by an expectation
+that this involves overcoming mental illness and being ‘successful’.
+This emphasis on recovery as ‘success’ within the narrowly defined
+purposes of existing society stands in stark contrast to the conception
+of the Recovery Model that held its roots in the civil rights movements
+of the 60/70s. Emerging during this time the movement sought to question
+power, and emphasised the [importance of autonomy and
+self-determination](https://www.madinamerica.com/2016/02/recovery-compromise-or-liberation/).
+Ultimately, however, such radical potential was defanged allowing
+aspects to be reorganised in ways useful to the purposes of the state
+and capital.
 
-But in what sense should value-creation in capitalism be a moral
-yardstick when we are talking about transformation to post-capitalist
-society? Marx famously proposed “to each according to his (sic.) needs”
-as a better principle; a post-capitalist society has to transcend the
-logic of reward-for-contribution to realise that vision. LTV, on the
-other hand, can be seen as a descriptive theory of the determination of
-prices of production under specific circumstances. This is why Marx only
-considers wage labour in that theory—unpaid work is not considered to
-have any effect on prices.
+Much of the third sector in the 00s heralded the notion of recovery as a
+sea change for mental health services. Rather than focusing on deficits,
+people would be encouraged to become experts in their own self-care and
+pursue their aspirations and goals. Within this new recovery framework,
+service users were recast as ‘experts by experience’ and framed as
+equals alongside professionals, working together to
+[“co-produce](https://www.mind.org.uk/information-support/your-stories/co-production-in-mental-health-why-everybody-wins/#.Wne3kahl_IU)”
+mental health services. These were all nice rhetorical flourishes, but
+processes which were [fundamentally incompatible with the third
+sector](http://thenewmentalhealth.org/?p=294). Uneven power dynamics
+that limited the input of service users and the expectations of funders
+meant that these efforts were bound by the [neoliberal impact-driven
+nature of the
+sector](https://newsocialist.org.uk/overthrowing-the-big-society-the-third-sectors-neoliberal-embrace/),
+and “pursue your aspirations and goals” became “be successful” on our
+metric driven terms. The drying up of funding post-financial crash meant
+that many of the smaller, [more radical user led groups lost funding or
+were
+outbid](http://www.disabilitynewsservice.com/more-than-220-member-groups-of-mental-health-network-close-in-two-years/)
+by these growing impact-driven charities presenting a homogenous
+definition of recovery.
 
-There is also a lot of confusion about sequencing in this debate. Are we
-talking about before or after the revolution? To attack UBI, it is
-tempting to counterpose the promise of after-the-revolution socialism to
-the dystopia of a capitalism shored-up by a lumpenproletariat-pacifying
-UBI. At the same time, it is tempting for the post-work side to
-counterpose the self-directed, unpaid activity and free association of
-hypothetical UBI-receivers to the horrors of actually-existing wage
-labour.
+The idea of work as a cure was central to the new conception of
+recovery, with employment being seen as a [key outcome of mental health
+treatment](http://www.huffingtonpost.co.uk/dr-jay-watts/mental-health_b_10769174.html)
+and job-seekers expected to be work-ready, with a [positive mindset and
+disposition](https://theconversation.com/facing-psychological-coercion-and-manipulation-has-become-a-daily-part-of-claiming-benefits-42839).
+The work cure as a capital based intervention also serves as an ideology
+through which to manage its own reproduction even as it produces and
+amplifies distress and melancholic apathy. Writing on the "political
+economy of unhappiness" [William
+Davies](https://newleftreview.org/II/71/william-davies-the-political-economy-of-unhappiness)
+noted that these states currently represent the “critical negative
+externalit\[ies\] of contemporary capitalism.” As work becomes
+progressively more atomised and service based, and constant cognitive
+attention online is required to drive profits, this mental malaise
+strips the ideal neoliberal subject of their enterprise and desire to
+better themselves as well as limiting their consumptive capacities.
+[Marx notes
+how](https://www.marxists.org/archive/marx/works/1867-c1/ch15.htm),
 
-But neither of these are entirely fair comparisons to make. Both compare
-capitalist realities with states of affairs that are really only
-possible post-capitalism. We need to consider what role UBI might play
-in a post-capitalist/socialist/communist economy. In parallel, we need
-to consider exactly what kind of UBI is possible in a capitalist
-economy, and the limits thereof.
+> Capitalist production, therefore, develops technology, and the
+> combining together of various processes into a social whole, only by
+> sapping the original sources of all wealth — the soil and the
+> labourer.
+>
+> This provides a framework for thinking about unhappiness as a major
+> contemporary way in which the worker as source of wealth is sapped and
+> then of interventions on this terrain as a means of securing capital’s
+> reproduction as cheaply and in a way as compatible with capitalism’s
+> interests and purposes as possible. [Davies
+> again](https://newleftreview.org/II/71/william-davies-the-political-economy-of-unhappiness)highlights
+> how the work cure serves to aid capitalism’s reproduction across all
+> these levels: The depressed employee is stricken by a chronic
+> deflation… which can lead him or her to feel economically useless, and
+> consequently more depressed. The workplace therefore acquires a
+> therapeutic function, for if people can somehow be persuaded to remain
+> in work despite mental or physical illness, then their self-esteem
+> will be prevented from falling too low, and their bio-psycho-economic
+> potential might be rescued.
 
-UBI would be contingently necessary in a post-capitalist economy
-----------------------------------------------------------------
+Against the backdrop of austerity, the links between mental health
+charities and ‘work cure’ have flourished. Mind have [bid for contracts
+with](https://www.disabilitynewsservice.com/mind-boss-lies-to-protesters-over-dwp-contracts/)
+- and [seconded a senior member of their team to - the Department of
+Work and Pensions
+(DWP)](https://www.mind.org.uk/news-campaigns/mind-and-back-to-work-support/dwp-secondment/),
+while maintaining a doublespeak that also enabled them to condemn
+conditionality and sanctions. Until last month, Conservative MP Esther
+McVey sat on the [advisory board of the
+Samaritans](https://www.samaritans.org/news/samaritans-advisory-board).
+Even prior to her appointment as Secretary of State for Work and
+Pensions, this was an MP who is consistently voted to decrease
+disability benefits, leaving those facing the brunt of cuts to benefits
+and services wondering - is there anywhere truly left to turn?
 
-UBI has emerged as a policy response to the problem of persistent labour
-oversupply and the precarity and poverty that goes with it. This
-oversupply, however, is a necessary feature of capitalism. In the
-workerist vision of a socialist economy, the problem is solved by
-guaranteed access to employment. In the post-work vision, UBI solves the
-problem that employment can no longer be guaranteed. My aim in this
-section is to suggest how this chasm might be bridged.
+Missed connections
+------------------
 
-First of all, I believe that full employment—understood in a certain
-way—should be seen as a basic requirement in a post-capitalist economy.
-The opportunity to work as much as we would like is not just a
-nice-to-have; it is needed to underpin the strength of labour and ensure
-the democratic character of the production process. I am tempted to say
-that worker power through effective labour scarcity is even more
-fundamental than the *de jure* control of the productive apparatus.
-There is no state enterprise or worker coop that could not potentially
-become the site of alienation if you had to beg to be allowed to join,
-i.e. if surplus labour put some people in a position of *de facto* power
-over others.
+In the immediate aftermath of Hari’s piece and the launch of his book,
+many rallied against him claiming it was dangerous to allow him such a
+prominent place in the mental health debate. The issue is that the way
+in which we talk about mental health is already dangerous, serving to
+privatise our distress, to placate us with toxic work practices and
+further entrench the creeping neo-liberalisation of the third sector.
+These processes feed off each other and leave us without any clear
+solutions of how to overcome them. If we truly want to escape the shadow
+cast over the last decade by this black dog, a key aim must be to break
+the link between work and treatment that have now become so tightly
+fused. From this we can consider how the principles of autonomy and
+self-determination could once again be reclaimed in both these spaces.
 
-But there is no reason why we should all want to work forty hours a
-week. In fact, “how much we want to work”, on aggregate, is not a matter
-of immutable individual preferences but something to be consciously and
-collectively decided. It should be an object of collective economic
-management, and this is where UBI may play a role post capitalism.
+Working isn’t working
+---------------------
 
-How much we should want to work, moreover, depends on how much we want
-to produce. In capitalism, growth is just the accidental product of
-uncoordinated profit maximization. Associated production, by contrast,
-implies a collective decision about how big the economy should be at any
-one time. Even putting aside the issue of ecological limits, the balance
-between well-being now and in the future, and thus between current
-consumption and investment, is fundamentally an ethical and political
-one. To let the current and future scale of output be determined
-accidentally, through uncoordinated activity, is to abdicate
-responsibility. A socialist society has to target a certain scale of
-output at any date, thus aiming for a certain trajectory of growth or
-de-growth.
+Hari’s suggestion to readers to simply ‘democratize your workplace’
+wilfully avoids the fact that a fight for mental health at work cannot
+be won through individual action but must involve collective agitation
+and organisation against employers and the forces of capital. However,
+resistance to work no longer manifests itself in an organised voice, but
+through a wide range of mental distresses. [322,000 working days were
+lost due to industrial
+disputes](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacedisputesandworkingconditions/articles/labourdisputes/latest)
+in 2016, [while 12.5 million were lost due to work related stress,
+anxiety or
+depression](http://www.hse.gov.uk/statistics/causdis/stress/stress.pdf)
+in the same year. The overall trend in sick days is declining, but those
+taken due to mental ill health seem to be rising: we are bearing the
+brunt of the current crisis of work individually - and often silently -
+and need to take collective action. Trade unions must re-emphasise the
+vital role they can play to support workers’ mental health that has
+always been at the movement’s core. Every bargain negotiated by trade
+unions provides a benefit to workers’ collective mental health, as the
+Trade Union Congress (TUC)’s 1880 annual report states: “In a normal
+state of things wages at any given time and place should not fall
+below...whatever the contemporary local civilisation recognises as
+indispensable for physical and mental health.” The new normal should not
+be a situation where [two in every five employed
+people](http://neweconomics.org/2017/08/bad_jobs/) in the UK are in work
+that doesn’t provide a secure, living wage. Nor should a commitment to
+mental health be merely a tick box exercise on top of toxic work
+practices and structures, where it is easier and cheaper for employers
+to prescribe a wellness course for individuals than to change how a
+workplace is organised.
 
-A target level of output then implies a target for the input of labour
-time, given the state of production technology at any one moment.
-Looking forward, this is unlikely to mean everyone working all week; not
-in the context of automation, ecological constraints and the satiation
-of basic needs. So there can be no question of simply trying to
-stimulate whatever output it takes, Keynesian style, to absorb however
-much labour we might happen to want to supply. Instead, full employment
-would require that we adjust the amount of labour we *want* to supply to
-the desired level of output.
+Going further, trade unions can integrate with growing demands on the
+left for a [‘politics of
+time’](https://markcarrigan.net/2016/04/17/the-politics-of-time-and-the-possibility-of-democracy/)
+that questions the embedded nature of the work ethic and calls for
+greater freedom and autonomy. These calls are situated between the
+neo-classical perspective of work in itself being the opposite of
+utility, and the more modern economic view of employment as a wholly
+positive force for mental health, alleviating the suffering caused by
+unemployment. Rather than encouraging workers to instill meaning to
+their roles, or to simply follow what they love, such a project has
+broader aims in rejecting the assertion that work is inherently good,
+and instead emphasizing how[a better sharing out of good work can
+benefit
+society](https://www.opendemocracy.net/neweconomics/need-4-day-week-tackle-multiple-crises-work/).
+This rebalancing could provide mental health benefits at both ends of
+the scale. Last year, workers were estimated to have put in [2.1 billion
+hours of unpaid
+overtime](https://www.tuc.org.uk/news/workers-uk-put-%C2%A3336-billion-worth-unpaid-overtime-year),
+a working pattern associated with a host of mental and cardiovascular
+strains. Moreover, with the contemporary world of work defined by [high
+insecurity, low control and high
+demands](https://www.tuc.org.uk/news/zero-hours-contracts-allow-bosses-treat-workers-%E2%80%9Cdisposable-labour%E2%80%9D-says-tuc),
+most notably in the numbers of workers employed on zero hours contracts,
+much vaunted flexibility has severe impacts on workers’ mental health.
+Beyond paid work, unwaged work, often entailing tremendous amounts of
+physical and emotional labour, continues to be overwhelmingly [carried
+out by women](https://visual.ons.gov.uk/the-value-of-your-unpaid-work/),
+a vast inequality that not only erodes women’s free time, but also their
+own mental health and happiness, with [middle aged women being two
+thirds more likely to suffer work stress than
+men](http://www.hse.gov.uk/statistics/causdis/stress/stress.pdf?pdf=stress).
 
-Now this is not a problem where there is no market. For example, if I
-agree, in a self-sufficient commune, to a plan which foresees everyone
-working 20 hours a week, then by definition I decide and want to work
-the required 20 hours a week. The supply and demand sides are brought
-together in a conscious decision. The same applies to voluntary activity
-and any work done for its own sake, rather than for payment.
+Listening to survivors
+----------------------
 
-However, there are few visions of a post-capitalist economy that do not
-foresee at least a consumer market and payment for labour (in money,
-“labour tokens”, etc.), at least transitionally. And where work is
-performed for payment, the problem arises of setting this reward at the
-right level to incentivize the required supply of labour. Rationing out
-scarce paid work is possible but suboptimal, leaving nearly everyone
-dissatisfied.
+A lot of the focus of Hari’s book will be on the fact he has recycled
+his evidence while describing his conclusions as novel and this
+[reinforces his reputation as a
+plagiarist](https://www.theguardian.com/media/2011/sep/14/johann-hari-apologises-orwell-prize).
+What also should not be ignored, however, is that many of the solutions
+Hari proposes are watered down presentations of the more necessary and
+radical demands already being called for by numerous survivor groups.
+When discussing the scarring effects of childhood trauma on our mental
+health, Hari speaks with Dr. Robert Anda, the director of the ['90s ACE
+study on
+trauma](https://www.cdc.gov/violenceprevention/acestudy/about.html), who
+he quotes as saying that the study’s findings made him realise it’s time
+to stop asking “what’s wrong” and instead ask “what’s happened”. This
+would be novel if it hadn’t already been called for by survivors for at
+least a decade earlier than the ACE study, or, at the time of Hari’s
+writing, was not being asked in the NHS.
 
-This is where UBI comes in. Clearly, by raising or lowering a UBI, we
-could collectively influence aggregate labour supply, whilst leaving
-each of us free to decide how much we each want to work for payment. In
-fact, we should speak here not just of UBI but of the general balance
-between labour and non-labour income. The latter includes goods and
-services provided in kind, like public healthcare, and money transfers
-such as pensions, as well as UBI. Here then, UBI becomes an intelligent
-tool for planning aggregate labour supply in the context of prior
-defined goals for aggregate production and consumption.
+A [recent
+review](http://onlinelibrary.wiley.com/doi/10.1111/inm.12369/abstract)
+found that, at most, only a quarter of psychiatric patients are asked
+about their experience of abuse or violence, despite the Department of
+Health requiring staff to ask this question [since
+2003](http://webarchive.nationalarchives.gov.uk/20120503230231/http:/www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@en/documents/digitalasset/dh_4072069.pdf).
+Even if patients are asked about these experiences, the current mental
+healthcare system is ill equipped to give people the space and time to
+work through this trauma. Those from more marginalised backgrounds,
+already more likely to have experienced abuse and violence and often
+unable to access private treatment, are faced with up to year long
+waiting lists for trauma informed care or an NHS that can reinforce
+abuse and trauma along axes of oppression. In the most extreme cases
+people of colour are [three times more likely to be restrained in mental
+health
+units](https://www.theguardian.com/society/2017/dec/09/women-black-patients-physically-restrained-mental-health).
+However, re-traumatisation visited on patients receiving mental health
+treatment through the NHS extends beyond, and can be more insidious
+than, the use of restraints.
 
-Consequently, instead of seeing “workerist” and “post-work” visions of
-post-capitalist society as opposing each other, we can see them as
-contingently necessary solutions to different historical circumstances.
-We can see UBI as a contingently necessary tool, rather than as
-something mandated by a particular view of the LTV. In a
-low-productivity, early industrial context, with a strong desire to
-increase output to meet basic needs, we face the problem of how to
-motivate and compensate the performance of a large quantity of arduous
-work. In this context, there is limited scope, macroeconomically, for
-extensive non-labour income.
+Radical therapist David Smail has suggested Thatcher’s belief that there
+is no such thing as society finds "[an unacknowledged echo in almost all
+approaches to
+therapy](https://books.google.com/books?id=lSejDQAAQBAJ&pg=PA16&lpg=PA16&dq=an+unacknowledged+echo+in+almost+all+approaches+to+therapy&source=bl&ots=Gq35xgAZpD&sig=xhVDPpmtGmCaO4O9jBJR70dsZks)".
+It is certainly the case in Cognitive Behavioural Therapy (CBT), the
+most common therapy accessed through Improving Access to Psychological
+Therapies (IAPT), a program introduced by New Labour in 2008 [following
+the
+advice](http://cep.lse.ac.uk/pubs/download/special/depressionreport.pdf)
+of economist and workfare proponent Richard Layard. In this original
+advice, CBT is heralded as a means by which to overcome mental health
+problems using a “here and now” approach to therapy that focuses on
+negative thought patterns and problematic behaviours. This
+de-contextualised approach to therapy could be seen as problem-solving,
+but implicitly it encourages individuals to carry out continual
+self-work to become more attractive to the labour market. The onus is on
+the individual to respond almost stoically and rationally to their
+negative thought processes. The issue is, however, that we exist outside
+of our thoughts, in a material and systematically unjust world. People
+of colour who are [already more likely to disengage with health
+services](https://www.mentalhealth.org.uk/a-to-z/b/black-asian-and-minority-ethnic-bame-communities),
+may be being [routinely abused by a method of
+therapy](https://racereflections.co.uk/2017/07/01/culturally-biased-therapy-part-2-injustice-and-depression/)
+that encourages the erasure of the structural violence they encounter.
+Being in financial difficulty drastically[reduces the likelihood of
+recovery from common mental health
+problems](http://www.moneyandmentalhealth.org/wp-content/uploads/2017/06/Money-and-mental-health-the-facts-1.pdf),
+and CBT is unlikely to help that; there are only so many ways you can
+mentally reframe the gnawing uncertainty as to whether your landlord may
+kick you out, or when the bailiffs may next come round. IAPT was sold
+not only as a means by which to “cure” half of people experiencing
+common mental health problems, but also to produce the largest dataset
+on wellbeing in history. However, committing to such reductive
+rationalism leaves you nowhere when your numbers don’t even add up:
+relapse rates following [IAPT treatment are over
+50%](https://www.sciencedirect.com/science/article/pii/S0005796717300840?dgcid=raven_sd_via_email),
+and (ironically given what was a key selling point of IAPT in the
+initial cost-benefit analysis) [as few as 5% that complete treatment
+return to
+work.](http://www.cost-ofliving.net/guidelines-for-depression-more-gourmet-nights-from-nice/)
 
-By contrast, with high labour productivity, high living standards and
-ecological constraints, we face the problem of how to allocate output
-without giving rise to unquenchable demands for paid employment. As a
-result, a shift towards non-labour income becomes macroeconomically
-necessary. Meeting particular needs comes first, in my view, but
-something like a UBI becomes increasingly desirable, and even hard to
-avoid. So the post-work vision of UBI in a highly automated communist
-economy, in which little work needs to be paid for, also makes sense.
-Vitally, both visions are ones of full employment, in the sense that we
-each get as much paid work as we want.
+Any forthcoming Labour government, alongside restoring NHS funding and
+ending privatisation, needs to seriously grapple with the actual nature
+of mental health treatment. A first step will involve listening to the
+demands and needs of the public, as the Labour Party has in so many
+other areas of policy recently. However recent evidence suggests Labour
+is still wedded to an overly data driven approach to treatment. ‘For the
+many not the few’ contained a [pledge to ask NICE to evaluate the
+potential for increasing the range of evidence-based psychological
+therapies on
+offer](https://labour.org.uk/wp-content/uploads/2017/10/labour-manifesto-2017.pdf#page=73).
+This would sound promising if evaluating the potential to increase the
+range of therapies on offer wasn’t so far removed from actually calling
+for them to be increased. It appears even less promising given this is
+something NICE already systematically does, having [published a draft on
+its updated guidelines for depression last
+July](http://www.cost-ofliving.net/old-wine-in-new-bottles-on-the-new-nice-guidelines-for-depression/).
+One option put forward is the grim possibility of group CBT through
+IAPT, but this suggestion isn’t surprising, as the paradigm through
+which NICE evaluates its evidence is [overly-reliant on medicalised
+models of mental health that serve to minimise patient preference and
+need](http://www.cost-ofliving.net/guidelines-for-depression-more-gourmet-nights-from-nice/),
+as well as their external context and circumstances. We may
+conceptualise our distress as an illness, the result of trauma, or
+social factors, but a guiding principle for treatment should one that
+best validates our lived experience, and however we choose to to
+understand it.
 
-But are we really still talking about UBI at this point? The same
-mechanisms can be discussed with reference to basic service provision or
-systems of rationing to meet basic needs; making UBI the theme just
-situates the discussion within debates on automation and the potential
-outcomes of capitalism’s changing technological base. It is also clear
-that a post-capitalist “UBI” is functionally completely different from a
-capitalist one. So does a UBI make sense in a capitalist economy, highly
-automated or otherwise?
+Nothing about us without us
+---------------------------
 
-The limits of UBI within capitalism
------------------------------------
-
-The question for proponents of UBI as a progressive measure within
-capitalism is whether it can really be high enough to provide a
-widespread alternative to wage labour. It seems the answer is “no”.
-
-There are circumstances in which a modest UBI could increase labour
-market participation, but these are limited. More generally, a rising
-UBI in a capitalist economy will decrease labour participation and
-unemployment, with predictable effects. Sooner or later the labour
-market will grow “tight” and the bargaining power of labour stronger.
-Inflation is likely to rise as firms try to pass on higher labour costs.
-Ultimately, without state intervention, the result must be a capital
-strike: investment will collapse as profit rates fall, regenerating
-unemployment and returning labour to its former weakness.
-
-This is the point where the state usually intervenes, in the guise of
-fighting inflation. If the state had just raised the level of UBI, then
-the obvious inflation-fighting response would be to lower the UBI again,
-forcing people back onto the jobs market and undercutting wage demands.
-The possibility of a UBI in a capitalist economy is conditional on it
-being low enough *not* to provide a viable alternative to wage labour
-for most people.
-
-For the same reason, UBI *within* capitalism is quite likely to mean the
-redistribution of income from higher- to lower-paid workers, rather than
-taking capital income and redistributing it to labour. There may be
-interesting possibilities to tap rental income flows like land rents and
-speculative capital gains, but the overall scope for sustainably
-reducing profit rates to pay for a UBI must be limited.
-
-Moreover, a modest UBI that failed to provide a viable alternative to
-paid employment might actually increase profit rates. This might be the
-case if a UBI was effectively funded at the expense of higher-paid
-labour, whilst also facilitating lower pay and more precarious
-conditions for many workers. In this case, capital would be better off,
-whereas workers as a whole would be worse off. A UBI could become part
-of a package to create a “business friendly environment”: business might
-still be forced to pay some workers well, but some of that excessive pay
-could be recovered through taxation to subsidize low pay and
-“flexibility” for others.
-
-What difference does automation make?
--------------------------------------
-
-In a sense, automation could change all this, but in another sense—and
-this is where the LTV is crucial—it would make no difference at all. The
-idea behind the appeal to automation is that labour productivity will
-become so high that output can simultaneously fund a generous UBI, high
-wages and plentiful profit. Hence, no one would be compelled to work,
-enough people would still be willing to sell their time to capitalist
-firms, and entrepreneurs will still want to invest, all at the same
-time. The capitalist system of exploitation remains intact, but we all
-get to live a good life anyway.
-
-There is an extensive debate about how likely this actually is, given
-recent trends of slowing productivity growth. We must also consider the
-capacity of capital to find non-utility enhancing ways to absorb surplus
-and create work through zero-sum competitive games, such as in
-marketing, or just through the expansion of corporate bureaucracies.
-However, even assuming the promise of automation is fulfilled, this
-vision raises certain questions.
-
-Firstly, it is not correct, that UBI will be necessary to create demand
-for the output of automated production. Competitive consumption by the
-capitalist class and by states could perform this function perfectly
-well. We also need to be wary of what are essentially moral appeals to
-capital, in the form of arguments that say automation will make a UBI
-necessary in order to preserve some idea of the good (but capitalist)
-society. This is utopian, unless it can be specified why capital should
-acquiesce.
-
-More fundamentally, we may ask why this future is not with us already,
-given that labour productivity has quadrupled in the post war period.
-The answer is that labour, at least for the first three decades, was
-powerful enough to maintain its share of output, resulting in rising
-living standards for workers. After that, increases in productivity were
-rerouted into supporting the endless accumulation of capital.
-
-The high-tech vision of UBI, the darling of Silicon Valley billionaires,
-would represent the historic defeat of labour. Working to achieve this
-vision would mean ensuring that workers’ standards of living do not rise
-with productivity, in order to make UBI affordable. Indeed, we could
-also make such a “full” UBI affordable now, hypothetically, just by
-drastically reducing our standard of living. It would be kind of the
-same thing.
-
-Can a modest UBI be a transformative reform?
---------------------------------------------
-
-I hope that the preceding sections have shown that UBI under capitalism
-and UBI in a post-capitalist society can’t be understood as the same
-thing. Many appealing visions of life with a UBI belong strictly in a
-post-capitalist world, because they are not compatible with capitalism’s
-functional requirement for surplus labour and accumulation.
-
-Post-work critiques of the narrowness of workerist understandings of
-value creation do not have merit, but escape from alienating work is not
-a plausible option for most under capitalism—the broadly workerist
-vision of emancipation in and through work therefore remains vital.
-Moreover, the idea that a UBI could dramatically alter the bargaining
-position of workers within capitalism, or could even cause the tables to
-be turned, is logical but not realistic. If we had the power to kill off
-capitalism with a UBI, then we would not need a UBI to do so. And until
-that point, any UBI will be strictly limited by the imperative of
-profitability.
-
-This leaves us with the question of whether a modest UBI, under
-capitalist conditions, is a transformative reform that moves us forward,
-or rather one that causes us to regress. One argument from the post-work
-side is that even a modest UBI would undermine the “work ethic” that
-provides ideological support for capitalism, whilst preparing us
-psychologically for the “[new technological
-revolution](https://www.theguardian.com/politics/2016/jun/05/john-mcdonnell-labour-universal-basic-income-welfare-benefits-compass-report)”.
-This work ethic is certainly functional for capitalism, but it is less
-clear why we should see it as a barrier to change, and it is not clear
-why a UBI as such would undermine it. A campaign for a UBI might contest
-this ideology of work (and highlight how labour has ceased to benefit
-from productivity increases), but so too can campaigns for shorter
-working times and better life-work balance.
-
-Another tactic is to present a UBI not as a welfare transfer but as a
-“dividend” from a stock of capital that is collectively created and/or
-held by society (“knowledge capital”, “social capital”, etc.). But this
-draws upon and reinforces the idea that income is a matter of right
-derived from property. As equal shareholders in public capital, it is
-implied that we are entitled to equal dividends. If this is true,
-however, then surely the owners of private capital stock have a right to
-their dividends as well?
-
-The mainstream UBI debate, of course, is really mostly about welfare
-reform. Here, its usefulness integrates claims about efficiency, the
-dignity afforded to beneficiaries, and public acceptability. For
-example, John McDonnell has linked the idea of UBI to his [experience
-with child
-benefit](https://www.independent.co.uk/news/uk/politics/labour-sets-up-working-group-to-investigate-radical-idea-of-basic-income-john-mcdonnell-reveals-a7563566.html).
-As a non-means-tested measure, child benefit was once considered a
-dubious proposal, but has since proved popular among the public.
-
-But child benefit is not like a UBI. Neither are means-tested, but child
-benefit is need-determined, not universal. The arbiter of need is the
-(bureaucratically-determined) presence of children, which is recognized
-as implying a greater household need for income. There seems to be
-widespread acceptance for means-tested progressive taxation (from each
-according to their ability!) and for need-determined benefits like child
-benefit, pensions or disability benefits (to each according to their
-need!). Acceptance is most fragile where beneficiaries’ inability to
-look after themselves is popularly called into question (the unemployed,
-“benefit scroungers”, etc.).
-
-This is a problem for any UBI scheme. As described above, the scope for
-funding it from the capital share is limited. This means it is likely to
-be largely a transfer from the better-paid to the less well-paid, and
-from those who work to those who do not. Unlike child benefit, its
-acceptability will depend on persuading people that it is good to work
-and pay taxes so that other people do not have to. This is likely to be
-a hard sell.
-
-The acceptability of child benefit rests on the perception that people
-do not have equal needs, making need-determined distribution more
-efficient more efficient than universal provision. For the same reason,
-need-determined distribution provides greater security because people
-who need a bigger cushion can get one, or because help is targeted at
-occasions of need, such as the loss of work or the advent of illness.
-Benefits that are means-tested or conditional on behavior can be
-bureaucratically wasteful and intrusive, but cases like child benefit
-show that means need be tested only once (at taxation) and that much
-needs-testing can be reduced to simple objective criteria. We also need
-to push the idea that sometimes it is better to give claimants the
-benefit of the doubt, to create a more humane and efficient welfare
-system.
-
-Finally, we need to be wary of the assertion that the assessment of need
-by the state is always suspect, and that equality of benefits is in
-principle good. From this, it is but a small step to just handing out
-equal vouchers to spend on private healthcare and education. It is but
-another small step to the idea that all means-testing is bad and tax
-should always be flat. The libertarian support for UBI is not for
-nothing, after all.
-
-Marxist debates can help us understand UBI’s alluring vision. Only by
-transcending capitalism, however, can we ever reach that vision. Until
-then, it seems destined to be a disappointment: as a welfare system, it
-is sub-optimal; ideologically, it may be, on balance, unhelpful; and as
-a potential subsidy of low-paid and precarious employment, it may even
-become regressive.
-
-More promising transformative reforms lie elsewhere. We can strengthen
-and deepen democracy. We can raise the labour share of income at the
-expense of speculative and rentier incomes through instruments such as
-land value taxation, reducing the political power of capital as a whole.
-Lastly, we can begin to foster the growth of public, worker-owned and
-similar alternative forms of ownership at the gradual expense of the
-purely capitalist sector. While a UBI scheme is likely to become
-subordinate to the requirements of the capitalist mode of production,
-such policy options can help build the foundations for socialism.
+In his 2010 book *Thrive*, Richard Layard remarked: “It is not
+reasonable to expect much activism from those who are mentally ill or
+their relatives: they are naturally reticent. It is all of us who should
+be demanding change.” Though we are still left with the deep roots that
+Layard was allowed to plant into mental health service provision,
+thankfully time has shown the folly of his and New Labour’s
+condescension and supposed benevolent managerialism. Groups like
+[Recovery in the Bin](https://recoveryinthebin.org), [Disabled People
+Against Cuts](https://dpac.uk.net/) and individuals like RF - whose
+recent High Court Case produced the ruling that changes to Personal
+Independence Payments (PIP) were [discriminatory to people with mental
+health
+problems](http://www.independent.co.uk/news/uk/home-news/disability-benefit-changes-mental-health-discrimination-high-court-ruling-mind-a8122861.html)
+- are just a few examples of the vital radicalism that can only come
+from survivors. Though largely overshadowed, the much heralded ‘For the
+many not the few’ manifesto was also accompanied by ‘[Nothing about you
+without
+you](https://labour.org.uk/wp-content/uploads/2017/10/manifesto-for-disabled-people-1.pdf)’,
+laying out Labour’s disability policies. A strong statement on Labour’s
+commitment to these issues, but also with the title, itself a rephrasing
+of the call by disability activists from at least the 1980s, containing
+the possible future pitfalls of this effort. Any future Labour
+government would do well to ensure they don’t follow the same mistakes
+as Johann Hari and others: finally hearing the calls from survivors and
+appropriating them as your own is no substitute for a movement that
+repeatedly listens to and places survivors at its core.

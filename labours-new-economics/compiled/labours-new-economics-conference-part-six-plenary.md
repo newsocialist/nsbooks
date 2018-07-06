@@ -1,5 +1,5 @@
-Labour's New Economics Conference: Part Six, Plenary Session
-============================================================
+New Economics Conference: Plenary Session
+=========================================
 
 **[Tom Gann](https://twitter.com/Tom_Gann)**
 
@@ -85,7 +85,7 @@ impulses”. In contrast to this Williams insists on the complexity of
 socialist democracy, both in terms of the questions that have to be
 addressed and as a kind of aesthetic pleasure, we must realise “how
 marvellously active, complex and mobile a socialist democracy could now
-quite realistically become”.[^chapter-21-1]
+quite realistically become”.[^chapter-13-1]
 
 Sgouras then discussed the struggles against and within a legal process
 that functions to destroy the productive base of society, particularly
@@ -158,7 +158,7 @@ corporatist economism in the moral crisis involving the move from
 > simply industrial organizations with no other interests, each union
 > committing to its own sphere, and the Labour Party simply an
 > alternative government in the present system—the country needs an
-> effective opposition”.[^chapter-21-2]
+> effective opposition”.[^chapter-13-2]
 
 Here, what Wainwright is identifying in Corbyn and McDonnell, represents
 a significant break with labourism, albeit one that has always had a
@@ -219,8 +219,8 @@ discussion of the Preston Model, its crucial role in ensuring the
 relocalisation of resources in cities against their leakage out through
 and for the power of international capital.
 
-[^chapter-21-1]: Raymond Williams, Politics and Letters: Interviews with
+[^chapter-13-1]: Raymond Williams, Politics and Letters: Interviews with
     New Left Review, (London: Verso, 2015), p. 431, 435.
 
-[^chapter-21-2]: Raymond Williams, The Long Revolution, (Harmondsworth,
+[^chapter-13-2]: Raymond Williams, The Long Revolution, (Harmondsworth,
     Pelican: 1965), pp. 328-9.

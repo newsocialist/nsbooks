@@ -14,11 +14,11 @@ be insufficient for achieving socially useful outcomes.
 
 Here, I will argue that we should embrace national planning of
 electricity through centralised ownership. This a response to Labour's
-manifesto which suggest that the electricity market[^chapter-3-1] should
-be reorganised as a decentralised system with partial public ownership.
-Unfortunately this fails to respond to the democratic and technical
-shortcomings which Margaret Thatcher's specific method of privatising
-electricity created.
+manifesto which suggest that the electricity market[^chapter-18-1]
+should be reorganised as a decentralised system with partial public
+ownership. Unfortunately this fails to respond to the democratic and
+technical shortcomings which Margaret Thatcher's specific method of
+privatising electricity created.
 
 Nationalisation and Privatisation
 ---------------------------------
@@ -401,7 +401,7 @@ developing an intelligent nationalisation policy which can achieve
 socialist outcomes, even if the paraphernalia of localised 'democratic'
 forms of ownership are not always used.
 
-[^chapter-3-1]: While electricity only makes up 20% of the UK’s energy
+[^chapter-18-1]: While electricity only makes up 20% of the UK’s energy
     use, electrifying the remaining 80% will form a key part of
     addressing climate change, so I will use the terms interchangeably
     throughout this article and have chosen not to look at gas and
