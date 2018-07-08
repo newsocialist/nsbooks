@@ -188,16 +188,18 @@ class PdfWriter
 
     `pandoc -H ../includes/header.tex \
         -V subparagraph \
-        -V urlcolor=black \
+        -V urlcolor=LightSlateGrey \
         -V mainfont=Merriweather \
         -V sansfont=Lato \
-        -V fontsize=14pt \
+        -V fontsize=13pt \
         -V linkcolor=LightSlateGrey \
         -V linestretch=1.1 \
         -V documentclass=extreport \
         -V geometry:a4paper \
         --top-level-division=chapter \
         --latex-engine=xelatex \
+        --toc \
+        --toc-depth=1 \
         -o #{file} \
         #{@book.chapters.map(&:compiled_path).join ' '}`
   end

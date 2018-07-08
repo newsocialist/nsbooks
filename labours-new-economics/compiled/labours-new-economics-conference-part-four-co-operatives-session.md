@@ -3,22 +3,6 @@ New Economics Conference: Co-Operatives Session
 
 **[Tom Gann](https://twitter.com/Tom_Gann)**
 
-*This is the fourth part of our write-up and analysis of Labour's [New
-Economics
-Conference](https://labour.org.uk/issues/campaigns/alternative-models-ownership-conference/)
-on alternative models of ownership. The "Alternative Models of
-Ownership" report is available
-[here](https://labour.org.uk/manifesto/manifesto-resources/), and our
-analysis of the report
-[here](https://newsocialist.org.uk/labours-alternative-models-of-ownership-report/).
-This part focuses on the “Doubling the co-op sector: why and how”
-breakout session. You can find our recap of the introductory session
-[here](/labours-new-economics-conference-part-one-introductory-session/),
-the digital breakout session
-[here](/labours-new-economics-conference-part-two-digital-session/) and
-the housing session
-[here](https://newsocialist.org.uk/labours-new-economics-conference-part-three-housing-session/).*
-
 Claire McCarthy, The Co-Operative Party
 ---------------------------------------
 

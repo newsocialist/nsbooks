@@ -1,5 +1,3 @@
-_This is the first part of our write-up and analysis of Labour's [New Economics Conference](https://labour.org.uk/issues/campaigns/alternative-models-ownership-conference/) on alternative models of ownership. The "Alternative Models of Ownership" report is available [here](https://labour.org.uk/manifesto/manifesto-resources/), and our analysis of the report [here](https://newsocialist.org.uk/labours-alternative-models-of-ownership-report/)._
-
 ## Gareth Thomas 
 
 Thomas emphasised, in particular, John McDonnell’s long record of interest in the matters to be discussed, drawing on his role at the GLC, mentioning in particular his role in empowering of local communities to control their lives in the case of Coin Street. It’s crucial to note, despite the efforts to portray McDonnell as an Old Left dinosaur, his long, consistent record of support for and learning from social movement struggles, grassroots community organisations, including those outside the traditional working class-party relation and his openness to new ideas, social forces and modern democratic struggles.

@@ -35,9 +35,9 @@ a.text-color {
 }
 .title, h1.main { text-align: center; }
 .author { text-align: center; font-size: 1em; line-height: 1.3em; margin: 0; padding: 0; }
-.publisher { text-align: center; font-size: 0.75em; margin: 1em 0 0; padding: 0; }
-.date { text-align: center; font-size: 0.75em; margin: 0; padding: 0; }
-.rights { text-align: center; font-size: 0.75em; margin: 0; padding: 0; }
+.publisher { text-align: center; font-size: 0.75em; line-height: 1.2em; margin: 1em 0 0; padding: 0; }
+.date { text-align: center; font-size: 0.75em; line-height: 1.2em; margin: 0; padding: 0; }
+.rights { text-align: center; font-size: 0.75em; line-height: 1.2em; margin: 0; padding: 0; }
 .toc { padding: 0; margin-left: 2em; }
 .toc li { list-style-type: number; margin: 0 0 1em 0; padding: 0; }
 blockquote { font-style: italic; margin-top: 1em; color: #555; }

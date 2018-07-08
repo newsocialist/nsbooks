@@ -3,28 +3,6 @@ New Economics Conference: Jeremy Corbyn's Speech
 
 **[Tom Gann](https://twitter.com/Tom_Gann)**
 
-*This is the seventh (and final) part of our write-up and analysis of
-Labour's [New Economics
-Conference](https://labour.org.uk/issues/campaigns/alternative-models-ownership-conference/)
-on alternative models of ownership. The "Alternative Models of
-Ownership" report is available
-[here](https://labour.org.uk/manifesto/manifesto-resources/), and our
-analysis of the report
-[here](https://newsocialist.org.uk/labours-alternative-models-of-ownership-report/).
-This part focuses on Jeremy Corbyn's closing address. You can find our
-recap of the introductory session
-[here](/labours-new-economics-conference-part-one-introductory-session/),
-the digital breakout session
-[here](/labours-new-economics-conference-part-two-digital-session/) the
-housing session
-[here](https://newsocialist.org.uk/labours-new-economics-conference-part-three-housing-session/),
-the Co-op session
-[here](https://newsocialist.org.uk/labours-new-economics-conference-part-four-co-operatives-session/),
-the local democratic economic strategies session
-[here](https://newsocialist.org.uk/labours-new-economics-conference-part-five-local-democratic-economic-strategies/)
-and the plenary session
-[here](https://newsocialist.org.uk/labours-new-economics-conference-part-six-plenary/)*
-
 *You can read Jeremy Corbyn's speech
 [here](https://labourlist.org/2018/02/a-catapult-into-21st-century-public-ownership-corbyn-speech-on-new-economics/).*
 

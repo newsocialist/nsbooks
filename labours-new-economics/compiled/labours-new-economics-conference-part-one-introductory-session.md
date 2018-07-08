@@ -3,15 +3,6 @@ New Economics Conference: Introductory Session
 
 **[Tom Gann](https://twitter.com/Tom_Gann)**
 
-*This is the first part of our write-up and analysis of Labour's [New
-Economics
-Conference](https://labour.org.uk/issues/campaigns/alternative-models-ownership-conference/)
-on alternative models of ownership. The "Alternative Models of
-Ownership" report is available
-[here](https://labour.org.uk/manifesto/manifesto-resources/), and our
-analysis of the report
-[here](https://newsocialist.org.uk/labours-alternative-models-of-ownership-report/).*
-
 Gareth Thomas
 -------------
 

@@ -3,19 +3,6 @@ New Economics Conference: Digital Session
 
 **[Wendy Liu](https://twitter.com/dellsystem)**
 
-*This is the second part of our write-up and analysis of Labour's [New
-Economics
-Conference](https://labour.org.uk/issues/campaigns/alternative-models-ownership-conference/)
-on alternative models of ownership. The "Alternative Models of
-Ownership" report is available
-[here](https://labour.org.uk/manifesto/manifesto-resources/), and our
-analysis of the report
-[here](https://newsocialist.org.uk/labours-alternative-models-of-ownership-report/).
-This part focuses on the “21st century challenges: platform co-ops and
-the digital era” breakout session. You can find our recap of the
-introductory session
-[here](/labours-new-economics-conference-part-one-introductory-session/).*
-
 It can be frustrating to read the mainstream discourse on the challenges
 posed by technology platforms. It feels like we’re finally at a point
 where everyone recognises that tech companies are [not unambiguously
